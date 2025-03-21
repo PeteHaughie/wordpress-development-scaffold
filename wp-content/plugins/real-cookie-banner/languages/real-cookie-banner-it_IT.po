@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Utilizzo su base legale di"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Interesse legittimo"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Conformità a un obbligo legale"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Consenso"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Abbiamo riconosciuto che sei un crawler/bot. Solo le persone fisiche devono acconsentire ai cookie e al trattamento dei dati personali. Pertanto, il link non ha alcuna funzione per voi."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Definizione di cookie tecnico"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Utilizza i cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Aggiornamento dei cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Utilizza informazioni simili ai cookie (LocalStorage, SessionStorage, IndexDB, ecc.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Host"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Durata"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "secondo(i)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "minuto/i"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "ora(e)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "giorno/i"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "mese/i"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "anno/i"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Scopo"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Storia delle tue impostazioni di privacy"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Mostra il consenso di"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Non ancora acconsentito"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Chiudere"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Chiudere senza salvare"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Fornitore"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Politica sulla privacy"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "e %d più"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Elaborazione dati USA"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Sì"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "No"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Nessuno"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Nessuna licenza attivata - non per uso produttivo!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Licenza del prodotto non per uso di produzione!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " e "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Nessuna scadenza"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Inoltre, l'utente acconsente al trasferimento dei dati ai partner in base allo standard TCF per i seguenti scopi:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Elenco dei fornitori"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Fornitori"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Mostra di più"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Nascondi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Trattamento dei dati sulla base giuridica di:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Non ci sono richieste di venditori in base a questa base giuridica."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Trattamento dei dati non standardizzato"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Alcuni servizi impostano cookie e/o elaborano dati personali senza rispettare gli standard di comunicazione del consenso. Questi servizi si dividono in diversi gruppi. I cosiddetti \"servizi essenziali\" sono utilizzati in base al legittimo interesse e non possono essere rifiutati (può essere necessaria un'obiezione via e-mail o lettera in conformità con l'informativa sulla privacy), mentre tutti gli altri servizi sono utilizzati solo dopo aver dato il consenso."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Trattamento dei dati standardizzato secondo il TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Il Transparency and Consent Framework (TCF) è uno standard per ottenere un consenso coerente per il trattamento dei dati personali e l'impostazione dei cookie. Ciò dovrebbe consentire a tutte le parti della catena digitale (pubblicitaria) di garantire l'impostazione, l'elaborazione e l'archiviazione dei dati e dei cookie in conformità con il GDPR e la direttiva ePrivacy."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Finalità"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Scopi speciali"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Caratteristiche speciali"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Le finalità descrivono per quale scopo i fornitori possono impostare i cookie ed elaborare i dati personali. Le finalità sono preselezionate se esiste un interesse legittimo per il trattamento dei dati. Per tutti gli altri scopi, i dati saranno trattati solo con il consenso esplicito."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Le finalità speciali per l'impostazione dei cookie e il trattamento dei dati personali da parte dei nostri fornitori descrivono scopi per i quali abbiamo un interesse legittimo che non può essere rifiutato. Ad esempio, abbiamo bisogno di elaborare i dati per prevenire le frodi."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Le funzioni per il trattamento dei dati personali descrivono le modalità di utilizzo dei dati per il raggiungimento di uno o più scopi. Le funzioni non possono essere escluse, ma nella sezione \"Finalità\" è possibile selezionare o deselezionare le finalità che portano all'utilizzo delle funzioni. Qualsiasi finalità può portare all'utilizzo delle funzioni."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Le funzioni speciali per il trattamento dei dati personali descrivono come i dati vengono utilizzati per soddisfare una o più finalità in modo profondo. I dati personali saranno trattati in questo modo solo con il consenso esplicito."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Salvaguardia appropriata"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Clausole contrattuali standard"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Vai alle scelte di consenso"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "secondo"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "minuto"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "ora"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "giorno"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "mese"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "anno"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "secondoi"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "minutoi"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "orae"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "giornoi"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "mesi"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "annoi"

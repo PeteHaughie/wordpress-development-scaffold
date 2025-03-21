@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Gebruik op rechtsgrondslag van"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Gewettigd belang"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Naleving van een wettelijke verplichting"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Toestemming"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Wij hebben herkend dat u een crawler/bot bent. Alleen natuurlijke personen moeten toestemming geven voor cookies en de verwerking van persoonsgegevens. Daarom heeft de link geen functie voor u."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Definitie van technische cookies"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Gebruikt cookies"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Vernieuwen van cookies"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Gebruikt cookie-achtige informatie (LocalStorage, SessionStorage, IndexDB, enz.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Host"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Duur"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "seconde(n)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "minuut(en)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "uur(en)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "dag(en)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "maand(en)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "jaartal(len)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Type"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Doel"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Geschiedenis van uw privacy-instellingen"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Toestemming tonen van"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Nog niet ingestemd met"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Sluiten"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Sluiten zonder op te slaan"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Aanbieder"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "en %d meer"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "VS gegevensverwerking"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Geen"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Geen"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Geen licentie geactiveerd - niet voor productie gebruik!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Product licentie niet voor productie gebruik!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " en "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Geen vervaldatum"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Bovendien stemt u in met de overdracht van gegevens aan partners volgens de TCF-norm voor de volgende doeleinden:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Lijst van leveranciers"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Verkopers"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Meer tonen"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Verbergen"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Gegevensverwerking op de wettelijke basis van:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Geen verzoeken van verkopers doeleinden onder deze rechtsgrondslag."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Niet-gestandaardiseerde gegevensverwerking"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Sommige diensten plaatsen cookies en/of verwerken persoonsgegevens zonder te voldoen aan de normen voor communicatie met toestemming. Deze diensten zijn onderverdeeld in verschillende groepen. Zogenaamde \"essentiële diensten\" worden gebruikt op basis van gerechtvaardigd belang en kunnen niet worden uitgeschakeld (een bezwaar moet eventueel per e-mail of brief worden ingediend overeenkomstig het privacybeleid), terwijl alle andere diensten pas worden gebruikt nadat toestemming is gegeven."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Gegevensverwerking gestandaardiseerd volgens TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Het Transparantie en Toestemmingsraamwerk (TCF) is een standaard voor het verkrijgen van consistente toestemming voor het verwerken van persoonsgegevens en het plaatsen van cookies. Hiermee moeten alle partijen in de digitale (reclame)keten ervoor kunnen zorgen dat zij gegevens en cookies plaatsen, verwerken en opslaan in overeenstemming met de GDPR en de ePrivacyrichtlijn."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Doeleinden"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Speciale doeleinden"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Functies"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Speciale kenmerken"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Doeleinden beschrijven voor welk doel welke aanbieders cookies mogen plaatsen en persoonsgegevens mogen verwerken. Doeleinden worden vooraf gekozen indien er een gerechtvaardigd belang is voor de verwerking van de gegevens. Voor alle andere doeleinden worden gegevens alleen verwerkt met uitdrukkelijke toestemming."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Speciale doeleinden voor het plaatsen van cookies en het verwerken van persoonsgegevens door onze leveranciers beschrijven doeleinden waarvoor wij een legitiem belang hebben dat niet kan worden afgewezen. Wij moeten bijvoorbeeld gegevens verwerken om fraude te voorkomen."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Functies voor de verwerking van persoonsgegevens beschrijven hoe gegevens worden gebruikt om te voldoen aan een of meer doeleinden. Kenmerken kunnen niet worden geweigerd, maar in de rubriek \"Doeleinden\" kunnen de doeleinden die tot het gebruik van kenmerken leiden, worden geselecteerd of gedeselecteerd. Elk doel kan leiden tot het gebruik van kenmerken."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Speciale kenmerken voor de verwerking van persoonsgegevens beschrijven hoe gegevens worden gebruikt om op een diepgaande manier te voldoen aan een of meer doeleinden. Persoonsgegevens worden op deze manier alleen verwerkt met uitdrukkelijke toestemming."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Passende vrijwaringsmaatregelen"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Standaard contractuele clausules"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Ga naar toestemmingskeuzes"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "seconde"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "minuut"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "uur"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "dag"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "maand"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "jaartal"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "seconden"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "minuuten"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "uuren"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "dagen"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "maanden"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "jaartallen"

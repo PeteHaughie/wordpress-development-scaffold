@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Използване на правно основание на"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Легитимен интерес"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Спазване на правно задължение"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Съгласие"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Разбрахме, че сте пълзящ/бот. Само физически лица трябва да дадат съгласието си за бисквитките и обработката на лични данни. Поради това връзката няма функция за вас."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Техническо определение за бисквитки"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Използва бисквитки"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Обновяване на бисквитките"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Използва информация, подобна на бисквитките (LocalStorage, SessionStorage, IndexDB и др.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Домакин"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Продължителност"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "секунда(и)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "минута(и)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "час(и)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "ден(и)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "месец(и)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "година(и)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Тип"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Цел"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "История на вашите настройки за поверителност"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Показване на съгласие от"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Все още не е дадено съгласие"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Затвори"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Затваряне без запазване"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Доставчик"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Политика за поверителност"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "и още %d"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Обработка на данни в САЩ"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Да"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Не"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Няма"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Няма активиран лиценз - не е за производствена употреба!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Лицензът на продукта не е за производствена употреба!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " и "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Без срок на валидност"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Освен това давате съгласието си за предаване на данни на партньори по стандарта TCF за следните цели:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Списък с доставчици"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Доставчици"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Покажи повече"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Скрий"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Обработка на данни на правното основание:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Няма искания от доставчици за целите на това правно основание."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Нестандартизирана обработка на данни"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Някои услуги задават бисквитки и/или обработват лични данни, без да спазват стандартите за комуникация за съгласие. Тези услуги са разделени на няколко групи. Така наречените \"основни услуги\" се използват въз основа на легитимен интерес и не могат да бъдат отказани (може да се наложи да се направи възражение по имейл или с писмо в съответствие с политиката за поверителност), докато всички останали услуги се използват само след дадено съгласие."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Обработка на данни, стандартизирана съгласно TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Рамката за прозрачност и съгласие (TCF) е стандарт за получаване на последователно съгласие за обработка на лични данни и задаване на бисквитки. Това трябва да даде възможност на всички участници в цифровата (рекламната) верига да гарантират, че задават, обработват и съхраняват данни и бисквитки в съответствие с ОРЗД и Директивата за правото на неприкосновеност на личния живот и електронни комуникации."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Цели"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Специални цели"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Функции"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Специални функции"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Целите описват с каква цел кои доставчици могат да задават \"бисквитки\" и да обработват лични данни. Целите се избират предварително, ако има законен интерес за обработката на данните му. За всички останали цели данните ще се обработват само с изрично съгласие."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Специалните цели за задаване на бисквитки и обработване на лични данни от нашите доставчици описват целите, за които имаме легитимен интерес, който не може да бъде отхвърлен. Например, трябва да обработваме данни, за да предотвратим измами."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Характеристиките за обработване на лични данни описват как данните се използват за изпълнение на една или повече цели. Функциите не могат да бъдат отхвърлени, но в раздела \"Цели\" целите, които водят до използването на функциите, могат да бъдат избрани или отменени. Всяка цел може да доведе до използването на функции."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Специалните функции за обработване на лични данни описват как данните се използват за изпълнение на една или повече цели по задълбочен начин. Личните данни ще бъдат обработвани по този начин само с изрично съгласие."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Подходяща предпазна мярка"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Стандартни договорни клаузи"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Преминаване към избор на съгласие"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "секундаи"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "минутаи"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "часи"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "дени"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "месеци"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "годинаи"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "секундаи"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "минутаи"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "часи"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "дени"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "месеци"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "годинаи"
+

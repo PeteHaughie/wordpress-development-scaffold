@@ -1,0 +1,4618 @@
+# Copyright (C) 2023 devowl.io
+# This file is distributed under the same license as the Real Cookie Banner plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: n/a\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: 2023-10-18 11:53+0000\n"
+"Last-Translator: Jan Karres <jan.karres@devowl.io>\n"
+"Language-Team: German (informal) <https://translate.devowl.io/projects/"
+"wordpress-real-cookie-banner-backend-php/develop/de@informal/>\n"
+"Language: de_CH_informal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. Plugin Name of the plugin
+msgid "Real Cookie Banner"
+msgstr "Real Cookie Banner"
+
+#. Plugin URI of the plugin
+#: inc/view/Banner.php:431
+msgid "https://devowl.io/wordpress-real-cookie-banner/"
+msgstr "https://devowl.io/de/wordpress-real-cookie-banner/"
+
+#. Description of the plugin
+msgid ""
+"Obtain GDPR (DSGVO) and ePrivacy (EU cookie law) compliant opt-in consent. "
+"Find cookies and fill all legal information in your cookie banner. More than "
+"just a cookie notice!"
+msgstr ""
+"Hole DSGVO (GDPR) und ePrivacy (EU Cookie Law) konforme Opt-in Cookie "
+"Einwilligung ein. Finde Cookies und trage alle rechtlichen Informationen in "
+"deinen Cookie Banner ein. Mehr als nur ein Cookie-Hinweis!"
+
+#. Author of the plugin
+msgid "devowl.io"
+msgstr "devowl.io"
+
+#. Author URI of the plugin
+msgid "https://devowl.io"
+msgstr "https://devowl.io/de/"
+
+#: inc/AdInitiator.php:34
+msgid "Start configuration"
+msgstr "Einrichtung beginnen"
+
+#: inc/AdInitiator.php:76
+msgid "key-features/presets.gif"
+msgstr "key-features/de/presets.gif"
+
+#: inc/AdInitiator.php:77
+msgid "Consent Management"
+msgstr "Consent Management"
+
+#: inc/AdInitiator.php:78
+msgid ""
+"You can use Real Cookie Banner to store all technical and legal information "
+"about services and cookies to obtain informed consent. You can use 100+ "
+"service templates and 60+ content blocker templates to quickly and securely "
+"provide all the information you need."
+msgstr ""
+"Du kannst mit Real Cookie Banner alle technischen und rechtlichen "
+"Informationen zu Services und Cookies hinterlegen, um eine informierte "
+"Einwilligung einzuholen. Dabei helfen dir 100+ Service Vorlagen und 60+ "
+"Content Blocker Vorlagen, um schnell und sicher alle Angaben zu hinterlegen."
+
+#: inc/AdInitiator.php:84
+msgid "key-features/content-blocker.gif"
+msgstr "key-features/de/content-blocker.gif"
+
+#: inc/AdInitiator.php:85 inc/import/ImportBlocker.php:128
+#: inc/import/ImportBlocker.php:192 inc/settings/Blocker.php:154
+#: inc/view/ConfigPage.php:297 inc/view/customize/banner/Texts.php:313
+#: inc/view/UpdateNotice.php:81
+msgid "Content Blocker"
+msgstr "Content Blocker"
+
+#: inc/AdInitiator.php:86
+msgid ""
+"Themes, plugins and co. usually load scripts, styles and content that "
+"transfer personal data and set cookies before you have the consent of your "
+"visitors. You usually cannot control this by yourself. Content blockers make "
+"sure that these features are only executed after you have obtained consent."
+msgstr ""
+"Themes, Plugins und Co. laden Scripte, Styles und Inhalte, die "
+"personenbezogene Daten übertragen und Cookies setzen, bevor du die "
+"Einwilligung von deinen Besuchern hast. Das kannst du meist nicht selbst "
+"steuern. Content Blocker stellen sicher, dass diese Funktionen erst nach der "
+"Einwilligung ausgeführt werden."
+
+#: inc/AdInitiator.php:92
+msgid "key-features/customize-presets.gif"
+msgstr "key-features/de/customize-presets.gif"
+
+#: inc/AdInitiator.php:93
+msgid "Customize design"
+msgstr "Design anpassen"
+
+#: inc/AdInitiator.php:94
+msgid ""
+"You can design the cookie banner according to your wishes. 20+ design "
+"templates and 200+ options give you the flexibility to customize the cookie "
+"banner perfectly to your needs. From colors and effects to texts, you can "
+"unleash your creativity! All changes are displayed in a live preview."
+msgstr ""
+"Du kannst das Cookie Banner nach deinen Wünschen gestalten. 20+ Design-"
+"Vorlagen und 200+ Optionen geben dir die Flexibilität, das Cookie Banner "
+"perfekt an deine Bedürfnisse anzupassen. Von Farben über Effekte bis hin zu "
+"Texten kannst du dich kreativ austoben. Alle Änderungen werden in einer Live-"
+"Vorschau angezeigt."
+
+#: inc/AdInitiator.php:100
+msgid "key-features/guided-configuration.gif"
+msgstr "key-features/de/guided-configuration.gif"
+
+#: inc/AdInitiator.php:101
+msgid "Guided configuration"
+msgstr "Geführte Konfiguration"
+
+#: inc/AdInitiator.php:102
+msgid ""
+"After installation, the checklist will guide you through all steps to be "
+"able to set up Real Cookie Banner in a legally compliant manner. We also "
+"explain the legal basis of features and the legal consequences if you change "
+"settings. So, you can quickly and safely set up your cookie banner!"
+msgstr ""
+"Die Checkliste führt dich nach der Installation durch alle Schritte, um Real "
+"Cookie Banner rechtssicher einrichten zu können. Außerdem erklären wir dir "
+"die Rechtsgrundlagen von Features und rechtliche Auswirkungen, wenn du "
+"Einstellungen veränderst. So kannst du schnell und sicher dein Cookie Banner "
+"einrichten!"
+
+#: inc/AdInitiator.php:108
+msgid "key-features/list-of-consents.gif"
+msgstr "key-features/de/list-of-consents.gif"
+
+#: inc/AdInitiator.php:109
+msgid "Documentation of consents"
+msgstr "Dokumentation von Einwilligungen"
+
+#: inc/AdInitiator.php:110
+msgid ""
+"According to the GDPR, you have to prove that a visitor has consented to "
+"cookies and processing of personal data if he or she doubts this. We "
+"document consent completely and make it possible to trace the origin of the "
+"consent afterwards. You are on the safe side even in the worst case!"
+msgstr ""
+"Gemäß der DSGVO musst du nachweisen, dass ein Besucher in Cookies und die "
+"Verarbeitung personenbezogener Daten eingewilligt hat, wenn er dies "
+"anzweifelt. Wir dokumentieren die Einwilligung vollständig und ermöglichen "
+"es, die Entstehung der Einwilligung im Nachhinein nachzuvollziehen. So bist "
+"du auch im Fall der Fälle auf der sicheren Seite!"
+
+#: inc/AdInitiator.php:116
+msgid "key-features/native-menu.gif"
+msgstr "key-features/de/native-menu.gif"
+
+#: inc/AdInitiator.php:117
+msgid "Native in WordPress"
+msgstr "Nativ in WordPress"
+
+#: inc/AdInitiator.php:118
+msgid ""
+"Real Cookie Banner is a cookie plugin specially designed for WordPress. It "
+"is fully installed in your WordPress as a native plugin. All consents are "
+"processed and stored on your server. Nothing is downloaded from a cloud in "
+"your visitor's browser, which avoids further legal issues."
+msgstr ""
+"Real Cookie Banner ist ein speziell für WordPress entwickeltes Cookie-"
+"Plugin. Es wird vollständig in deinem WordPress als natives Plugin "
+"installiert. Alle Einwilligungen werden auf deinem Server verarbeitet und "
+"gespeichert. Nichts wird aus einer Cloud im Browser deines Besuchers "
+"heruntergeladen, wodurch weitere rechtliche Probleme vermieden werden."
+
+#: inc/Assets.php:507
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Geeignete Garantien"
+
+#: inc/Assets.php:508
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Standardvertragsklauseln"
+
+#: inc/Assets.php:509
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Verwendung auf gesetzlicher Grundlage von"
+
+#: inc/Assets.php:512
+msgctxt "legal-text"
+msgid "Art. 49 (1) lit. a GDPR"
+msgstr "Art. 49 Abs. 1 lit. a DSGVO"
+
+#: inc/Assets.php:519
+msgctxt "legal-text"
+msgid "Art. 17 (1) lit. a DSG (Switzerland)"
+msgstr "Art. 17 Abs. 1 lit. a DSG (Schweiz)"
+
+#: inc/Assets.php:526
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Berechtigtes Interesse"
+
+#: inc/Assets.php:527
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Erfüllung einer rechtlichen Verpflichtung"
+
+#: inc/Assets.php:528
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Einwilligung"
+
+#: inc/Assets.php:529
+msgctxt "legal-text"
+msgid ""
+"We have recognized that you are a crawler/bot. Only natural persons must "
+"consent to cookies and processing of personal data. Therefore, the link has "
+"no function for you."
+msgstr ""
+"Wir haben erkannt, dass du ein Crawler/Bot bist. Nur natürliche Personen "
+"dürfen in Cookies und die Verarbeitung von personenbezogenen Daten "
+"einwilligen. Daher hat der Link für dich keine Funktion."
+
+#: inc/Assets.php:534
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Technische Cookie-Definition"
+
+#: inc/Assets.php:535
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Verwendete Cookies"
+
+#: inc/Assets.php:536
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Cookie-Erneuerung"
+
+#: inc/Assets.php:537
+msgctxt "legal-text"
+msgid ""
+"Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr ""
+"Verwendet Cookie-ähnliche Informationen (LocalStorage, SessionStorage, "
+"IndexDB, etc.)"
+
+#: inc/Assets.php:542
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Host"
+
+#: inc/Assets.php:543
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Dauer"
+
+#: inc/Assets.php:544
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Kein Ablauf"
+
+#: inc/Assets.php:545
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Typ"
+
+#: inc/Assets.php:546
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Zweck"
+
+#: inc/Assets.php:547
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Privatsphäre-Einstellungen: Historie"
+
+#: inc/Assets.php:552
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Zu Einwilligungsoptionen springen"
+
+#: inc/Assets.php:553
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Einwilligungen anzeigen vom"
+
+#: inc/Assets.php:554
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Noch nicht eingewilligt"
+
+#: inc/Assets.php:555
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Anbieter"
+
+#: inc/Assets.php:556
+msgctxt "legal-text"
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/Assets.php:557
+msgctxt "legal-text"
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/Assets.php:558
+msgctxt "legal-text"
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: inc/Assets.php:559
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#: inc/Assets.php:560 inc/settings/BannerLink.php:409
+msgctxt "legal-text"
+msgid "Legal notice"
+msgstr "Impressum"
+
+#. translators:
+#: inc/Assets.php:562
+msgctxt "legal-text"
+msgid "Data processing in unsecure third countries"
+msgstr "Datenverarbeitung in unsicheren Drittländern"
+
+#: inc/Assets.php:568
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "US-Datenverarbeitung"
+
+#: inc/Assets.php:571
+msgid "second(s)"
+msgstr "Sekunde(n)"
+
+#: inc/Assets.php:572
+msgid "minute(s)"
+msgstr "Minute(n)"
+
+#: inc/Assets.php:573
+msgid "hour(s)"
+msgstr "Stunde(n)"
+
+#: inc/Assets.php:574
+msgid "day(s)"
+msgstr "Tag(e)"
+
+#: inc/Assets.php:575
+msgid "month(s)"
+msgstr "Monat(e)"
+
+#: inc/Assets.php:576
+msgid "year(s)"
+msgstr "Jahr(e)"
+
+#: inc/Assets.php:578
+msgid "second"
+msgstr "Sekunde"
+
+#: inc/Assets.php:579
+msgid "minute"
+msgstr "Minute"
+
+#: inc/Assets.php:580
+msgid "hour"
+msgstr "Stunde"
+
+#: inc/Assets.php:581
+msgid "day"
+msgstr "Tag"
+
+#: inc/Assets.php:582
+msgid "month"
+msgstr "Monat"
+
+#: inc/Assets.php:583
+msgid "year"
+msgstr "Jahr"
+
+#: inc/Assets.php:586
+msgid "seconds"
+msgstr "Sekunden"
+
+#: inc/Assets.php:587
+msgid "minutes"
+msgstr "Minuten"
+
+#: inc/Assets.php:588
+msgid "hours"
+msgstr "Stunden"
+
+#: inc/Assets.php:589
+msgid "days"
+msgstr "Tage"
+
+#: inc/Assets.php:590
+msgid "months"
+msgstr "Monate"
+
+#: inc/Assets.php:591
+msgid "years"
+msgstr "Jahre"
+
+#: inc/Assets.php:594
+msgid "Close"
+msgstr "Schließen"
+
+#: inc/Assets.php:595
+msgid "Close without saving"
+msgstr "Schließen ohne Speichern"
+
+#: inc/Assets.php:596
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/Assets.php:597
+msgid "No"
+msgstr "Nein"
+
+#: inc/Assets.php:598
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: inc/Assets.php:599 inc/overrides/pro/Stats.php:61
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:111
+#: inc/view/customize/banner/BasicLayout.php:351
+#: inc/view/customize/banner/BasicLayout.php:371
+#: inc/view/customize/banner/Design.php:95
+msgid "None"
+msgstr "Nichts"
+
+#: inc/Assets.php:600
+msgid "No license activated - not for production use!"
+msgstr "Keine Lizenz aktiviert - kein Produktionseinsatz!"
+
+#: inc/Assets.php:601
+msgid "Product license not for production use!"
+msgstr "Produktlizenz nicht für den Produktionseinsatz!"
+
+#: inc/Assets.php:602 inc/Assets.php:635 inc/view/checklist/GetPro.php:55
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: inc/Assets.php:603
+msgid "https://devowl.io/knowledge-base/license-installation-type/"
+msgstr "https://devowl.io/de/wissensdatenbank/lizenz-installations-typ/"
+
+#. translators:
+#: inc/Assets.php:608 inc/comp/migration/DashboardTileMigrationMajor3.php:198
+msgid " and "
+msgstr " und "
+
+#: inc/comp/language/Hooks.php:87
+msgid ""
+"If you delete a service group, it will not be deleted in other languages."
+msgstr ""
+"Wenn du eine Service-Gruppe löschst, wird diese in anderen Sprachen nicht "
+"gelöscht."
+
+#: inc/comp/language/Hooks.php:91
+msgid "If you delete a service, it will not be deleted in other languages."
+msgstr ""
+"Wenn du einen Service löschst, wird dieser in anderen Sprachen nicht "
+"gelöscht."
+
+#: inc/comp/language/Hooks.php:96
+msgid "The export contains only data from the current language."
+msgstr "Der Export enthält nur Daten aus der aktuellen Sprache."
+
+#: inc/comp/language/Hooks.php:102
+msgid "Incomplete translation"
+msgstr "Unvollständige Übersetzung"
+
+#. translators:
+#: inc/comp/language/Hooks.php:105
+msgid ""
+"Real Cookie Banner is not yet fully available in your configured language "
+"(<strong>%s</strong>). However, you can translate all the untranslated texts "
+"displayed to your visitors in the cookie banner by yourself in the Real "
+"Cookie Banner settings."
+msgstr ""
+"Real Cookie Banner ist noch nicht vollständig in der von dir konfigurierten "
+"Sprache (<strong>%s</strong>) verfügbar. Du kannst jedoch alle nicht "
+"übersetzten Texte, die deinen Besuchern im Cookie Banner angezeigt werden, "
+"in den Real Cookie Banner Einstellungen selbst übersetzen."
+
+#: inc/comp/language/Hooks.php:223
+msgid "Language"
+msgstr "Sprache"
+
+#: inc/comp/migration/AbstractDashboardTileMigration.php:161
+msgid "Migration is only available in PRO version!"
+msgstr "Die Migration ist nur in der PRO-Version verfügbar!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:57
+msgid "Updated texts (German, English)"
+msgstr "Aktualisierte Texte (Deutsch, Englisch)"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:59
+msgid ""
+"We have adjusted the texts in the cookie banner and service groups (not in "
+"cookie/content blocker templates). The adjustments improve the legal "
+"security of your cookie banner, as the general purpose of the consent is now "
+"more clearly described, and we have added legal teachings. If you want to "
+"use the TCF compatibility, the previous texts are no longer permitted. You "
+"can let previous texts be overwritten by the new texts. All texts can be "
+"customized in the WordPress Customizer or in Services (Cookies). After "
+"applying the texts, be sure to verify if the new texts apply to your website!"
+msgstr ""
+"Wir haben die Texte in dem Cookie Banner und den Service-Gruppen (nicht in "
+"Cookie-/Content Blocker Vorlagen) angepasst. Die Anpassungen verbessern die "
+"Rechtssicherheit deines Cookie Banners, da der allgemeine Zweck der "
+"Einwilligung nun klarer beschrieben ist und wir Rechtsbelehrungen "
+"hinzugefügt haben. Wenn du die TCF-Kompatibilität nutzen möchtest, ist die "
+"Verwendung bisheriger Texte nicht mehr möglich. Du kannst die bisherigen "
+"Texte von den neuen Texten überschreiben lassen. Alle Texte können im "
+"WordPress Customizer oder in Services (Cookies) angepasst werden. Überprüfe "
+"nach dem Übernehmen der Texte unbedingt, ob die neuen Texte auf deine "
+"Website zutreffen!"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:65
+msgid ""
+"Before you apply the new texts, you can %1$screate an export%2$s to backup "
+"the old texts."
+msgstr ""
+"Bevor du die neuen Texte anwendest, kannst du einen %1$sExport "
+"erstellen%2$s, um die alten Texte zu sichern."
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:74
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:116
+msgid "Apply new texts"
+msgstr "Neue Texte anwenden"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:75
+msgid ""
+"Are you sure? All your current texts will be overwritten (this does not "
+"include service and content blocker texts!)."
+msgstr ""
+"Bist du dir sicher? Alle deine aktuellen Texte werden überschrieben (das "
+"gilt nicht für Service- und Content Blocker-Texte!)."
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:84
+msgid "TCF Compatibility"
+msgstr "TCF-Kompatibilität"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:85
+msgid ""
+"You can now obtain consent according to the TCF standard from IAB Europe. "
+"You need this type of consent mostly when you work with big marketers, e.g. "
+"Google Adsense, so they can be sure that you have obtained consent from your "
+"visitors. If you turn on TCF compatibility, some features of Real Cookie "
+"Banner will change so that your cookie banner is compliant with the rules of "
+"the standard."
+msgstr ""
+"Du kannst jetzt eine Einwilligung nach dem TCF-Standard von der IAB Europe "
+"einholen. Du brauchst diese Art der Einwilligung vor allem dann, wenn du mit "
+"großen Vermarktern wie Google Adsense zusammenarbeitest, damit sie "
+"sicherstellen können, dass du die Einwilligung deiner Besucher eingeholt "
+"hast. Wenn du die TCF-Kompatibilität einschaltest, ändern sich einige "
+"Funktionen von Real Cookie Banner, so dass dein Cookie Banner mit den "
+"Vorschriften des Standards konform ist."
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:90
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:105
+msgid "Already enabled"
+msgstr "Bereits aktiviert"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:90
+msgid "Enable TCF compatibility"
+msgstr "TCF-Kompatibilität aktivieren"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:93
+msgid "pro-modal/tcf-compatibility.png"
+msgstr "pro-modal/de/tcf-compatibility.png"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:98
+msgid "Geo-restriction"
+msgstr "Geo-Restriktion"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:99
+msgid ""
+"Cookie banners must be displayed only for users from certain countries. Real "
+"Cookie Banner can now detect which country your visitor comes from and "
+"depending on that decide whether to display a cookie banner. This way you "
+"don't annoy e.g. visitors from non EU countries."
+msgstr ""
+"Cookie Banner müssen nur für Nutzer aus bestimmten Ländern angezeigt werden. "
+"Real Cookie Banner kann nun erkennen, aus welchem Land dein Besucher kommt "
+"und abhängig davon entscheiden, ob ein Cookie Banner angezeigt werden soll. "
+"Auf diese Weise verärgerst du z.B. Besucher aus Nicht-EU-Ländern nicht."
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:106
+msgid "Enable Geo-restriction"
+msgstr "Geo-Restriktion aktivieren"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:109
+msgid "pro-modal/geo-restriction.png"
+msgstr "pro-modal/de/geo-restriction.png"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:114
+msgid "Standard banner design"
+msgstr "Standard Banner-Design"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:115
+msgid ""
+"We have added a new standard design for the cookie banner, which makes a "
+"more friendly and clean impression. If you are using the standard design so "
+"far, it's worth a look if the new one fits better to your website!"
+msgstr ""
+"Wir haben ein neues Standarddesign für das Cookie Banner hinzugefügt, "
+"welches freundlicher und geordneter wirkt. Wenn du aktuell das "
+"Standarddesign verwendest, lohnt es sich zu schauen, ob das neue besser zu "
+"deiner Website passt!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:120
+msgid "View new design"
+msgstr "Neues Design ansehen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:139
+msgid "NEW!"
+msgstr "NEU!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:175
+msgid "Updates in v2.0: Make your cookie banner more safe!"
+msgstr "Updates in v2.0: Mache dein Cookie Banner sicherer!"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:182
+msgid ""
+"We have released a major update with Real Cookie Banner 2.0. Find out what's "
+"new in our %1$sblog article%2$s. <strong>You should definitely take a look "
+"at the following points, as we have adjusted the behavior of the cookie "
+"banner.</strong> All changes can be optionally activated or ignored. We will "
+"not change your cookie banner fundamentally without your consent."
+msgstr ""
+"Wir haben mit Real Cookie Banner 2.0 ein großes Update veröffentlicht. Finde "
+"heraus, was neu ist in unserem %1$sBlogartikel%2$s. <strong>Die folgenden "
+"Punkte solltest du dir unbedingt ansehen, da wir das Verhalten des Cookie "
+"Banners angepasst haben.</strong> Alle Änderungen können wahlweise aktiviert "
+"oder ignoriert werden. Wir werden dein Cookie Banner ohne deine Einwilligung "
+"nicht grundlegend verändern."
+
+#: inc/comp/migration/DashboardTileMigrationMajor2.php:188
+msgid "https://devowl.io/2021/real-cookie-banner-2-0-cookie-consent/"
+msgstr "https://devowl.io/de/2021/real-cookie-banner-2-0-cookie-consent/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:95
+msgid "Legal adjustments to texts and design in cookie banner"
+msgstr "Rechtliche Anpassungen von Texten und Design im Cookie Banner"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:99
+msgid ""
+"In recent months, more clarity has been created about what consent "
+"management on websites should look like - and what it shouldn't. In "
+"particular, through the <a href=\"%1$s\" target=\"_blank\">TTDSG</a> "
+"(Telecommunications Telemedia Data Protection Act; Germany) and <a "
+"href=\"%2$s\" target=\"_blank\">Guidance of the Conference of Independent "
+"Data Protection Authorities for cookie banners</a> (coordinated legal "
+"interpretation of all German data protection authorities; in German), there "
+"are now clearer rules that further interpret or complement the EU-wide "
+"applicable <a href=\"%3$s\" target=\"_blank\">ePrivacy Directive</a> and <a "
+"href=\"%4$s\" target=\"_blank\">GDPR</a>. Furthermore, there were important "
+"decisions such as the evaluation of <a href=\"%5$s\" target=\"_blank\">TCF "
+"by ADP (Belgium)</a>, the <a href=\"%6$s\" target=\"_blank\">Google "
+"Analytics decision by dsb (Austria)</a> and the <a href=\"%7$s\" "
+"target=\"_blank\">position on Google Analytics by CNIL</a>."
+msgstr ""
+"In den letzten Monaten wurde mehr Klarheit darüber geschaffen, wie das "
+"Einwilligungsmanagement auf Websites aussehen sollte - und wie es nicht "
+"aussehen sollte. Insbesondere durch das <a href=\"%1$s\" "
+"target=\"_blank\">TTDSG</a> (Telekommunikation-Telemedien-Datenschutz-"
+"Gesetz) und die <a href=\"%2$s\" target=\"_blank\">Orientierungshilfe der "
+"Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der "
+"Länder</a> (koordinierte Rechtsauslegung aller deutschen "
+"Datenschutzbehörden) gibt es jetzt klarere Regeln, welche die EU-weit "
+"geltende <a href=\"%3$s\" target=\"_blank\">ePrivacy-Richtlinie</a> und <a "
+"href=\"%4$s\" target=\"_blank\">DSGVO</a> weiter auslegen oder ergänzen. "
+"Außerdem gab es wichtige Entscheidungen wie die Bewertung von <a "
+"href=\"%5$s\" target=\"_blank\">TCF durch ADP (Belgien)</a>, die <a "
+"href=\"%6$s\" target=\"_blank\">Google Analytics Entscheidung von dsb "
+"(Österreich)</a> und die <a href=\"%7$s\" target=\"_blank\">Stellungnahme zu "
+"Google Analytics von CNIL</a>."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:103
+msgid "https://www.gesetze-im-internet.de/ttdsg/"
+msgstr "https://www.gesetze-im-internet.de/ttdsg/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:104
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:150
+#: inc/view/customize/banner/BodyDesign.php:541
+#: inc/view/customize/banner/Decision.php:210
+#: inc/view/customize/banner/individual/SaveButton.php:75
+msgid ""
+"https://www.datenschutzkonferenz-online.de/media/oh/20211220_oh_telemedien."
+"pdf"
+msgstr ""
+"https://www.datenschutzkonferenz-online.de/media/oh/20211220_oh_telemedien."
+"pdf"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:105
+msgid "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32009L0136"
+msgstr "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009L0136"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:106
+msgid "https://gdpr-info.eu/"
+msgstr "https://gdpr-text.com/de/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:107
+msgid ""
+"https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-"
+"n-21-2022-english.pdf"
+msgstr ""
+"https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-"
+"n-21-2022-english.pdf"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:112
+msgid ""
+"https://noyb.eu/sites/default/files/2022-01/E-DSB%20-"
+"%2$20Google%20Analytics_DE_bk_0.pdf"
+msgstr ""
+"https://noyb.eu/sites/default/files/2022-01/E-DSB%20-"
+"%2$20Google%20Analytics_DE_bk_0.pdf"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:116
+msgid ""
+"https://www.cnil.fr/sites/default/files/atoms/files/"
+"decision_ordering_to_comply_anonymised_-_google_analytics.pdf"
+msgstr ""
+"https://www.cnil.fr/sites/default/files/atoms/files/"
+"decision_ordering_to_comply_anonymised_-_google_analytics.pdf"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:121
+msgid ""
+"We have adapted the texts and design suggestions for the cookie banner "
+"accordingly. <strong>We strongly advise you to adopt the new texts and "
+"design suggestions for your website!</strong>"
+msgstr ""
+"Wir haben die Texte und Design-Vorschläge für das Cookie Banner entsprechend "
+"angepasst. <strong>Wir raten dir dringend, die neuen Texte und Design-"
+"Vorschläge für deine Website zu übernehmen!</strong>"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:125
+msgid ""
+"If you want to keep your individual Cookie Banner Design, please make sure "
+"that the choices (\"Accept all\", \"Continue without consent\" and \"Set "
+"privacy settings individually\") are displayed equally and all services are "
+"named in the first view of your cookie banner."
+msgstr ""
+"Wenn du dein individuelles Cookie Banner Design beibehalten möchtest, achte "
+"bitte darauf, dass die Auswahlmöglichkeiten (\"Alle akzeptieren\", \"Weiter "
+"ohne Einwilligung\", \"Privatsphäre-Einstellungen individuell festlegen\") "
+"gleichwertig angezeigt werden und alle Services in der ersten Ansicht deines "
+"Cookie Banners benannt werden."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:131
+msgid "Apply new texts and important design changes"
+msgstr "Neue Texte und wichtige Design-Änderungen anwenden"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:132
+msgid ""
+"We will overwrite all texts in your cookie banner with new text suggestions. "
+"Also, we name all services in the first view of the cookie banner instead of "
+"a bullet list of service groups, equalize the appearance of \"Accept all\" "
+"and \"Continue without consent\", and highlight \"Set privacy settings "
+"individually\" in your cookie banner. Please check afterwards if all "
+"adjustments are correct for your individual requirements and reconfigure "
+"your cookie banner yourself if necessary. Are you sure you want to apply the "
+"changes?"
+msgstr ""
+"Wir überschreiben alle Texte in deinem Cookie Banner mit neuen "
+"Textvorschlägen. Außerdem benennen wir alle Services in der ersten Ansicht "
+"des Cookie Banners anstelle einer Aufzählung von Service-Gruppen, gleichen "
+"das Aussehen von \"Alle akzeptieren\" und \"Weiter ohne Einwilligung\" an "
+"und heben \"Privatsphäre-Einstellungen individuell festlegen\" in deinem "
+"Cookie Banner hervor. Bitte überprüfe anschließend, ob alle Anpassungen für "
+"deine individuellen Anforderungen richtig sind und konfiguriere dein Cookie "
+"Banner bei Bedarf selbst um. Bist du sicher, dass du die Änderungen "
+"übernehmen willst?"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:137
+msgid "cookie-banner-frontend.png"
+msgstr "de/cookie-banner-frontend.png"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:142
+msgid "Place legal links on each subpage"
+msgstr "Rechtliche Links auf jeder Unterseite platzieren"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:146
+msgid ""
+"In accordance with the requirements of the &quot;<a href=\"%s\" "
+"target=\"_blank\">Guidance of the Conference of Independent Data Protection "
+"Authorities for cookie banners</a>&quot;, the possibility to view, modify "
+"and revoke consent must be directly accessible on every sub-page of your "
+"website."
+msgstr ""
+"Gemäß den Anforderungen des <a href=\"%s\" "
+"target=\"_blank\">\"Orientierungshilfe der Konferenz der unabhängigen "
+"Datenschutzaufsichtsbehörden des Bundes und der Länder\"</a> muss die "
+"Möglichkeit, die Einwilligung einzusehen, zu ändern und zu widerrufen, auf "
+"jeder Unterseite deiner Website direkt zugänglich sein."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:152
+msgid ""
+"This means you can no longer \"hide\" the links/buttons in your privacy "
+"policy. <strong>We recommend placing the option in the footer of each "
+"subpage.</strong>"
+msgstr ""
+"Das bedeutet, dass du die Links/Buttons in deiner Datenschutzerklärung nicht "
+"mehr \"verstecken\" kannst. <strong>Wir empfehlen, die Option in im Footer "
+"(Fußzeile) jeder Unterseite deiner Website zu platzieren.</strong>"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:156
+msgid ""
+"You can now place the legal links not only as shortcodes, but also in "
+"WordPress menus as menu items."
+msgstr ""
+"Du kannst die rechtlichen Links jetzt nicht nur als Shortcodes, sondern auch "
+"in WordPress-Menüs als Menüpunkte platzieren."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:162
+msgid "Place legal links"
+msgstr "Rechtliche Links platzieren"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:169
+msgid "Visual content blocker in pretty: Looks like without content blocker!"
+msgstr ""
+"Visueller Content Blocker in hübsch: Sieht aus wie ohne Content Blocker!"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:174
+msgid ""
+"Visual content blockers replace, for example, YouTube videos on the website "
+"if the visitor has not given consent to YouTube loading in the cookie "
+"banner. Until now, these were very text-heavy to display all the legally "
+"necessary requirements."
+msgstr ""
+"Visuelle Content Blocker ersetzen z.B. YouTube-Videos auf der Website, wenn "
+"der Besucher im Cookie Banner keine Einwilligung zum Laden von YouTube "
+"gegeben hat. Bisher waren diese sehr textlastig, um alle rechtlich "
+"notwendigen Anforderungen anzuzeigen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:178
+msgid ""
+"Hero and Wrapped Content Blockers are trying to do that better. Hero Content "
+"Blocker mimic maps, video players, audio players, and various types of "
+"social media feeds in a privacy-compliant way, so it looks like the original "
+"element is still embedded. Consent is obtained in a modal when the visitor "
+"tries to start the video, for example. <strong>Reconfigure your content "
+"blockers now!</strong>"
+msgstr ""
+"Hero und Wrapped Content Blocker versuchen, das besser zu machen. Hero "
+"Content Blocker imitieren Karten, Videoplayer, Audioplayer und verschiedene "
+"Arten von Social Media Feeds auf datenschutzkonforme Weise, sodass es so "
+"aussieht, als wäre das ursprüngliche Element noch eingebettet. Die "
+"Einwilligung wird in einem Modal eingeholt, wenn der Besucher z. B. "
+"versucht, das Video zu starten. <strong>Konfiguriere deine Content Blocker "
+"jetzt um!</strong>"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:186
+msgid "Reconfigure Content Blocker"
+msgstr "Content Blocker umkonfigurieren"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:192
+msgid ""
+"We recommend for <strong>%s</strong> to change the design to a more and "
+"better visual Content Blocker."
+msgstr ""
+"Wir empfehlen für <strong>%s</strong>, das Design in Hero Content Blocker zu "
+"ändern."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:202
+msgid "pro-modal/visual-content-blocker.webp"
+msgstr "pro-modal/de/visual-content-blocker.webp"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:207
+msgid "Scan your website for services that require consent"
+msgstr "Scanne deine Website nach einwilligungspflichtigen Services"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:209
+msgid ""
+"The service scanner crawls every subpage of your website, all plugins and "
+"other technical indicators of your website to find services on your website "
+"that require consent. This allows you to collect all the consent you need "
+"from your website visitors."
+msgstr ""
+"Der Service Scanner durchsucht jede Unterseite deiner Website, alle Plugins "
+"und andere technische Indikatoren deiner Website, um Services auf deiner "
+"Website zu finden, die eine Einwilligung erfordern. So kannst du alle "
+"Einwilligungen einholen, die du von deinen Besuchern brauchst."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:213
+msgid ""
+"If you last fully scanned your website before Februrary 2022, we recommend "
+"that you scan your website again. The scanner will now detect even more "
+"services!"
+msgstr ""
+"Wenn du deine Website zuletzt vor Februar 2022 vollständig gescannt hast, "
+"empfehlen wir dir, deine Website erneut zu scannen. Der Scanner erkennt "
+"jetzt noch mehr Services!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:219
+msgid "Scan website (again)"
+msgstr "Website (erneut) scannen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:225
+msgid "Cookie banner optimizations for mobile devices"
+msgstr "Cookie Banner Optimierungen für mobile Endgeräte"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:226
+msgid ""
+"We provide additional options for optimized display of the cookie banner on "
+"mobile devices. These make the cookie banner easier to use on smartphones by "
+"optimizing it to the normal hand position of users. Also, the cookie banner "
+"is no longer Largest Contentfull Paint (LCP) as defined by Google's Web "
+"Vitals and thus the optimizations will increase your PageSpeed score for "
+"mobile devices."
+msgstr ""
+"Wir bieten zusätzliche Optionen für die optimierte Anzeige des Cookie "
+"Banners auf mobilen Geräten. Diese erleichtern die Nutzung des Cookie "
+"Banners auf Smartphones, indem es für die normale Handhaltung der Nutzer "
+"optimiert wurde. Außerdem ist das Cookie Banner nicht mehr das größte "
+"Largest Contentfull Paint (LCP), wie es von Googles Web Vitals definiert "
+"wird, sodass die Optimierungen deinen PageSpeed Score für mobile Geräte "
+"erhöhen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:232
+msgid "Activate optimizations"
+msgstr "Optimierungen aktivieren"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:236
+msgid "pro-modal/mobile-optimization.png"
+msgstr "pro-modal/de/mobile-optimization.png"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:405
+msgid "Updates in v3.0: You should act to be safe!"
+msgstr "Updates in v3.0: Du solltest handeln, um sicher zu sein!"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:413
+msgid ""
+"With Real Cookie Banner 3.0 we have released a major update, in which we "
+"have implemented, among other things, current legal adjustments. Read more "
+"about the changes in our <a href=\"%s\" target=\"_blank\">blog post</a>."
+msgstr ""
+"Mit Real Cookie Banner 3.0 haben wir ein großes Update veröffentlicht, in "
+"dem wir u.a. aktuelle rechtliche Anpassungen vorgenommen haben. Mehr zu den "
+"Änderungen erfährst du in unserem <a href=\"%s\" "
+"target=\"_blank\">Blogbeitrag.</a>."
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:417
+msgid "https://devowl.io/2022/real-cookie-banner-3-0/"
+msgstr "https://devowl.io/de/2022/real-cookie-banner-3-0/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor3.php:419
+msgid ""
+"<strong>You should definitely take a look at the following points, because "
+"we have adjusted the behavior of the cookie banner.</strong> All changes can "
+"be optionally activated or ignored. We will not fundamentally change your "
+"cookie banner without your consent."
+msgstr ""
+"<strong>Du solltest unbedingt einen Blick auf die folgenden Punkte werfen, "
+"denn wir haben das Verhalten des Cookie Banners angepasst.</strong> Alle "
+"Änderungen können wahlweise aktiviert oder ignoriert werden. Ohne deine "
+"Einwilligung werden wir deinen Cookie Banner nicht grundlegend verändern."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:89
+msgid "Configure data processing countries"
+msgstr "Datenverarbeitungsländer konfigurieren"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:97
+msgid "Legal adjustments of texts and translations in 12 languages"
+msgstr "Rechtliche Anpassungen von Texten und Übersetzungen in 12 Sprachen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:99
+msgid ""
+"We have further improved the texts and placements of these in Real Cookie "
+"Banner in an audit by a lawyer. This makes them even less legally vulnerable!"
+msgstr ""
+"Wir haben die Texte und Platzierungen dieser in Real Cookie Banner bei einer "
+"anwaltlichen Prüfung weiter verbessert. Das macht sie rechtlich noch weniger "
+"angreifbar!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:103
+msgid ""
+"In addition, we have adapted Real Cookie Banner to legal details of more EU "
+"countries and now offer translations in 12 languages. Official translations "
+"of the plugin are now available in English, French, Spanish, Portuguese, "
+"Italian, German (informal and formal), Dutch (informal and formal), Polish, "
+"Czech, Danish, Swedish, Norwegian Bokmål. Translations of service templates "
+"and content blocker templates will follow."
+msgstr ""
+"Darüber hinaus haben wir Real Cookie Banner an die rechtlichen Details "
+"weiterer EU-Länder angepasst und bieten jetzt Übersetzungen in 12 Sprachen "
+"an. Offizielle Übersetzungen des Plugins sind jetzt in Englisch, "
+"Französisch, Spanisch, Portugiesisch, Italienisch, Deutsch (informell und "
+"formell), Niederländisch (informell und formell), Polnisch, Tschechisch, "
+"Dänisch, Schwedisch, Norwegisch Bokmål verfügbar. Übersetzungen von Service-"
+"Vorlagen und Content Blocker Vorlagen werden folgen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:109
+msgid ""
+"We strongly advise you to adopt the new texts for all languages with "
+"official translations!"
+msgstr ""
+"Wir empfehlen dir dringend, die neuen Texte für alle Sprachen mit "
+"offiziellen Übersetzungen zu übernehmen!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:117
+msgid ""
+"We will overwrite all texts in your cookie banner with new text suggestions. "
+"Please check afterwards if all adjustments are correct for your individual "
+"requirements and reconfigure your cookie banner yourself if necessary. Are "
+"you sure you want to apply the changes?"
+msgstr ""
+"Wir werden alle Texte in deinem Cookie Banner mit neuen Textvorschlägen "
+"überschreiben. Bitte überprüfe anschließend, ob alle Anpassungen für deine "
+"individuellen Anforderungen korrekt sind und konfiguriere deinen Cookie "
+"Banner bei Bedarf selbst neu. Bist du sicher, dass du die Änderungen "
+"übernehmen willst?"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:126
+msgid "Accessibility to comply with the European Accessibility Act"
+msgstr "Barrierefreiheit zur Erfüllung des European Accessibility Act"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:130
+msgid ""
+"As of June 2025, the <a href=\"%1$s\" target=\"_blank\">European "
+"Accessibility Act</a> requires accessibility for most websites. You can "
+"already offer an equal and obstacle-free website experience with Real Cookie "
+"Banner!"
+msgstr ""
+"Ab Juni 2025 fordert der <a href=\"%1$s\" target=\"_blank\">European "
+"Accessibility Act</a> Barrierefreiheit für die meisten Websites. Du kannst "
+"schon heute mit Real Cookie Banner eine gleichberechtigte und hindernisfreie "
+"Website-Erfahrung anbieten!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:134
+msgid "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32019L0882"
+msgstr "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:32019L0882"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:138
+msgid ""
+"Real Cookie Banner complies with <a href=\"%1$s\" target=\"_blank\">WCAG 2.2 "
+"Level AA standard</a>, covers legal requirements and makes you ready for the "
+"new law. For more details, <a href=\"%2$s\" target=\"_blank\">check out our "
+"knowledge base</a>."
+msgstr ""
+"Real Cookie Banner erfüllt dem <a href=\"%1$s\" target=\"_blank\">WCAG 2.2 "
+"Level AA Standard</a>, deckt rechtliche Anforderungen ab und macht dich fit "
+"für das neue Gesetz. Weitere Details <a href=\"%2$s\" "
+"target=\"_blank\">findest du in unserer Wissensdatenbank</a>."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:142
+msgid "https://www.w3.org/TR/WCAG22/"
+msgstr "https://www.w3.org/TR/WCAG22/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:143
+msgid "https://devowl.io/knowledge-base/accessibility-of-real-cookie-banner/"
+msgstr ""
+"https://devowl.io/de/wissensdatenbank/accessibility-real-cookie-banner/"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:147
+msgid ""
+"All design templates have been revised by us with regard to accessibility. "
+"In addition, when <a href=\"%1$s\" target=\"_blank\">customizing the cookie "
+"banner design</a>, you will now find an accessibility score that evaluates "
+"how accessible your current design settings are. Customize your design now!"
+msgstr ""
+"Alle Design-Vorlagen wurden im Hinblick auf Barrierefreiheit von uns "
+"überarbeitet. Außerdem, wenn <a href=\"%1$s\" target=\"_blank\">du das "
+"Design des Cookie Banners anpasst</a>, findest du jetzt einen Accessibility "
+"Score, der angibt, wie barrierefrei deine aktuellen Design-Einstellungen "
+"sind. Passe dein Design jetzt an!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:162
+msgid "Show revised design presets"
+msgstr "Überarbeitete Designvorlagen anzeigen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:175
+msgid "Provide details of the website operator for self-hosted services"
+msgstr "Details zum Website-Betreiber für selbst gehostete Services angeben"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:179
+msgid ""
+"In services, you can provide contact details of the provider/data processor "
+"(postal address, email, phone, etc.) to fulfill your information obligations "
+"under <a href=\"%1$s\" target=\"_blank\">Art. 13 GDPR</a> in conjunction "
+"with <a href=\"%2$s\" target=\"_blank\">Art. 5 GDPR</a>. For self-hosted "
+"services, you are the data processor and should also provide this data in "
+"the cookie banner."
+msgstr ""
+"In Services kannst du Kontaktdaten des Anbieters/Datenverarbeiters "
+"(Postanschriftt, Email, Telefon etc.) angeben, um deine "
+"Informationspflichten gemäß <a href=\"%1$s\" target=\"_blank\">Art. 13 "
+"DSGVO</a> in Verbindung mit <a href=\"%2$s\" target=\"_blank\">Art. 5 DSGVO</"
+"a> zu erfüllen. Für self-hosted Services bist du der Datenverarbeiter und "
+"solltest diese Daten ebenso im Cookie Banner ausweisen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:183
+msgid "https://gdpr-text.com/read/article-13/"
+msgstr "https://gdpr-text.com/de/read/article-13/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:184
+msgid "https://gdpr-text.com/read/article-5/"
+msgstr "https://gdpr-text.com/de/read/article-5/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:186
+msgid ""
+"Save your contact details once in the settings and they will be available "
+"for all current and future services!"
+msgstr ""
+"Speichere deine Kontaktdaten einmalig in den Einstellungen und sie stehen "
+"für alle aktuellen und zukünftigen Services bereit!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:192
+#: inc/view/checklist/OperatorContact.php:31
+msgid "Set website operator details"
+msgstr "Details zum Website-Betreiber festlegen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:196
+msgid "Provider details are set!"
+msgstr "Details zum Website-Betreiber sind festgelegt!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:203
+msgid "Define DSG (Switzerland) as legal basis"
+msgstr "DSG (Schweiz) als Rechtsgrundlage hinterlegen"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:207
+msgid ""
+"Real Cookie Banner can be used not only to meet the requirements of the GDPR "
+"in the EU, but also to comply with the new Swiss data protection law (DSG or "
+"nDSG). <a href=\"%1$s\" target=\"_blank\">More information about the DSG and "
+"cookie banners</a> can be found in our knowledge base!"
+msgstr ""
+"Real Cookie Banner kann nicht nur verwendet werden, um die Anforderungen der "
+"GDPR in der EU zu erfüllen, sondern auch um das neue Schweizer "
+"Datenschutzgesetz (DSG oder nDSG) einzuhalten. <a href=\"%1$s\" "
+"target=\"_blank\">Weitere Informationen über das DSG und Cookie Banner</a> "
+"findest du in unserer Wissensdatenbank!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:211
+msgid ""
+"https://devowl.io/knowledge-base/cookie-banner-swiss-data-protection-fadp/"
+msgstr ""
+"https://devowl.io/de/wissensdatenbank/cookie-banner-schweizer-"
+"datenschutzgesetz-dsg/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:213
+msgid ""
+"If you intentionally target website visitors from Switzerland, you should "
+"activate the DSG as the applicable legal basis to get useful tips in Real "
+"Cookie Banner."
+msgstr ""
+"Wenn du bewusst Website-Besucher aus der Schweiz ansprichst, solltest du das "
+"DSG als anwendbare Rechtsgrundlage aktivieren, um nützliche Tipps in Real "
+"Cookie Banner zu erhalten."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:219
+msgid "Specify legal basis"
+msgstr "Rechtsgrundlage angeben"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:227
+msgid "Explain data processing by Real Cookie Banner in privacy policy"
+msgstr ""
+"Datenverarbeitung durch Real Cookie Banner in den Datenschutzerklärungen "
+"erläutern"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:229
+msgid ""
+"You should explain the data processing of Real Cookie Banner (as well as of "
+"any other service) in more detail in your privacy policy in order to fulfill "
+"your information obligations under GDPR."
+msgstr ""
+"Du solltest die Datenverarbeitung von Real Cookie Banner (wie auch von jedem "
+"anderen Service) in deiner Datenschutzerklärung näher erläutern, um deine "
+"Informationspflichten gemäß GDPR zu erfüllen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:233
+msgid ""
+"If you do not yet explain the use of Real Cookie Banner in your privacy "
+"policy, simply use our suggestion!"
+msgstr ""
+"Wenn du die Nutzung von Real Cookie Banner noch nicht in deiner "
+"Datenschutzerklärung erklärst, nutze einfach unseren Textvorschlag!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:239
+msgid "Show text suggestion"
+msgstr "Textvorschlag anzeigen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:243
+msgid "Real Cookie Banner in privacy policy mentioned!"
+msgstr "Du erwähnst Real Cookie Banner in deiner Datenschutzerklärung!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:247
+msgid "Updates for services and content blockers"
+msgstr "Updates für Services und Content Blocker"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:248
+msgid ""
+"We have revised the information given in numerous service and content "
+"blocker templates. Services and content blockers you created may contain "
+"suggestions for changes that you may want to apply. You should review the "
+"proposed changes and adjust your services if necessary to be able to remain "
+"legally compliant. When editing the service/content blocker, you will find a "
+"blue \"Different from template\" next to the respective fields with more "
+"information."
+msgstr ""
+"Wir haben die Informationen in zahlreichen Service- und Content-Blocker-"
+"Vorlagen überarbeitet. Service und Content Blocker, die du erstellt hast, "
+"können Vorschläge für Änderungen enthalten, die du anwenden möchtest. Du "
+"solltest die vorgeschlagenen Änderungen überprüfen und deine Services bei "
+"Bedarf anpassen, um rechtskonform zu bleiben. Wenn du den Service/Content "
+"Blocker bearbeitest, findest du ein blaues \"Abweichend von der Vorlage\" "
+"neben den jeweiligen Feldern mit weiteren Informationen."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:254
+msgid "All the services and content blockers you created are up to date!"
+msgstr ""
+"Alle von dir erstellten Service und Content Blocker sind auf dem aktuellen "
+"Stand!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:259
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:330
+msgid "The following services should be reviewed:"
+msgstr "Die folgenden Services sollten überprüft werden:"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:269
+msgid "Help us make Real Cookie Banner even better!"
+msgstr "Hilf uns Real Cookie Banner noch besser zu machen!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:271
+msgid ""
+"Recently, we have started actively collecting telemetry data about how Real "
+"Cookie Banner is used – if you have consented to it. This helps us e.g. to "
+"better prioritize often needed service templates or to implement much used "
+"features even better."
+msgstr ""
+"Seit kurzem sammeln wir aktiv Telemetriedaten darüber, wie Real Cookie "
+"Banner genutzt wird – sofern du dem zugestimmt hast. Dies hilft uns z.B. "
+"dabei, häufig benötigte Service-Vorlagen besser zu priorisieren oder viel "
+"genutzte Features noch besser zu implementieren."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:275
+msgid ""
+"<strong>You have not yet consented to collecting telemetry data.</strong> "
+"They do not contain any personal data about your website visitors. We would "
+"be very pleased if we could learn from your usage behavior as well!"
+msgstr ""
+"<strong>Du hast dem Sammeln von Telemetriedaten noch nicht zugestimmt.</"
+"strong> Diese enthalten keine personenbezogenen Daten über deine Website-"
+"Besucher. Wir würden uns sehr freuen, wenn wir auch aus deinem "
+"Nutzungsverhalten lernen könnten!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:281
+msgid "Collect telemetry data"
+msgstr "Telemetriedaten sammeln"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:283
+msgid "Telemetry data enabled."
+msgstr "Telemetriedaten aktiviert."
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:286
+msgid ""
+"I allow telemetry data about the use of this WordPress plugin to be "
+"collected in accordance with the <a href=\"%s\" target=\"_blank\">privacy "
+"policy</a>. This data does not include any personal information about users "
+"of the plugin. Collected data will be used to provide you with the best "
+"possible support and to improve the plugin."
+msgstr ""
+"Ich erlaube die Erhebung von Telemetrie-Daten über die Nutzung dieses "
+"WordPress-Plugins in Einklang mit der <a href=\"%s\" "
+"target=\"_blank\">Datenschutzerklärung</a>. Diese Daten enthalten keine "
+"persönlichen Informationen über die Nutzer des Plugins. Die gesammelten "
+"Daten werden verwendet, um dir den bestmöglichen Support zu bieten und das "
+"Plugin zu verbessern."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:301
+msgid ""
+"Consent to data processing in insecure third countries (instead of US data "
+"processing only)"
+msgstr ""
+"Einwilligung in die Datenverarbeitung in unsicheren Drittländern (anstatt "
+"nur US-Datenverarbeitung)"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:305
+msgid ""
+"Real Cookie Banner offered you so far to obtain special consent according to "
+"<a href=\"%1$s\" target=\"_blank\">Art. 49 (1) lit. a GDPR</a> for data "
+"processing in the USA. <a href=\"%2$s\" target=\"_blank\">The USA is again a "
+"secure third country under data protection law since July 2023</a>. However, "
+"data processing of many services takes place worldwide and thus in other "
+"insecure countries."
+msgstr ""
+"Real Cookie Banner hat dir bisher angeboten, eine spezielle Einwilligung "
+"gemäß <a href=\"%1$s\" target=\"_blank\">Art. 49 Abs. 1 lit. a DSGVO</a> für "
+"die Datenverarbeitung in den USA einzuholen. <a href=\"%2$s\" "
+"target=\"_blank\">Seit Juli 2023 sind die USA wieder ein sicheres Drittland "
+"im Sinne des Datenschutzrechts</a>. Die Datenverarbeitung vieler Services "
+"findet jedoch weltweit und damit auch in anderen unsicheren Ländern statt."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:309
+msgid "https://gdpr-text.com/read/article-49/"
+msgstr "https://gdpr-text.com/de/read/article-49/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:310
+msgid "https://devowl.io/2023/us-data-processing-tadpf/"
+msgstr "https://devowl.io/de/2023/us-datenverarbeitung-tadpf/"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:314
+msgid ""
+"You can now specify the countries of data processing in each service! We "
+"have already added this information in service templates. You can find a <a "
+"href=\"%1$s\" target=\"_blank\">list of secure third countries as defined by "
+"the EU in the settings</a>. This means that specific consents are now "
+"obtained for all unsecure third countries worldwide."
+msgstr ""
+"Du kannst jetzt die Länder der Datenverarbeitung in jedem Service angeben! "
+"Wir haben diese Informationen bereits in die Service-Vorlagen aufgenommen. "
+"<a href=\"%1$s\" target=\"_blank\">In den Einstellungen findest du eine "
+"Liste der sicheren Drittländer, die von der EU definiert wurden</a>. Das "
+"bedeutet, dass jetzt für alle unsicheren Drittländer weltweit spezielle "
+"Einwilligungen eingeholt werden können."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:322
+msgid "Obtain consent for data processing in unsecure third countries"
+msgstr ""
+"Hole die Einwilligung für die Datenverarbeitung in unsicheren Drittländern "
+"ein"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:326
+msgid "Feature is enabled."
+msgstr "Die Funktion ist aktiviert."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:337
+msgid "Specify additional links in the footer of the cookie banner"
+msgstr "Weitere Links im Footer des Cookie Banners angeben"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:339
+msgid ""
+"You should link all legally relevant subpages of your website (e.g. privacy "
+"policy, legal notice/imprint, terms and conditions) in the cookie banner so "
+"that they are quickly accessible. On these pages, the cookie banner should "
+"also not be displayed, so as not to put a barrier in front of the pages."
+msgstr ""
+"Du solltest alle rechtlich relevanten Unterseiten deiner Website (z. B. "
+"Datenschutzerklärung, Impressum, AGB) im Cookie Banner verlinken, damit sie "
+"schnell zugänglich sind. Auf diesen Seiten sollte das Cookie Banner auch "
+"nicht angezeigt werden, um keine Hürde vor den Seiten zu errichten."
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:343
+msgid ""
+"So far, only privacy policy and legal notice could be linked. From now on "
+"you can link any other pages!"
+msgstr ""
+"Bisher konnten nur die Datenschutzerklärung und das Impressum verlinkt "
+"werden. Ab jetzt kannst du auch alle anderen Seiten verlinken!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:349
+msgid "Add more links to the cookie banner footer"
+msgstr "Weitere Links im Footer des Cookie Banners hinzufügen"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:377
+msgid "Telemetry data enabled. Thanks for your support!"
+msgstr "Telemetriedaten aktiviert. Danke für deine Unterstützung!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:416
+msgid "Updates in v4.0: You need to make adjustments!"
+msgstr "Updates in v4.0: Du musst Anpassungen vornehmen!"
+
+#. translators:
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:424
+msgid ""
+"Discover the new Real Cookie Banner 4.0! With this update, we've made legal "
+"adjustments to make your cookie banner legally even more rubust. Learn more "
+"about the changes in the <a href=\"%s\" target=\"_blank\">release notes</a> "
+"on our blog!"
+msgstr ""
+"Entdecke das neue Real Cookie Banner 4.0! Mit diesem Update haben wir "
+"rechtliche Anpassungen vorgenommen, um dein Cookie Banner juristisch noch "
+"rubuster aufzustellen. Erfahre mehr über die Änderungen in den <a "
+"href=\"%s\" target=\"_blank\">Release Notes</a> in unserem Blog!"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:428
+msgid "https://devowl.io/2023/real-cookie-banner-4-0/"
+msgstr "https://devowl.io/de/2023/real-cookie-banner-4-0/"
+
+#: inc/comp/migration/DashboardTileMigrationMajor4.php:430
+msgid ""
+"<strong>You should definitely take a look at the following points and apply "
+"them to your cookie banner configuration!</strong> You decide which changes "
+"to activate or ignore - we don't make any fundamental changes without your "
+"consent."
+msgstr ""
+"<strong>Du solltest dir unbedingt die folgenden Punkte ansehen und sie auf "
+"deine Cookie Banner Konfiguration anwenden!</strong> Du entscheidest, welche "
+"Änderungen aktiviert oder ignoriert werden - wir führen keine grundlegend "
+"Änderungen ohne deine Einwillung durch."
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:27
+msgid ""
+"Briefly summarized, consents according to TCF are considered too non-"
+"transparent, not understandable for the website visitor and therefore "
+"invalid. IAB Europe, publisher of TCF, is required to redesign the standard "
+"within six months so that it collects legally effective consents. At the "
+"same time, IAB Europe is taking legal action against the decision of the "
+"data protection authority."
+msgstr ""
+"Kurz zusammengefasst werden Einwilligungen nach dem TCF als zu "
+"intransparent, für den Website-Besucher nicht verständlich und daher "
+"ungültig angesehen. Die IAB Europe, Herausgeber der TCF, muss den Standard "
+"innerhalb von sechs Monaten so umgestalten, dass rechtswirksame "
+"Einwilligungen gesammelt werden können. Gleichzeitig geht IAB Europe "
+"rechtlich gegen die Entscheidung der Datenschutzbehörde vor."
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:31
+msgid ""
+"Real Cookie Banner is obliged to implement mandatory requirements of the IAB "
+"Europe. <strong>We point out that with the current version of Real Cookie "
+"Banner it is not possible to obtain lawful consents with the version of TCF "
+"integrated in it.</strong> Therefore, we strongly recommend that you do not "
+"use the TCF integration until the IAB Europe has made the necessary changes "
+"(this will be implemented in Real Cookie Banner via an update)."
+msgstr ""
+"Real Cookie Banner ist verpflichtet, die verbindlichen Anforderungen des IAB "
+"Europe umzusetzen. <strong>Wir weisen darauf hin, dass es mit der aktuellen "
+"Version von Real Cookie Banner nicht möglich ist, rechtswirksame "
+"Einwilligungen mit Hilfe der darin integrierten Version von TCF einzuholen.</"
+"strong> Daher empfehlen wir dir dringend, die TCF-Integration nicht zu "
+"nutzen, bis das IAB Europe die notwendigen Änderungen vorgenommen hat (dies "
+"wird über ein Update in Real Cookie Banner implementiert)."
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:35
+msgid ""
+"If you have previously obtained consents under the Transparency & Consent "
+"Framework, be sure to read the following additional information and consult "
+"a legal advisor to clarify the further procedure for your individual case."
+msgstr ""
+"Wenn du bereits Einwilligungen nach dem Transparency & Consent Framework "
+"eingeholt hast, solltest du unbedingt die folgenden zusätzlichen "
+"Informationen lesen und eine Rechtsberatung konsultieren, um das weitere "
+"Vorgehen für deinen Einzelfall zu klären."
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:45
+msgid "https://devowl.io/go/real-cookie-banner/tcf/2020-02/apd-decision"
+msgstr "https://devowl.io/go/real-cookie-banner/tcf/2020-02/apd-decision"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:46
+msgid "Decision of the Belgian Data Protection Authority (APD)"
+msgstr "Entscheidung der belgischen Datenschutzbehörde (APD; Englisch)"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:48
+msgid ""
+"https://devowl.io/go/real-cookie-banner/tcf/2020-02/iab-europe-statement"
+msgstr ""
+"https://devowl.io/go/real-cookie-banner/tcf/2020-02/iab-europe-statement"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:50
+msgid "Statement of the IAB Europe (English)"
+msgstr "Stellungnahme des IAB Europe (Englisch)"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:52
+msgid ""
+"https://devowl.io/go/real-cookie-banner/tcf/2020-02/evaluation-ra-schwenke"
+msgstr ""
+"https://devowl.io/go/real-cookie-banner/tcf/2020-02/evaluation-ra-schwenke"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:54
+msgid "Legal assessment by RA Dr. Schwenke (German)"
+msgstr "Rechtliche Einschätzung von RA Dr. Schwenke"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:59
+msgid "Disable TCF"
+msgstr "TCF deaktivieren"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:72
+msgid "Consents obtained via TCF illegal"
+msgstr "Mittels TCF eingeholte Einwilligungen illegal"
+
+#: inc/comp/migration/DashboardTileTcfV2IllegalUsage.php:77
+msgid ""
+"We need to inform you that on Feb. 02, 2022, the Belgian Data Protection "
+"Authority (APD) declared the collection of consents under the Transparency & "
+"Consent Framework (TCF) to be invalid. The decision is effective across the "
+"EU as it was issued in a one-stop-shop procedure."
+msgstr ""
+"Wir müssen dich darüber informieren, dass die belgische Datenschutzbehörde "
+"(APD) am 2. Februar 2022 die Sammlung von Einwilligungen im Rahmen des "
+"Transparency & Consent Framework (TCF) für ungültig erklärt hat."
+
+#. translators:
+#: inc/comp/ThirdPartyNotices.php:64
+msgid ""
+"<strong>Pixel Manager for WooCommerce</strong> embed trackers by default "
+"without waiting for consent. Please activate \"Enable Explicit Consent "
+"Mode\" under <a href=\"%1$s\"><i>WooCommerce > Pixel Manager > Advanced > "
+"Cookie Consent Management</i></a> to embed trackers only after consent. In "
+"addition, since you are using Real Cookie Banner, you need to enable all the "
+"suggested service templates in <a href=\"%2$s\"><i>Cookies > Scanner</i></a> "
+"for the trackers embedded with \"Pixel Manager for WooCommerce\"."
+msgstr ""
+"<strong>Pixel Manager für WooCommerce</strong> bindet Tracker standardmäßig "
+"ein, ohne auf die Einwilligung zu warten. Bitte aktiviere \"Enable Explicit "
+"Consent Mode\" unter <a href=\"%1$s\"><i>WooCommerce > Pixel Manager > "
+"Advanced > Cookie Consent Management</i></a> um Tracker nur nach "
+"Einwilligung einzubinden. Da du Real Cookie Banner verwendest, musst du "
+"außerdem alle vorgeschlagenen Service-Vorlagen unter <a "
+"href=\"%2$s\"><i>Cookies > Scanner</i></a> für die mit \"Pixel Manager for "
+"WooCommerce\" eingebundenen Tracker aktivieren."
+
+#: inc/comp/ThirdPartyNotices.php:76
+msgid ""
+"Pixel Manager for WooCommerce allows to check consents only in its PRO "
+"version (paid version). Therefore, you won't see the \"Enable Explicit "
+"Consent Mode\" option."
+msgstr ""
+"Pixel Manager für WooCommerce erlaubt die Überprüfung von Einwilligungen nur "
+"in der PRO-Version (kostenpflichtige Version). Daher wirst du die Option "
+"\"Enable Explicit Consent Mode\" nicht sehen."
+
+#: inc/Core.php:455 inc/view/checklist/GetPro.php:44
+msgid "https://devowl.io/go/real-cookie-banner?source=rcb-lite"
+msgstr "https://devowl.io/de/go/real-cookie-banner?source=rcb-lite"
+
+#: inc/import/ExportConsent.php:69
+msgid "Please provide a UUID or a date range."
+msgstr "Bitte gib eine UUID oder einen Datumsbereich an."
+
+#: inc/import/ExportConsent.php:81
+msgid "No consents found. Please navigate back and check your input."
+msgstr ""
+"Keine Einwilligungen gefunden. Bitte navigiere zurück und überprüfe deine "
+"Eingabe."
+
+#: inc/import/ImportBannerLinks.php:76
+msgid "Footer link"
+msgstr "Fußzeilen Link"
+
+#: inc/import/ImportBannerLinks.php:96
+msgid "Footer links"
+msgstr "Fußzeilen Links"
+
+#: inc/import/ImportCookies.php:138 inc/import/ImportCookies.php:186
+#: inc/settings/Cookie.php:216
+msgid "Cookie"
+msgstr "Cookie"
+
+#: inc/import/ImportCustomizeBanner.php:85
+#: inc/view/customize/banner/HeaderDesign.php:120
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/import/ImportCustomizeBanner.php:85
+msgid "Logo (Retina)"
+msgstr "Logo (Retina)"
+
+#: inc/import/ImportGroups.php:90 inc/import/ImportGroups.php:106
+msgid "Service Group"
+msgstr "Service-Gruppe"
+
+#. translators:
+#: inc/import/ImportMessages.php:25
+msgid "Please provide a valid <code>%s</code> key."
+msgstr "Bitte gib einen gültigen <code>%s</code> Schlüssel an."
+
+#. translators:
+#: inc/import/ImportMessages.php:39
+msgid ""
+"The %1$s with index <code>%2$d</code> is missing. Required properties: "
+"<code>%3$s</code>. Skipped."
+msgstr ""
+"Der %1$s mit dem Index <code>%2$d</code> fehlt. Benötigte Angabe: "
+"<code>%3$s</code>. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:62
+msgid ""
+"%1$s <strong>%2$s</strong> could not be created due to the following error: "
+"<code>%3$s</code>. Skipped."
+msgstr ""
+"%1$s <strong>%2$s</strong> konnten aufgrund des folgenden Fehlers nicht "
+"erstellt werden: <code>%3$s</code>. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:83
+msgid ""
+"<strong>%s</strong>: You are trying to import a template from Real Cookie "
+"Banner PRO, but here you are using the free version of the plugin. Please "
+"remove this service before exporting the services or use the PRO version on "
+"this website! Skipped."
+msgstr ""
+"<strong>%s</strong>: Du versuchst, eine Vorlage aus Real Cookie Banner PRO "
+"zu importieren, aber du verwendest die kostenlose Version des Plugins. Bitte "
+"entferne diesen Service, bevor du die Services exportierst, oder verwende "
+"die PRO-Version auf dieser Website! Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:102
+msgid ""
+"<strong>%s</strong>: You are trying to import a template but have not "
+"activated a licence. Please activate a licence so that you can import "
+"services and content blockers created from templates here! Skipped."
+msgstr ""
+"<strong>%s</strong>: Du versuchst, eine Vorlage zu importieren, hast aber "
+"keine Lizenz aktiviert. Bitte aktiviere eine Lizenz, damit du Services und "
+"Content Blocker, die aus Vorlagen erstellt wurden, hier importieren kannst! "
+"Übersprungen."
+
+#: inc/import/ImportMessages.php:112
+msgid "Activate license"
+msgstr "Lizenz aktivieren"
+
+#. translators:
+#: inc/import/ImportMessages.php:130
+msgid ""
+"The newly created content blocker <code>%s</code> could not correctly "
+"resolve some associated relationships."
+msgstr ""
+"Der neu erstellte Content Blocker <code>%s</code> konnte einige zugehörige "
+"Beziehungen nicht korrekt auflösen."
+
+#. translators:
+#: inc/import/ImportMessages.php:155
+msgid ""
+"The newly created content blocker <code>%s</code> could not set the preview "
+"image because it refers to a media item within your media library (ID)"
+msgstr ""
+"Der neu erstellte Content Blocker <code>%s</code> konnte das Vorschaubild "
+"nicht setzen, da es sich auf eine Datei in deiner Medienbibliothek bezieht "
+"(ID)"
+
+#. translators:
+#: inc/import/ImportMessages.php:178
+msgid ""
+"The newly created footer link <code>%s</code> could not set the selected "
+"page because it refers to a page item (ID)"
+msgstr ""
+"Der neu erstellte Fußzeilen-Link <code>%s</code> konnte die ausgewählte "
+"Seite nicht setzen, da sich diese auf ein Seitenelement (ID) bezieht"
+
+#: inc/import/ImportMessages.php:188
+msgid "Select page"
+msgstr "Seite auswählen"
+
+#. translators:
+#: inc/import/ImportMessages.php:202
+msgid "The service <code>%s</code> already exists. Skipped."
+msgstr "Der Service <code>%s</code> ist bereits vorhanden. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:218
+msgid "The content blocker <code>%s</code> already exists. Skipped."
+msgstr ""
+"Der Content Blocker <code>%s</code> ist bereits vorhanden. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:234
+msgid ""
+"The footer link <code>%s</code> already exists or may only be configured "
+"once. Skipped."
+msgstr ""
+"Der Fußzeilen-Link <code>%s</code> existiert bereits oder darf nur einmal "
+"konfiguriert werden. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:250
+msgid ""
+"The TCF vendor configuration for vendor with ID <code>%s</code> already "
+"exists. Skipped."
+msgstr ""
+"Die TCF Vendor-Konfiguration für den Verdorr mit der ID <code>%s</code> "
+"existiert bereits. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:274
+msgid ""
+"The content blocker <code>%s</code> already exists. A new content blocker "
+"has been created anyway."
+msgstr ""
+"Der Content Blocker <code>%s</code> ist bereits vorhanden. Es wurde trotzdem "
+"ein neuer Content Blocker erstellt."
+
+#. translators:
+#: inc/import/ImportMessages.php:307
+msgid ""
+"The service <code>%s</code> already exists. A new service has been created "
+"anyway."
+msgstr ""
+"Der Service <code>%s</code> ist bereits vorhanden. Es wurde trotzdem ein "
+"neuer Service angelegt."
+
+#. translators:
+#: inc/import/ImportMessages.php:334
+msgid ""
+"The newly created service <code>%s</code> has been added to the fallback "
+"service group because the original service group could not be found."
+msgstr ""
+"Der neu erstellte Service <code>%s</code> wurde zur Fallback-Service-Gruppe "
+"hinzugefügt, da die ursprüngliche Service-Gruppe nicht gefunden werden "
+"konnte."
+
+#. translators:
+#: inc/import/ImportMessages.php:359
+msgid ""
+"The service <strong>%1$s</strong> could not be assigned to the given group "
+"due to the following error: <code>%2$s</code>. Skipped."
+msgstr ""
+"Der Service <strong>%1$s</strong> konnte aufgrund des folgenden Fehlers "
+"nicht der angegebenen Gruppe zugeordnet werden: <code>%2$s</code>. "
+"Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:380
+msgid ""
+"The service group <strong>%1$s</strong> could not be updated due to the "
+"following error: <code>%2$s</code>. Skipped."
+msgstr ""
+"Die Service-Gruppe <strong>%1$s</strong> konnte aufgrund des folgenden "
+"Fehlers nicht aktualisiert werden: <code>%2$s</code>. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:400
+msgid ""
+"The service group <strong>%s</strong> was not created. Instead, the existing "
+"one has been updated."
+msgstr ""
+"Die Service-Gruppe <strong>%s</strong> wurde nicht erstellt. Stattdessen "
+"wurde die bestehende Gruppe aktualisiert."
+
+#. translators:
+#: inc/import/ImportMessages.php:421
+msgid ""
+"Setting/Option <code>%s</code> can only be imported in the PRO version. "
+"Skipped."
+msgstr ""
+"Einstellung/Option <code>%s</code> kann nur in der PRO-Version importiert "
+"werden. Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:438
+msgid "Setting/Option <code>%s</code> could not be updated. Skipped."
+msgstr ""
+"Einstellung/Option <code>%s</code> konnte nicht aktualisiert werden. "
+"Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:454
+msgid "Settings/Options <code>%s</code> not found or obsolete. Skipped."
+msgstr ""
+"Einstellungen/Optionen <code>%s</code> nicht gefunden oder veraltet. "
+"Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:471
+msgid ""
+"Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be "
+"imported because it refers to a page (ID). Skipped."
+msgstr ""
+"Einstellung/Option <strong>%1$s</strong> (Schlüssel <code>%2$s</code>) kann "
+"nicht importiert werden, da sie sich auf eine Seite (ID) bezieht. "
+"Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:494
+msgid ""
+"Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be "
+"imported because it refers to a media URL/ID. Skipped."
+msgstr ""
+"Einstellung/Option <strong>%1$s</strong> (Schlüssel <code>%2$s</code>) kann "
+"nicht importiert werden, da sie sich auf eine Medien ID oder URL bezieht. "
+"Übersprungen."
+
+#. translators:
+#: inc/import/ImportMessages.php:517
+msgid ""
+"Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be "
+"imported. Skipped."
+msgstr ""
+"Einstellung/Option <strong>%1$s</strong> (Schlüssel <code>%2$s</code>) kann "
+"nicht importiert werden. Übersprungen."
+
+#: inc/import/ImportSettings.php:67
+msgid "Hide on additional pages"
+msgstr "Auf zusätzlichen Seiten ausblenden"
+
+#: inc/import/ImportSettings.php:70
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+#: inc/import/ImportSettings.php:98
+msgid "Forward to"
+msgstr "Weiterleiten an"
+
+#: inc/import/ImportSettings.php:99
+msgid "External 'Forward To' endpoints"
+msgstr "Externe 'Weiterleiten an'-Endpunkte"
+
+#. translators:
+#: inc/import/ImportSettings.php:113 inc/import/ImportSettings.php:132
+msgid ""
+"Setting/Option <code>%1$s</code> (%2$s) cannot be imported because it needs "
+"explicit opt-in. Skipped."
+msgstr ""
+"Einstellung/Option <code>%1$s</code> (%2$s) kann nicht importiert werden, da "
+"sie eine explizite Einwilligung benötigt. Übersprungen."
+
+#: inc/import/ImportSettings.php:118
+msgid "enabling TCF-compatibility"
+msgstr "TCF-Kompatibilität aktivieren"
+
+#: inc/import/ImportSettings.php:137
+msgid "enabling geo-restriction"
+msgstr "Geo-Restriktion aktivieren"
+
+#: inc/import/ImportTcfVendorConfigurations.php:76
+msgid "TCF Vendor"
+msgstr "TCF Verdor"
+
+#: inc/import/ImportTcfVendorConfigurations.php:97
+msgid "TCF Vendor configuration"
+msgstr "TCF Vendor-Konfiguration"
+
+#: inc/overrides/lite/settings/CountryBypass.php:30
+#: inc/overrides/lite/settings/TCF.php:30
+msgid "This functionality is only available in the PRO version."
+msgstr "Diese Funktionalität ist nur in der PRO-Version verfügbar."
+
+#: inc/overrides/lite/Stats.php:15 inc/overrides/lite/Stats.php:26
+#: inc/overrides/lite/Stats.php:37
+msgid ""
+"You are not allowed to do this in the free version of Real Cookie Banner. "
+"Please upgrade to Real Cookie Banner PRO!"
+msgstr ""
+"In der kostenlosen Version von Real Cookie Banner kann diese Aktion nicht "
+"ausgeführt werden. Bitte steige auf Real Cookie Banner PRO um!"
+
+#. translators:
+#: inc/overrides/pro/comp/language/Hooks.php:99
+msgid "Multilingual %1$s: %2$s"
+msgstr "Mehrsprachig %1$s: %2$s"
+
+#: inc/overrides/pro/Forwarding.php:274
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+#: inc/overrides/pro/rest/Forwarding.php:140
+msgid "Consent Forwarding is not active."
+msgstr "Weiterleitung der Einwilligung ist nicht aktiv."
+
+#: inc/overrides/pro/settings/Affiliate.php:116
+msgid ""
+"The link to Real Cookie Banner is an affiliate link. If you buy the product, "
+"we may receive a commission, but the price of the product will not change "
+"for you."
+msgstr ""
+"Der Link zu Real Cookie Banner ist ein Affiliate-Link. Wenn du das Produkt "
+"kaufst, können wir eine Provision erhalten, aber der Preis des Produkts "
+"ändert sich für dich nicht."
+
+#: inc/overrides/pro/settings/CountryBypass.php:236
+#: inc/overrides/pro/settings/TCF.php:142
+msgid "This functionality is currently not available."
+msgstr "Diese Funktionalität ist derzeit nicht verfügbar."
+
+#. translators:
+#: inc/overrides/pro/settings/TCF.php:116
+msgid "Downloading the GVL has failed. Please try again later! (%1$s: %2$s)"
+msgstr ""
+"Das Herunterladen der GVL ist fehlgeschlagen. Bitte versuche es später noch "
+"einmal! (%1$s: %2$s)"
+
+#: inc/overrides/pro/settings/TcfVendorConfiguration.php:94
+msgid "TCF vendor configurations"
+msgstr "TCF Vendor Konfigurationen"
+
+#: inc/overrides/pro/settings/TcfVendorConfiguration.php:95
+msgid "TCF vendor configuration"
+msgstr "TCF Vendor Konfiguration"
+
+#: inc/overrides/pro/Stats.php:31
+msgid "deleted"
+msgstr "gelöscht"
+
+#: inc/overrides/pro/Stats.php:73 inc/overrides/pro/Stats.php:97
+msgid "Close icon"
+msgstr "Schließen-Symbol"
+
+#: inc/overrides/pro/Stats.php:107
+msgid "Shortcode revoke"
+msgstr "Widerruf Shortcode"
+
+#: inc/overrides/pro/Stats.php:110
+msgid "Button in Content Blocker"
+msgstr "Button im Content Blocker"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:85
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:50
+msgid "TCF stacks"
+msgstr "TCF Stacks"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:90
+#: inc/view/customize/banner/BasicLayout.php:135
+#: inc/view/customize/banner/HeaderDesign.php:167
+msgid "Margin"
+msgstr "Außenabstand"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:91
+msgid "Define outer distance of the container."
+msgstr "Definiere den äußeren Abstand des Containers."
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:99
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:233
+#: inc/view/customize/banner/BodyDesign.php:175
+#: inc/view/customize/banner/BodyDesign.php:393
+#: inc/view/customize/banner/BodyDesign.php:557
+#: inc/view/customize/banner/BodyDesign.php:703
+#: inc/view/customize/banner/FooterDesign.php:117
+#: inc/view/customize/banner/HeaderDesign.php:111
+#: inc/view/customize/banner/individual/Group.php:185
+#: inc/view/customize/banner/individual/SaveButton.php:98
+msgid "Padding"
+msgstr "Innenabstand"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:100
+msgid "Define inner distance of one stack."
+msgstr "Definiere den inneren Abstand eines Stacks."
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:108
+msgid "Arrow type"
+msgstr "Pfeil-Typ"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:112
+msgid "Filled"
+msgstr "Gefüllt"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:113
+msgid "Outlined"
+msgstr "Umrissen"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:122
+msgid "Arrow color"
+msgstr "Pfeilfarbe"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:131
+#: inc/view/customize/banner/BodyDesign.php:403
+#: inc/view/customize/banner/BodyDesign.php:503
+#: inc/view/customize/banner/BodyDesign.php:567
+#: inc/view/customize/banner/BodyDesign.php:667
+#: inc/view/customize/banner/BodyDesign.php:713
+#: inc/view/customize/banner/BodyDesign.php:813
+#: inc/view/customize/banner/Design.php:75
+#: inc/view/customize/banner/FooterDesign.php:90
+#: inc/view/customize/banner/HeaderDesign.php:84
+#: inc/view/customize/banner/individual/Group.php:91
+#: inc/view/customize/banner/individual/Group.php:145
+#: inc/view/customize/banner/individual/Group.php:176
+#: inc/view/customize/banner/individual/SaveButton.php:108
+#: inc/view/customize/banner/individual/SaveButton.php:202
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:140
+msgid "Background color when active"
+msgstr "Hintergrundfarbe wenn aktiv"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:149
+msgid "Background color on hover"
+msgstr "Hintergrundfarbe bei Hover"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:158
+#: inc/view/customize/banner/BodyDesign.php:461
+#: inc/view/customize/banner/BodyDesign.php:625
+#: inc/view/customize/banner/BodyDesign.php:771
+#: inc/view/customize/banner/Design.php:104
+#: inc/view/customize/banner/individual/Group.php:99
+#: inc/view/customize/banner/individual/Group.php:224
+#: inc/view/customize/banner/individual/SaveButton.php:164
+msgid "Border"
+msgstr "Rahmen"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:168
+msgid "Border width (px)"
+msgstr "Rahmen breite (px)"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:177
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:208
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:257
+#: inc/view/customize/banner/BodyDesign.php:317
+#: inc/view/customize/banner/BodyDesign.php:366
+#: inc/view/customize/banner/BodyDesign.php:443
+#: inc/view/customize/banner/BodyDesign.php:483
+#: inc/view/customize/banner/BodyDesign.php:607
+#: inc/view/customize/banner/BodyDesign.php:647
+#: inc/view/customize/banner/BodyDesign.php:753
+#: inc/view/customize/banner/BodyDesign.php:793
+#: inc/view/customize/banner/Design.php:124
+#: inc/view/customize/banner/Design.php:156
+#: inc/view/customize/banner/Design.php:272
+#: inc/view/customize/banner/FooterDesign.php:146
+#: inc/view/customize/banner/FooterDesign.php:195
+#: inc/view/customize/banner/FooterDesign.php:227
+#: inc/view/customize/banner/HeaderDesign.php:195
+#: inc/view/customize/banner/HeaderDesign.php:257
+#: inc/view/customize/banner/individual/Group.php:246
+#: inc/view/customize/banner/individual/Group.php:285
+#: inc/view/customize/banner/individual/Group.php:315
+#: inc/view/customize/banner/individual/SaveButton.php:146
+#: inc/view/customize/banner/individual/SaveButton.php:184
+msgid "Color"
+msgstr "Farbe"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:186
+msgid "Title"
+msgstr "Titel"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:192
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:241
+#: inc/view/customize/banner/BodyDesign.php:341
+#: inc/view/customize/banner/BodyDesign.php:427
+#: inc/view/customize/banner/BodyDesign.php:591
+#: inc/view/customize/banner/BodyDesign.php:737
+#: inc/view/customize/banner/Design.php:136
+#: inc/view/customize/banner/FooterDesign.php:130
+#: inc/view/customize/banner/HeaderDesign.php:138
+#: inc/view/customize/banner/HeaderDesign.php:179
+#: inc/view/customize/banner/individual/Group.php:260
+#: inc/view/customize/banner/individual/Group.php:299
+#: inc/view/customize/banner/individual/SaveButton.php:130
+msgid "Size"
+msgstr "Größe"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:216
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:265
+#: inc/view/customize/banner/BodyDesign.php:451
+#: inc/view/customize/banner/BodyDesign.php:615
+#: inc/view/customize/banner/BodyDesign.php:761
+#: inc/view/customize/banner/Design.php:185
+#: inc/view/customize/banner/FooterDesign.php:175
+#: inc/view/customize/banner/HeaderDesign.php:224
+#: inc/view/customize/banner/individual/Group.php:275
+#: inc/view/customize/banner/individual/SaveButton.php:154
+msgid "Font weight"
+msgstr "Schriftbreite"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:226
+#: inc/view/customize/banner/individual/Group.php:293
+#: inc/view/customize/banner/individual/Texts.php:60
+#: inc/view/customize/banner/Texts.php:123
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/overrides/pro/view/customize/banner/TcfBodyDesign.php:234
+msgid "Define inner distance of the description paragraph."
+msgstr "Definiere den inneren Abstand des Beschreibungstexts."
+
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:57
+msgid "Stack name for non-TCF services"
+msgstr "Stack Name für nicht-TCF Services"
+
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:70
+msgid "Stack description for non-TCF services"
+msgstr "Stack Beschreibung für nicht-TCF Services"
+
+#. translators:
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:97
+msgid ""
+"TCF is currently disabled. Please navigate to %1$sSettings > TCF "
+"Compatibility%2$s to activate it."
+msgstr ""
+"TCF ist derzeit deaktiviert. Bitte navigiere zu %1$sEinstellungen > TCF-"
+"Kompatibilität%2$s, um es zu aktivieren."
+
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:119
+msgid "Services with various purposes outside the TCF standard"
+msgstr "Services mit verschiedenen Zwecken außerhalb des TCF-Standards"
+
+#: inc/overrides/pro/view/customize/banner/TcfTexts.php:120
+msgid ""
+"Services that do not share consents via the TCF standard, but via other "
+"technologies. These are divided into several groups according to their "
+"purpose. Some of them are used based on a legitimate interest (e.g. threat "
+"prevention), others are used only with your consent. Details about the "
+"individual groups and purposes of the services can be found in the "
+"individual privacy settings."
+msgstr ""
+"Services, die Einwilligungen nicht über den TCF-Standard, sondern über "
+"andere Technologien teilen. Diese werden nach ihrem Zweck in mehrere Gruppen "
+"unterteilt. Einige davon werden aufgrund eines berechtigten Interesses "
+"genutzt (z.B. Gefahrenabwehr), andere werden nur mit deiner Einwilligung "
+"genutzt. Details zu den einzelnen Gruppen und Zwecken der Services findest "
+"du in den individuellen Privatsphäre-Einstellungen."
+
+#: inc/overrides/pro/view/TcfBanner.php:156
+msgctxt "legal-text"
+msgid ""
+"In addition, you consent to the transfer of data to partners under the TCF "
+"standard for the following purposes:"
+msgstr ""
+"Darüber hinaus stimmst du der Übermittlung von Daten an Partner im Rahmen "
+"des TCF-Standards für die folgenden Zwecke zu:"
+
+#: inc/overrides/pro/view/TcfBanner.php:161
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Liste der Anbieter"
+
+#: inc/overrides/pro/view/TcfBanner.php:162
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Anbieter"
+
+#: inc/overrides/pro/view/TcfBanner.php:163
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+#: inc/overrides/pro/view/TcfBanner.php:164
+#: inc/view/customize/banner/Decision.php:132
+#: inc/view/customize/banner/Decision.php:154
+#: inc/view/customize/banner/Decision.php:190
+msgid "Hide"
+msgstr "Verstecken"
+
+#: inc/overrides/pro/view/TcfBanner.php:165
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Datenverarbeitung auf der Rechtsgrundlage von:"
+
+#: inc/overrides/pro/view/TcfBanner.php:166
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Kein Anbieter fragt Zwecke auf dieser Rechtsgrundlage."
+
+#: inc/overrides/pro/view/TcfBanner.php:171
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Nicht standardisierte Datenverarbeitung"
+
+#: inc/overrides/pro/view/TcfBanner.php:172
+msgctxt "legal-text"
+msgid ""
+"Some services set cookies and/or process personal data without complying "
+"with consent communication standards. These services are divided into "
+"several groups. So-called \"essential services\" are used based on "
+"legitimate interest and cannot be opted out (an objection may have to be "
+"made by email or letter in accordance with the privacy policy), while all "
+"other services are used only after consent has been given."
+msgstr ""
+"Einige Services setzen Cookies und/oder verarbeiten personenbezogene Daten, "
+"ohne die Standards für die Mitteilung der Einwilligung einzuhalten. Diese "
+"Services werden in mehrere Gruppen eingeteilt. Sogenannte \"essenzielle "
+"Services\" werden auf Basis eines berechtigten Interesses genutzt und können "
+"nicht abgewählt werden (ein Widerspruch muss ggf. per E-Mail oder Brief "
+"gemäß der Datenschutzerklärung erfolgen), während alle anderen Services nur "
+"nach einer Einwilligung genutzt werden."
+
+#: inc/overrides/pro/view/TcfBanner.php:177
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Datenverarbeitung standardisiert nach TCF"
+
+#: inc/overrides/pro/view/TcfBanner.php:178
+msgctxt "legal-text"
+msgid ""
+"The Transparency and Consent Framework (TCF) is a standard for obtaining "
+"consistent consent for processing of personal data and cookie setting. This "
+"should enable all parties in the digital (advertising) chain to ensure that "
+"they set, process and store data and cookies in accordance with the GDPR and "
+"the ePrivacy Directive."
+msgstr ""
+"Das Transparency and Consent Framework (TCF) ist ein Standard für die "
+"Einholung einheitlicher Einwilligungen zur Verarbeitung personenbezogener "
+"Daten und zum Setzen von Cookies. Dies soll es allen Parteien in der "
+"digitalen (Werbe-)Kette ermöglichen, sicherzustellen, dass sie Daten und "
+"Cookies in Übereinstimmung mit der DSGVO und der ePrivacy-Richtlinie "
+"gesetzt, verarbeitet und gespeichert werden."
+
+#: inc/overrides/pro/view/TcfBanner.php:185
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Zwecke"
+
+#: inc/overrides/pro/view/TcfBanner.php:186
+msgctxt "legal-text"
+msgid ""
+"Purposes describe for which purpose which providers may set cookies and "
+"process personal data. Purposes are pre-selected if there is a legitimate "
+"interest for its data processing. For all other purposes, data will only be "
+"processed with explicit consent."
+msgstr ""
+"Zwecke beschreiben, zu welchem Zweck welche Anbieter Cookies setzen und "
+"personenbezogene Daten verarbeiten dürfen. Zwecke werden vorausgewählt, wenn "
+"ein berechtigtes Interesse an der Datenverarbeitung besteht. Für alle "
+"anderen Zwecke werden die Daten nur mit ausdrücklicher Einwilligung "
+"verarbeitet."
+
+#: inc/overrides/pro/view/TcfBanner.php:193
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Besondere Zwecke"
+
+#: inc/overrides/pro/view/TcfBanner.php:194
+msgctxt "legal-text"
+msgid ""
+"Special purposes for setting cookies and processing personal data by our "
+"vendors describe purposes for which we have a legitimate interest that "
+"cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr ""
+"Besondere Zwecke für das Setzen von Cookies und die Verarbeitung "
+"personenbezogener Daten durch unsere Partner beschreiben Zwecke, für die wir "
+"ein berechtigtes Interesse haben, das nicht abgelehnt werden kann. Zum "
+"Beispiel müssen wir Daten verarbeiten, um Betrug zu verhindern."
+
+#: inc/overrides/pro/view/TcfBanner.php:201
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Funktionen"
+
+#: inc/overrides/pro/view/TcfBanner.php:202
+msgctxt "legal-text"
+msgid ""
+"Features for processing personal data describe how data is used to fulfill "
+"one or more purposes. Features cannot be opted out, but in the \"Purposes\" "
+"section, purposes that lead to the use of features can be selected or "
+"deselected. Any purpose can lead to features being used."
+msgstr ""
+"Funktionen zur Verarbeitung personenbezogener Daten beschreiben, wie die "
+"Daten zur Erfüllung eines oder mehrerer Zwecke verwendet werden. Funktionen "
+"können nicht abgewählt werden, aber im Abschnitt “Zwecke” können die Zwecke, "
+"die zur Verwendung von Funktionen führen, ausgewählt oder abgewählt werden. "
+"Jeder Zweck kann dazu führen, dass Funktionen verwendet werden."
+
+#: inc/overrides/pro/view/TcfBanner.php:209
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Besondere Funktionen"
+
+#: inc/overrides/pro/view/TcfBanner.php:210
+msgctxt "legal-text"
+msgid ""
+"Special features for processing personal data describe how data is used to "
+"fulfill one or more purposes in a profound way. Personal data will only be "
+"processed in this way with explicit consent."
+msgstr ""
+"Besondere Funktionen zur Verarbeitung personenbezogener Daten beschreiben, "
+"wie Daten zur Erfüllung eines oder mehrerer Zwecke in tiefgreifender Weise "
+"verwendet werden. Personenbezogene Daten werden auf diese Weise nur mit "
+"ausdrücklicher Einwilligung verarbeitet."
+
+#: inc/overrides/pro/view/TcfBanner.php:291
+msgid ""
+"The TCF requires that the consent dialogue must \"[cover] all or "
+"substantially all of the content of the website\". We therefore recommend "
+"displaying the consent dialogue as a banner in the middle of the website. "
+"Also make sure that the overlay remains active so that your website cannot "
+"be used until the consent decision has been made."
+msgstr ""
+"Der TCF-Standard verlangt, dass der Einwilligungsdialog \"den gesamten oder "
+"im Wesentlichen den gesamten Inhalt der Website [bedecken] muss\". Wir "
+"empfehlen daher, den Einwilligungsdialog als Banner zentriert auf der "
+"Website anzuzeigen. Achte auch darauf, dass das Overlay aktiv bleibt, damit "
+"deine Website nicht genutzt werden kann, bis eine Einwilligung erfolgt."
+
+#: inc/overrides/pro/view/TcfBanner.php:323
+msgid ""
+"You currently have TCF mode enabled. Therefore, you are not allowed to "
+"change the font size and font thickness for this button."
+msgstr ""
+"Du hast derzeit den TCF-Modus aktiviert. Daher darfst du die Schriftgröße "
+"und die Schriftbreite für diesen Button nicht ändern."
+
+#. translators:
+#: inc/overrides/pro/view/TcfBanner.php:347
+msgid ""
+"Your current contrast ratio between background and font color (%1$s) does "
+"not reach the minimum of %2$s. Please adjust your colors!"
+msgstr ""
+"Dein aktuelles Kontrastverhältnis zwischen Hintergrund und Schriftfarbe "
+"(%1$s) erfüllt nicht das Minimum von %2$s. Bitte passe deine Farben an!"
+
+#: inc/rest/Templates.php:144
+msgid ""
+"The Service Cloud is currently not reachable, we will try to download the "
+"templates again in a few minutes automatically..."
+msgstr ""
+"Die Service Cloud ist zur Zeit nicht erreichbar, wir werden versuchen, die "
+"Vorlagen in einigen Minuten automatisch erneut herunterzuladen..."
+
+#: inc/RpmInitiator.php:214
+msgid ""
+"I allow to place a link in the cookie banner, which informs about the use of "
+"this plugin."
+msgstr ""
+"Ich erlaube, einen Link im Cookie Banner zu platzieren, der über die "
+"Verwendung dieses Plugins informiert."
+
+#: inc/scanner/Scanner.php:530
+msgid "Real Cookie Banner: Scan of your pages"
+msgstr "Real Cookie Banner: Scan deiner Seiten"
+
+#: inc/scanner/Scanner.php:532
+msgid "Real Cookie Banner: Automatic scan of complete website"
+msgstr "Real Cookie Banner: Automatischer Scan der kompletten Website"
+
+#: inc/scanner/Scanner.php:549
+msgid "https://devowl.io/support/"
+msgstr "https://devowl.io/de/support/"
+
+#: inc/scanner/Scanner.php:550
+msgid "Contact support"
+msgstr "Support kontaktieren"
+
+#: inc/scanner/Scanner.php:554
+msgid "Cancel scan"
+msgstr "Scan abbrechen"
+
+#: inc/scanner/Scanner.php:558
+msgid "Skip failed pages"
+msgstr "Fehlerhafte Seiten überspringen"
+
+#. translators:
+#: inc/scanner/Scanner.php:580
+msgid "%1$d pages failed to be scanned."
+msgstr "%1$d Seiten konnten nicht gescannt werden."
+
+#: inc/scanner/Scanner.php:584
+msgid ""
+"Real Cookie Banner tried to automatically scan your entire website for "
+"services and external URLs."
+msgstr ""
+"Real Cookie Banner hat versucht, deine gesamte Website automatisch nach "
+"Services und externen URLs zu scannen."
+
+#: inc/settings/BannerLink.php:122
+msgid "General terms and conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+#: inc/settings/BannerLink.php:123
+msgid "Terms of use"
+msgstr "Nutzungsbedingungen"
+
+#: inc/settings/BannerLink.php:124
+msgid "Cancellation policy"
+msgstr "Widerrufsbelehrung"
+
+#: inc/settings/BannerLink.php:125
+msgid "Cookie policy"
+msgstr "Cookie-Richtlinie"
+
+#: inc/settings/BannerLink.php:126
+msgid "Data processing agreement"
+msgstr "Vereinbarung zur Datenverarbeitung"
+
+#: inc/settings/BannerLink.php:127
+msgid "Dispute resolution"
+msgstr "Streitbeilegung"
+
+#: inc/settings/BannerLink.php:131
+msgid "Banner links"
+msgstr "Banner Links"
+
+#: inc/settings/BannerLink.php:132
+msgid "Banner link"
+msgstr "Banner Link"
+
+#: inc/settings/BannerLink.php:380
+msgctxt "legal-text"
+msgid "Privacy policy"
+msgstr "Datenschutzerklärung"
+
+#: inc/settings/Blocker.php:153
+msgid "Content Blockers"
+msgstr "Content Blocker"
+
+#: inc/settings/Cookie.php:215 inc/view/ConfigPage.php:196
+#: inc/view/ConfigPage.php:263
+msgid "Cookies"
+msgstr "Cookies"
+
+#: inc/settings/CookieGroup.php:64
+#: inc/view/customize/banner/individual/Group.php:82
+msgid "Service groups"
+msgstr "Service-Gruppen"
+
+#: inc/settings/CookieGroup.php:65
+msgid "Service group"
+msgstr "Service-Gruppe"
+
+#: inc/settings/CookieGroup.php:247 inc/settings/CookieGroup.php:268
+#: inc/templates/TemplateConsumers.php:263
+msgid "Essential"
+msgstr "Essenziell"
+
+#: inc/settings/CookieGroup.php:248 inc/settings/CookieGroup.php:269
+#: inc/templates/TemplateConsumers.php:266
+msgid "Functional"
+msgstr "Funktional"
+
+#: inc/settings/CookieGroup.php:249 inc/settings/CookieGroup.php:270
+#: inc/templates/TemplateConsumers.php:269
+msgid "Statistics"
+msgstr "Statistik"
+
+#. translators: Keep this for backwards-compatibility (usually it is "Statistics")
+#: inc/settings/CookieGroup.php:252 inc/settings/CookieGroup.php:297
+msgid "Statistic"
+msgstr "Statistik"
+
+#. translators: Keep this for backwards-compatibility (usually it is "Statistics")
+#: inc/settings/CookieGroup.php:253 inc/settings/CookieGroup.php:271
+#: inc/templates/TemplateConsumers.php:272
+msgid "Marketing"
+msgstr "Marketing"
+
+#: inc/settings/CookieGroup.php:274
+msgctxt "legal-text"
+msgid ""
+"Essential services are required for the basic functionality of the website. "
+"They only contain technically necessary services. These services cannot be "
+"objected to."
+msgstr ""
+"Essenzielle Services sind für die grundlegende Funktionalität der Website "
+"erforderlich. Sie enthalten nur technisch notwendige Services. Diesen "
+"Services kann nicht widersprochen werden."
+
+#: inc/settings/CookieGroup.php:279
+msgctxt "legal-text"
+msgid ""
+"Functional services are necessary to provide features beyond the essential "
+"functionality such as prettier fonts, video playback or interactive web 2.0 "
+"features. Content from e.g. video platforms and social media platforms are "
+"blocked by default, and can be consented to. If the service is agreed to, "
+"this content is loaded automatically without further manual consent."
+msgstr ""
+"Funktionale Services sind notwendig, um über die wesentliche Funktionalität "
+"der Website hinausgehende Features wie hübschere Schriftarten, "
+"Videowiedergabe oder interaktive Web 2.0-Features bereitzustellen. Inhalte "
+"von z.B. Video- und Social Media-Plattformen sind standardmäßig gesperrt und "
+"können zugestimmt werden. Wenn dem Service zugestimmt wird, werden diese "
+"Inhalte automatisch ohne weitere manuelle Einwilligung geladen."
+
+#: inc/settings/CookieGroup.php:284
+msgctxt "legal-text"
+msgid ""
+"Statistics services are needed to collect pseudonymous data about the "
+"visitors of the website. The data enables us to understand visitors better "
+"and to optimize the website."
+msgstr ""
+"Statistik-Services werden benötigt, um pseudonymisierte Daten über die "
+"Besucher der Website zu sammeln. Die Daten ermöglichen es uns, die Besucher "
+"besser zu verstehen und die Website zu optimieren."
+
+#: inc/settings/CookieGroup.php:289
+msgctxt "legal-text"
+msgid ""
+"Marketing services are used by us and third parties to track the behaviour "
+"of individual visitors (across multiple pages), analyse the data collected "
+"and, for example, display personalized advertisements. These services enable "
+"us to track visitors across multiple websites."
+msgstr ""
+"Marketing Services werden von uns und Dritten genutzt, um das Verhalten "
+"einzelner Nutzer aufzuzeichnen, die gesammelten Daten zu analysieren und z."
+"B. personalisierte Werbung anzuzeigen. Diese Services ermöglichen es uns, "
+"Nutzer über mehrere Websites hinweg zu verfolgen."
+
+#: inc/settings/Revision.php:495
+msgid "Without context"
+msgstr "Ohne Kontext"
+
+#: inc/templates/BannerTemplates.php:44
+msgid "Light Dialog"
+msgstr "Heller Dialog"
+
+#: inc/templates/BannerTemplates.php:45
+msgid "Standard design for the cookie consent as a dialog."
+msgstr "Standard-Design für die Cookie-Einwilligung als Dialog."
+
+#: inc/templates/BannerTemplates.php:49
+msgid "Light Banner"
+msgstr "Helles Banner"
+
+#: inc/templates/BannerTemplates.php:50
+msgid "Standard design for the cookie consent as a banner."
+msgstr "Standard-Design für die Cookie-Einwilligung als Banner."
+
+#: inc/templates/BannerTemplates.php:62
+msgid "Dark Dialog"
+msgstr "Dunkler Dialog"
+
+#: inc/templates/BannerTemplates.php:63
+msgid "Standard design for the cookie consent as a dialog in dark mode."
+msgstr ""
+"Standard-Design für die Cookie-Einwilligung als Dialog im dunklen Modus."
+
+#: inc/templates/BannerTemplates.php:111
+msgid "Dark Banner"
+msgstr "Dunkles Banner"
+
+#: inc/templates/BannerTemplates.php:112
+msgid "Standard design for the cookie consent as a banner in dark mode."
+msgstr ""
+"Standard-Design für die Cookie-Einwilligung als Banner im dunklen Modus."
+
+#: inc/templates/BannerTemplates.php:166
+msgid "Divi Dialog"
+msgstr "Divi-Dialog"
+
+#: inc/templates/BannerTemplates.php:167
+msgid "Optimized design for the standard Divi theme as a consent dialog."
+msgstr "Optimiertes Design für das Divi-Theme als Cookie Dialog."
+
+#: inc/templates/BannerTemplates.php:202
+msgid "Divi Banner"
+msgstr "Divi-Banner"
+
+#: inc/templates/BannerTemplates.php:203
+msgid "Optimized design for the standard Divi theme as a consent banner."
+msgstr "Optimiertes Design für das Divi-Theme als Cookie Banner."
+
+#: inc/templates/BannerTemplates.php:242
+msgid "Astra Dialog"
+msgstr "Astra-Dialog"
+
+#: inc/templates/BannerTemplates.php:243
+msgid "Optimized design for the standard Astra theme as a consent dialog."
+msgstr "Optimiertes Design für das Astra Theme als Cookie Dialog."
+
+#: inc/templates/BannerTemplates.php:282
+msgid "Astra Banner"
+msgstr "Astra-Banner"
+
+#: inc/templates/BannerTemplates.php:283
+msgid "Optimized design for the standard Astra theme as a consent banner."
+msgstr "Optimiertes Design für das Astra Theme als Cookie Banner."
+
+#: inc/templates/BannerTemplates.php:327
+msgid "Avada Dialog"
+msgstr "Avada-Dialog"
+
+#: inc/templates/BannerTemplates.php:328
+msgid "Optimized design for the standard Avada theme as a consent dialog."
+msgstr "Optimiertes Design für das Avada Theme als Cookie Dialog."
+
+#: inc/templates/BannerTemplates.php:372
+msgid "Avada Banner"
+msgstr "Avada-Banner"
+
+#: inc/templates/BannerTemplates.php:373
+msgid "Optimized design for the standard Avada theme as a consent banner."
+msgstr "Optimiertes Design für das Avada Theme als Cookie Banner."
+
+#: inc/templates/BannerTemplates.php:419
+msgid "Clean Dialog"
+msgstr "Sauberer Dialog"
+
+#: inc/templates/BannerTemplates.php:420
+msgid "Clean design which suits perfect to themes without many colors."
+msgstr "Sauberes Design, das perfekt zu Themes ohne viele Farben passt."
+
+#: inc/templates/BannerTemplates.php:457
+msgid "Clean Green"
+msgstr "Sauberes Green"
+
+#: inc/templates/BannerTemplates.php:458 inc/templates/BannerTemplates.php:518
+#: inc/templates/BannerTemplates.php:830
+msgid "Professional request to agree to the cookies."
+msgstr "Professionelle Aufforderung, den Cookies zuzustimmen."
+
+#: inc/templates/BannerTemplates.php:517
+msgid "Clean Red"
+msgstr "Sauberes Red"
+
+#: inc/templates/BannerTemplates.php:597
+msgid "Red Contrast"
+msgstr "Red Contrast"
+
+#: inc/templates/BannerTemplates.php:598
+msgid "Emotionally colorful play of red-black-white."
+msgstr "Emotionales Farbspiel von Rot-Schwarz-Weiß."
+
+#: inc/templates/BannerTemplates.php:662
+msgid "Gold in the Dark"
+msgstr "Gold in the Dark"
+
+#: inc/templates/BannerTemplates.php:663
+msgid "Dark mode design with a clear accent."
+msgstr "Dunkler Modus-Design mit einem klaren Akzent."
+
+#: inc/templates/BannerTemplates.php:749
+msgid "Gold Zen"
+msgstr "Gold Zen"
+
+#: inc/templates/BannerTemplates.php:750
+msgid "Bright appearance with gold-green accent."
+msgstr "Helle Optik mit gold-grünem Akzent."
+
+#: inc/templates/BannerTemplates.php:829
+msgid "Business Green"
+msgstr "Business Green"
+
+#: inc/templates/BannerTemplates.php:914
+msgid "Business as usual"
+msgstr "Business as usual"
+
+#: inc/templates/BannerTemplates.php:915
+msgid "Unobtrusive, clear and directly visible to everyone."
+msgstr "Unauffällig, klar und direkt sichtbar für alle."
+
+#: inc/templates/BannerTemplates.php:988
+msgid "Creative Minimal"
+msgstr "Creative Minimal"
+
+#: inc/templates/BannerTemplates.php:989
+msgid "Design as clear and minimalist as possible."
+msgstr "Gestalte so klar und minimalistisch wie möglich."
+
+#: inc/templates/BannerTemplates.php:1081
+msgid "Simple Black-White"
+msgstr "Simple Black-White"
+
+#: inc/templates/BannerTemplates.php:1082
+msgid "Make it easy with just two colors."
+msgstr "Mach es dir einfach mit nur zwei Farben."
+
+#: inc/templates/ServiceLocalDataSource.php:47
+msgid ""
+"Real Cookie Banner asks website visitors for consent to set cookies and "
+"process personal data. For this purpose, a UUID (pseudonymous identification "
+"of the user) is assigned to each website visitor, which is valid until the "
+"cookie expires to store the consent. Cookies are used to test whether "
+"cookies can be set, to store reference to documented consent, to store which "
+"services from which service groups the visitor has consented to, and, if "
+"consent is obtained under the Transparency & Consent Framework (TCF), to "
+"store consent in TCF partners, purposes, special purposes, features and "
+"special features. As part of the obligation to disclose according to GDPR, "
+"the collected consent is fully documented. This includes, in addition to the "
+"services and service groups to which the visitor has consented, and if "
+"consent is obtained according to the TCF standard, to which TCF partners, "
+"purposes and features the visitor has consented, all cookie banner settings "
+"at the time of consent as well as the technical circumstances (e.g. size of "
+"the displayed area at the time of consent) and the user interactions (e.g. "
+"clicking on buttons) that led to consent. Consent is collected once per "
+"language."
+msgstr ""
+"Real Cookie Banner bittet Website-Besucher um die Einwilligung zum Setzen "
+"von Cookies und zur Verarbeitung personenbezogener Daten. Dazu wird jedem "
+"Website-Besucher eine UUID (pseudonyme Identifikation des Nutzers) "
+"zugewiesen, die bis zum Ablauf des Cookies zur Speicherung der Einwilligung "
+"gültig ist. Cookies werden dazu verwendet, um zu testen, ob Cookies gesetzt "
+"werden können, um Referenz auf die dokumentierte Einwilligung zu speichern, "
+"um zu speichern, in welche Services aus welchen Service-Gruppen der Besucher "
+"eingewilligt hat, und, falls Einwilligung nach dem Transparency & Consent "
+"Framework (TCF) eingeholt werden, um die Einwilligungen in TCF Partner, "
+"Zwecke, besondere Zwecke, Funktionen und besondere Funktionen zu speichern. "
+"Im Rahmen der Darlegungspflicht nach DSGVO wird die erhobene Einwilligung "
+"vollumfänglich dokumentiert. Dazu zählt neben den Services und Service-"
+"Gruppen, in welche der Besucher eingewilligt hat, und falls Einwilligung "
+"nach dem TCF Standard eingeholt werden, in welche TCF Partner, Zwecke und "
+"Funktionen der Besucher eingewilligt hat, alle Einstellungen des Cookie "
+"Banners zum Zeitpunkt der Einwilligung als auch die technischen Umstände (z."
+"B. Größe des Sichtbereichs bei der Einwilligung) und die Nutzerinteraktionen "
+"(z.B. Klick auf Buttons), die zur Einwilligung geführt haben. Die "
+"Einwilligung wird pro Sprache einmal erhoben."
+
+#: inc/templates/TemplateConsumers.php:227
+msgid "Load content"
+msgstr "Inhalt laden"
+
+#: inc/templates/TemplateConsumers.php:230
+msgid "Load map"
+msgstr "Karte laden"
+
+#: inc/templates/TemplateConsumers.php:233
+msgid "Load form"
+msgstr "Formular laden"
+
+#: inc/templates/TemplateConsumers.php:236 inc/view/ConfigPage.php:279
+#: inc/view/customize/banner/FooterDesign.php:243
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: inc/templates/TemplateConsumers.php:237
+msgid "Already created"
+msgstr "Bereits erstellt"
+
+#: inc/templates/TemplateConsumers.php:238
+msgid "You have already created a Content Blocker with this template."
+msgstr "Du hast bereits einen Content Blocker mit dieser Vorlage erstellt."
+
+#: inc/templates/TemplateConsumers.php:242
+msgid "You have already created a Service (Cookie) with this template."
+msgstr "Du hast bereits einen Service (Cookie) mit dieser Vorlage erstellt."
+
+#. translators:
+#: inc/templates/TemplateConsumers.php:247
+msgid "This cookie template is optimized to work with %s."
+msgstr "Diese Cookie-Vorlage ist für die Nutzung mit %s optimiert."
+
+#. translators:
+#: inc/templates/TemplateConsumers.php:249
+msgid "Please activate %s in settings to use this template."
+msgstr ""
+"Bitte aktiviere %s in den Einstellungen, um diese Vorlage zu verwenden."
+
+#. translators:
+#: inc/templates/TemplateConsumers.php:254
+msgid ""
+"You don't have to define a technical handling here, because this is done by "
+"the plugin <strong>%s</strong>."
+msgstr ""
+"Du musst hier nicht zwingend eine technische Handhabung definieren, da dies "
+"vom Plugin <strong>%s</strong> übernommen wird."
+
+#: inc/templates/TemplateConsumers.php:258
+msgid ""
+"A suitable content blocker for this service can be created automatically."
+msgstr ""
+"Ein passender Content Blocker für diesen Service kann automatisch erstellt "
+"werden."
+
+#. translators:
+#: inc/templates/TemplateConsumers.php:277
+msgid ""
+"This template is currently disabled because the respective WordPress plugin "
+"is not installed or the desired function is not active. <a href=\"%s\" "
+"target=\"_blank\">Learn more</a>"
+msgstr ""
+"Diese Vorlage ist derzeit deaktiviert, da das entsprechende WordPress-Plugin "
+"nicht installiert ist oder die gewünschte Funktion nicht aktiv ist. <a "
+"href=\"%s\" target=\"_blank\">Mehr erfahren</a>"
+
+#: inc/templates/TemplateConsumers.php:281
+msgid ""
+"https://devowl.io/knowledge-base/real-cookie-banner-disabled-cookie-"
+"templates/"
+msgstr ""
+"https://devowl.io/de/wissensdatenbank/real-cookie-banner-deaktivierte-cookie-"
+"vorlagen/"
+
+#: inc/UserConsent.php:300
+msgid "Invalid IP address. Please insert a valid IPv4 or IPv6 address."
+msgstr ""
+"Ungültige IP-Adresse. Bitte gib eine gültige IPv4- oder IPv6-Adresse ein."
+
+#: inc/view/Banner.php:112
+msgid "Show cookie banner again"
+msgstr "Cookie Banner erneut anzeigen"
+
+#: inc/view/BannerCustomize.php:222 inc/view/ConfigPage.php:287
+msgid "Cookie Banner"
+msgstr "Cookie Banner"
+
+#: inc/view/BannerCustomize.php:223
+msgid "Design your cookie banner."
+msgstr "Gestalte dein Cookie Banner."
+
+#: inc/view/checklist/ActivateBanner.php:31
+msgid "Activate Cookie Banner and Content Blocker"
+msgstr "Cookie Banner und Content Blocker aktivieren"
+
+#: inc/view/checklist/ActivateBanner.php:36
+msgid ""
+"Once everything is set up, you can display the cookie banner to your "
+"visitors."
+msgstr ""
+"Sobald alles eingerichtet ist, kannst du deinen Besuchern das Cookie Banner "
+"anzeigen."
+
+#: inc/view/checklist/ActivateBanner.php:46
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: inc/view/checklist/AddBlocker.php:26
+msgid "Create a content blocker"
+msgstr "Content Blocker erstellen"
+
+#: inc/view/checklist/AddBlocker.php:31
+msgid ""
+"Visitors who do not agree to the cookies and data processing of e.g. YouTube "
+"will not be able to load YouTube videos on your website. Content blockers "
+"will automatically replace this content and ask the visitor for consent "
+"again."
+msgstr ""
+"Besucher, die den Cookies und der Datenverarbeitung von z. B. YouTube nicht "
+"zustimmen, können keine YouTube-Videos auf deiner Website laden. Content "
+"Blocker ersetzen diese Inhalte automatisch und fragen den Besucher erneut "
+"nach einer Einwilligung."
+
+#: inc/view/checklist/AddBlocker.php:44
+msgid "Add content blocker"
+msgstr "Content Blocker hinzufügen"
+
+#: inc/view/checklist/AddCookie.php:29
+msgid "Add all services (cookies) from your website"
+msgstr "Alle Services (Cookies) von deiner Website hinzufügen"
+
+#: inc/view/checklist/AddCookie.php:34
+msgid ""
+"You can manually add all services from your website. Use the cookie "
+"templates of known services to save time!"
+msgstr ""
+"Du kannst alle Services von deiner Website manuell hinzufügen. Nutze die "
+"Service-Vorlagen von bekannten Services, um Zeit zu sparen!"
+
+#: inc/view/checklist/AddCookie.php:47
+msgid "Add service"
+msgstr "Service hinzufügen"
+
+#: inc/view/checklist/CustomizeBanner.php:28
+msgid "Customize the design of the cookie banner"
+msgstr "Passe das Design des Cookie Banners an"
+
+#: inc/view/checklist/CustomizeBanner.php:33
+msgid ""
+"You can customize the design of the cookie banner. Match it perfectly to "
+"your website!"
+msgstr ""
+"Du kannst das Design des Cookie Banners individuell gestalten. Passe es "
+"perfekt an deine Website an!"
+
+#: inc/view/checklist/CustomizeBanner.php:49
+msgid "Start customizing"
+msgstr "Anpassen beginnen"
+
+#: inc/view/checklist/GetPro.php:26
+msgid "Buy a license of Real Cookie Banner PRO"
+msgstr "Kaufe eine Lizenz von Real Cookie Banner PRO"
+
+#: inc/view/checklist/GetPro.php:31
+msgid "Get a PRO license at devowl.io to get more out of Real Cookie Banner!"
+msgstr ""
+"Hol dir eine PRO-Lizenz auf devowl.io, um mehr aus Real Cookie Banner "
+"herauszuholen!"
+
+#: inc/view/checklist/Install.php:21
+msgid "Install Real Cookie Banner"
+msgstr "Real Cookie Banner installieren"
+
+#: inc/view/checklist/Install.php:26
+msgid ""
+"You have to install and activate the plugin in your WordPress to start with "
+"the setup."
+msgstr ""
+"Du musst das Plugin in deinem WordPress installieren und aktivieren, um mit "
+"der Einrichtung zu beginnen."
+
+#: inc/view/checklist/License.php:35
+msgid "Activate your license"
+msgstr "Lizenz aktivieren"
+
+#: inc/view/checklist/License.php:40
+msgid ""
+"Only users with an activated license get updates and are always up-to-date "
+"on legal changes."
+msgstr ""
+"Nur Nutzer mit einer aktivierten Lizenz erhalten Updates und sind immer auf "
+"dem neuesten Stand hinsichtlich gesetzlicher Änderungen."
+
+#: inc/view/checklist/License.php:53
+msgid "Activate now"
+msgstr "Jetzt aktivieren"
+
+#: inc/view/checklist/OperatorContact.php:36
+msgid ""
+"You as a website operator should provide your address and at least one "
+"contact option to fulfill your information obligations for self-hosted "
+"services."
+msgstr ""
+"Du als Website-Betreiber solltest deine Adresse und mindestens eine "
+"Kontaktmöglichkeit angeben, um deine Informationspflichten für selbst "
+"gehostete Services zu erfüllen."
+
+#: inc/view/checklist/OperatorContact.php:49
+msgid "Add operator details"
+msgstr "Betreiberdetails hinzufügen"
+
+#: inc/view/checklist/PrivacyPolicy.php:28
+#: inc/view/checklist/PrivacyPolicy.php:46
+msgid "Set privacy policy page"
+msgstr "Datenschutzerklärung Seite einstellen"
+
+#: inc/view/checklist/PrivacyPolicy.php:33
+msgid ""
+"Legally required pages must be accessible even if the cookie banner covers "
+"your website. Therefore, the privacy policy should be linked in the footer "
+"of the cookie banner."
+msgstr ""
+"Gesetzlich vorgeschriebene Seiten müssen zugänglich sein, auch wenn das "
+"Cookie Banner deine Website verdeckt. Deshalb sollte die "
+"Datenschutzerklärung direkt im Fußbereich des Cookie Banner verlinkt werden."
+
+#: inc/view/checklist/PrivacyPolicyMentionUsage.php:31
+msgid "Explain data processing of cookie banner in privacy policy"
+msgstr ""
+"Erkläre die Datenverarbeitung des Cookie Banners in den "
+"Datenschutzerklärungen"
+
+#: inc/view/checklist/PrivacyPolicyMentionUsage.php:36
+msgid ""
+"You must explain to your website visitors in your privacy policy which data "
+"Real Cookie Banner processes and stores to obtain consent. We provide you "
+"with text suggestion that you can copy and paste into your privacy policy."
+msgstr ""
+"Du musst deinen Website-Besuchern in deiner Datenschutzerklärung erklären, "
+"welche Daten Real Cookie Banner verarbeitet und speichert, um eine "
+"Einwilligung einzuholen. Wir stellen dir einen Textvorschlag zur Verfügung, "
+"den du kopieren und in deine Datenschutzerklärung einfügen kannst."
+
+#: inc/view/checklist/PrivacyPolicyMentionUsage.php:49
+msgid "Copy suggested text"
+msgstr "Vorgeschlagenen Text kopieren"
+
+#: inc/view/checklist/SaveSettings.php:29
+msgid "Adjust the settings of the cookie banner"
+msgstr "Einstellungen des Cookie Banners anpassen"
+
+#: inc/view/checklist/SaveSettings.php:34
+msgid ""
+"Decide which features should be enabled in your cookie banner depending on "
+"your needs."
+msgstr ""
+"Entscheide, welche Features in deinem Cookie Banner nach deinen "
+"Anforderungen aktiviert sein sollen."
+
+#: inc/view/checklist/SaveSettings.php:44
+msgid "Manage settings"
+msgstr "Einstellungen anpassen"
+
+#: inc/view/checklist/Scanner.php:23
+msgid "Scan your website for services"
+msgstr "Scanne deine Website nach Services"
+
+#: inc/view/checklist/Scanner.php:28
+msgid ""
+"Scan your website to identify services used and external URLs that may "
+"transmit personal data and/or set cookies."
+msgstr ""
+"Scanne deine Website, um genutzte Services und externe URLs zu "
+"identifizieren, die persönliche Daten übertragen und/oder Cookies setzen "
+"können."
+
+#: inc/view/checklist/Scanner.php:41
+msgid "Open scanner"
+msgstr "Scanner öffnen"
+
+#: inc/view/checklist/Shortcode.php:28
+msgid "Place legal links to your website"
+msgstr "Platziere rechtliche Links auf deiner Website"
+
+#: inc/view/checklist/Shortcode.php:33
+msgid ""
+"Your website visitors must be able to view their consent history, change "
+"their consent, or withdraw their consent at any time. This must be as easy "
+"as giving consent. Therefore, the legal links must be included on every "
+"subpage of the website (e.g. in the footer)."
+msgstr ""
+"Deine Website-Besucher müssen in der Lage sein, den Verlauf ihrer "
+"Einwilligung einzusehen, ihre Einwilligung zu ändern oder sie jederzeit zu "
+"widerrufen. Das muss so einfach sein wie die Erteilung der Einwilligung. "
+"Deshalb müssen die rechtlichen Links auf jeder Unterseite der Website zu "
+"finden sein (z. B. im Footer/Fußzeile)."
+
+#: inc/view/checklist/Shortcode.php:46
+msgid "Create legal links"
+msgstr "Rechtliche Links erstellen"
+
+#: inc/view/checklist/ViewStats.php:26
+msgid "Check out statistics about consents"
+msgstr "Statistiken über Einwilligungen ansehen"
+
+#: inc/view/checklist/ViewStats.php:31
+msgid ""
+"All consents are documented, so that you can prove in doubt who, when and "
+"how a consent was given. Statistics about this will help you to e. g. "
+"extrapolate Google Analytics data. You can use them to estimate how many "
+"visitors have visited your website, even if not all of them have consented "
+"to use statistics services."
+msgstr ""
+"Alle Einwilligungen werden dokumentiert, sodass du im Zweifel nachweisen "
+"kannst, wer, wann und wie eine Einwilligung erteilt hat. Statistiken darüber "
+"helfen dir z. B. bei der Hochrechnung von Google Analytics-Daten. Mit ihnen "
+"kannst du abschätzen, wie viele Besucher deine Website besucht haben, auch "
+"wenn nicht alle von ihnen der Nutzung statistischer Services zugestimmt "
+"haben."
+
+#: inc/view/checklist/ViewStats.php:49
+msgid "View stats"
+msgstr "Statistiken ansehen"
+
+#: inc/view/ConfigPage.php:101
+msgid "Set privacy policy URL"
+msgstr "Datenschutzerklärung URL einstellen"
+
+#: inc/view/ConfigPage.php:116
+msgid ""
+"There are no privacy policies with further information linked for the "
+"following services in your cookie banner. We now consider these to be "
+"mandatory in order to comply with the information obligations under the "
+"GDPR. Please provide a privacy policy for each service!"
+msgstr ""
+"Für folgende Services in deinen Cookie Banner sind keine "
+"Datenschutzerklärungen mit weiterführenden Informationen verlinkt. Wir "
+"halten diese mittlerweile als zwingend notwendig, um den "
+"Informationspflichten nach DSGVO nachzukommen. Bitte hinterlege in jedem "
+"Service eine Datenschutzerklärung!"
+
+#: inc/view/ConfigPage.php:142
+msgid ""
+"A cookie banner for your website is installed. With it, you can integrate e."
+"g. <strong>Google Analytics, Google Maps or YouTube videos</strong> legally "
+"compliant. You just have to configure it!"
+msgstr ""
+"Ein Cookie Banner für deine Website ist installiert. Damit kannst du z.B. "
+"<strong>Google Analytics, Google Maps oder YouTube Videos</strong> "
+"rechtskonform einbinden. Du musst es nur noch einrichten!"
+
+#: inc/view/ConfigPage.php:147
+msgid "Start now!"
+msgstr "Jetzt starten!"
+
+#: inc/view/ConfigPage.php:169
+msgid ""
+"<strong>Adblocker detected</strong>: You may use an adblocker in your "
+"browser. This can block parts of the settings of the Real Cookie Banner and "
+"thus lead to errors. <strong>Please deactivate your adblocker for your own "
+"website!</strong>"
+msgstr ""
+"<strong>Adblocker erkannt</strong>: Du verwendest möglicherweise einen "
+"Adblocker in deinem Browser. Dieser kann Teile der Einstellungen des Real "
+"Cookie Banners blockieren und somit zu Fehlern führen. <strong>Bitte "
+"deaktiviere deinen Adblocker für deine eigene Website!</strong>"
+
+#: inc/view/ConfigPage.php:216 inc/view/ConfigPage.php:274
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/view/ConfigPage.php:278
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: inc/view/customize/banner/BasicLayout.php:76
+msgid ""
+"The animation you choose will have a negative impact on your PageSpeed "
+"Insights score. Please choose an animation where the cookie banner is "
+"animated from outside the website to achieve the best website loading speed!"
+msgstr ""
+"Die von dir gewählte Animation hat einen negativen Einfluss auf deinen "
+"PageSpeed Insights Score. Bitte wähle eine Animation, bei der das Cookie "
+"Banner von außerhalb der Website animiert wird, um die beste "
+"Ladegeschwindigkeit der Website zu erreichen!"
+
+#: inc/view/customize/banner/BasicLayout.php:84
+msgid "Basic Layout"
+msgstr "Grundlegendes Layout"
+
+#: inc/view/customize/banner/BasicLayout.php:88
+#: inc/view/customize/banner/individual/Layout.php:41
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/view/customize/banner/BasicLayout.php:91
+msgid "Dialog"
+msgstr "Dialog"
+
+#: inc/view/customize/banner/BasicLayout.php:92
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/view/customize/banner/BasicLayout.php:100
+#: inc/view/customize/banner/individual/Layout.php:54
+#: inc/view/customize/banner/individual/Layout.php:78
+msgid "Maximum width"
+msgstr "Maximale Breite"
+
+#: inc/view/customize/banner/BasicLayout.php:115
+#: inc/view/customize/banner/BasicLayout.php:143
+msgid "Position"
+msgstr "Position"
+
+#: inc/view/customize/banner/BasicLayout.php:118
+msgid "Top left"
+msgstr "Oben links"
+
+#: inc/view/customize/banner/BasicLayout.php:119
+msgid "Top center"
+msgstr "Oben Mitte"
+
+#: inc/view/customize/banner/BasicLayout.php:120
+msgid "Top right"
+msgstr "Oben rechts"
+
+#: inc/view/customize/banner/BasicLayout.php:121
+msgid "Middle left"
+msgstr "Mitte links"
+
+#: inc/view/customize/banner/BasicLayout.php:122
+#: inc/view/customize/banner/BodyDesign.php:261
+#: inc/view/customize/banner/BodyDesign.php:848
+#: inc/view/customize/banner/Mobile.php:114
+msgid "Center"
+msgstr "Zentriert"
+
+#: inc/view/customize/banner/BasicLayout.php:123
+msgid "Middle right"
+msgstr "Mitte rechts"
+
+#: inc/view/customize/banner/BasicLayout.php:124
+msgid "Bottom left"
+msgstr "Unten links"
+
+#: inc/view/customize/banner/BasicLayout.php:125
+msgid "Bottom center"
+msgstr "Unten Mitte"
+
+#: inc/view/customize/banner/BasicLayout.php:126
+msgid "Bottom right"
+msgstr "Unten rechts"
+
+#: inc/view/customize/banner/BasicLayout.php:136
+msgid "Define outer distance of the dialog."
+msgstr "Definiere den äußeren Abstand des Dialogs."
+
+#: inc/view/customize/banner/BasicLayout.php:146
+#: inc/view/customize/banner/Mobile.php:113
+msgid "Top"
+msgstr "Oben"
+
+#: inc/view/customize/banner/BasicLayout.php:147
+#: inc/view/customize/banner/Mobile.php:115
+msgid "Bottom"
+msgstr "Unten"
+
+#: inc/view/customize/banner/BasicLayout.php:155
+msgid "Maximum content width"
+msgstr "Maximale Inhaltsbreite"
+
+#: inc/view/customize/banner/BasicLayout.php:170
+msgid "Dialog border radius"
+msgstr "Dialog-Rahmen: Abgerundete Ecken"
+
+#: inc/view/customize/banner/BasicLayout.php:185
+msgid "Button border radius"
+msgstr "Button-Rahmen: Abgerundete Ecken"
+
+#: inc/view/customize/banner/BasicLayout.php:200
+msgid "Animation on display"
+msgstr "Animation beim Einblenden"
+
+#: inc/view/customize/banner/BasicLayout.php:204
+#: inc/view/customize/banner/BasicLayout.php:246
+#: inc/view/customize/banner/BodyDesign.php:378
+#: inc/view/customize/banner/BodyDesign.php:550
+#: inc/view/customize/banner/BodyDesign.php:697
+#: inc/view/customize/banner/individual/SaveButton.php:85
+msgid "Type"
+msgstr "Typ"
+
+#: inc/view/customize/banner/BasicLayout.php:218
+#: inc/view/customize/banner/BasicLayout.php:255
+msgid "Duration"
+msgstr "Dauer"
+
+#: inc/view/customize/banner/BasicLayout.php:233
+#: inc/view/customize/banner/BasicLayout.php:270
+msgid "Animation only on mobile devices"
+msgstr "Animation nur auf mobilen Geräten"
+
+#: inc/view/customize/banner/BasicLayout.php:242
+msgid "Animation on hide"
+msgstr "Animation beim Ausblenden"
+
+#: inc/view/customize/banner/BasicLayout.php:279
+msgid "Overlay"
+msgstr "Überlagerung (Overlay)"
+
+#: inc/view/customize/banner/BasicLayout.php:280
+msgid ""
+"The overlay prevents clicks outside the consent dialog until consent is "
+"given and seperates the consent dialog from the rest of the website."
+msgstr ""
+"Das Overlay verhindert Klicks außerhalb des Einwilligungsdialogs, bis die "
+"Einwilligung erteilt wurde, und trennt den Einwilligungsdialog vom Rest der "
+"Website."
+
+#: inc/view/customize/banner/BasicLayout.php:287
+msgid "Block content and show overlay until consent"
+msgstr "Inhalt blockieren und Overlay anzeigen bis zur Einwilligung"
+
+#: inc/view/customize/banner/BasicLayout.php:297
+msgid "Overlay background color"
+msgstr "Overlay Hintergrundfarbe"
+
+#: inc/view/customize/banner/BasicLayout.php:305
+msgid "Overlay opacity"
+msgstr "Overlay Deckkraft"
+
+#: inc/view/customize/banner/BasicLayout.php:320
+msgid "Blur effect"
+msgstr "Unschärfe-Effekt"
+
+#: inc/view/customize/banner/BodyDesign.php:170
+msgid "Body"
+msgstr "Hauptbereich (Body)"
+
+#: inc/view/customize/banner/BodyDesign.php:176
+msgid "Define inner distance of the body."
+msgstr "Definiere den Innenabstand des Hauptbereichs (Body)."
+
+#: inc/view/customize/banner/BodyDesign.php:184
+msgid "Adopt font size for description block"
+msgstr "Schriftgröße für Beschreibungsblock übernehmen"
+
+#: inc/view/customize/banner/BodyDesign.php:193
+msgid "Description font size"
+msgstr "Schriftgröße der Beschreibung"
+
+#: inc/view/customize/banner/BodyDesign.php:208
+msgid "Adopt font size for service groups"
+msgstr "Schriftgröße für Service-Gruppen übernehmen"
+
+#: inc/view/customize/banner/BodyDesign.php:217
+msgid "Service groups font size"
+msgstr "Schriftgröße für Service-Gruppen"
+
+#: inc/view/customize/banner/BodyDesign.php:233
+msgid "Bullet color"
+msgstr "Kreis-Farbe"
+
+#: inc/view/customize/banner/BodyDesign.php:242
+msgid "Additional teachings"
+msgstr "Zusätzliche Belehrungen"
+
+#: inc/view/customize/banner/BodyDesign.php:243
+msgid "Texts for US data processing and age notice."
+msgstr "Texte für die Datenverarbeitung in den USA und Altershinweis."
+
+#: inc/view/customize/banner/BodyDesign.php:247
+#: inc/view/customize/banner/FooterDesign.php:98
+#: inc/view/customize/banner/HeaderDesign.php:92
+msgid "Adopt text align"
+msgstr "Textausrichtung übernehmen"
+
+#: inc/view/customize/banner/BodyDesign.php:256
+#: inc/view/customize/banner/BodyDesign.php:411
+#: inc/view/customize/banner/BodyDesign.php:575
+#: inc/view/customize/banner/BodyDesign.php:721
+#: inc/view/customize/banner/Design.php:83
+#: inc/view/customize/banner/FooterDesign.php:107
+#: inc/view/customize/banner/HeaderDesign.php:101
+#: inc/view/customize/banner/individual/SaveButton.php:116
+msgid "Text align"
+msgstr "Textausrichtung"
+
+#: inc/view/customize/banner/BodyDesign.php:259
+#: inc/view/customize/banner/BodyDesign.php:846
+#: inc/view/customize/banner/HeaderDesign.php:156
+msgid "Left"
+msgstr "Links"
+
+#: inc/view/customize/banner/BodyDesign.php:260
+#: inc/view/customize/banner/BodyDesign.php:847
+#: inc/view/customize/banner/HeaderDesign.php:157
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/view/customize/banner/BodyDesign.php:262
+#: inc/view/customize/banner/BodyDesign.php:849
+msgid "Justify"
+msgstr "Blocksatz"
+
+#: inc/view/customize/banner/BodyDesign.php:270
+msgid "Enable visual separator"
+msgstr "Visuellen Trenner aktivieren"
+
+#: inc/view/customize/banner/BodyDesign.php:280
+msgid "Separator"
+msgstr "Trenner"
+
+#: inc/view/customize/banner/BodyDesign.php:286
+#: inc/view/customize/banner/Design.php:115
+#: inc/view/customize/banner/individual/Group.php:237
+msgid "Width"
+msgstr "Breite"
+
+#: inc/view/customize/banner/BodyDesign.php:301
+#: inc/view/customize/banner/FooterDesign.php:218
+#: inc/view/customize/banner/HeaderDesign.php:248
+msgid "Height"
+msgstr "Höhe"
+
+#: inc/view/customize/banner/BodyDesign.php:326
+#: inc/view/customize/banner/BodyDesign.php:421
+#: inc/view/customize/banner/BodyDesign.php:585
+#: inc/view/customize/banner/BodyDesign.php:731
+#: inc/view/customize/banner/Design.php:132
+#: inc/view/customize/banner/FooterDesign.php:126
+#: inc/view/customize/banner/HeaderDesign.php:175
+#: inc/view/customize/banner/individual/SaveButton.php:126
+msgid "Font"
+msgstr "Schriftart"
+
+#: inc/view/customize/banner/BodyDesign.php:332
+msgid "Adopt font size"
+msgstr "Schriftgröße übernehmen"
+
+#: inc/view/customize/banner/BodyDesign.php:356
+msgid "Adopt font color"
+msgstr "Schriftfarbe übernehmen"
+
+#: inc/view/customize/banner/BodyDesign.php:375
+msgid "Button: Accept all"
+msgstr "Button: Alle Cookies akzeptieren"
+
+#: inc/view/customize/banner/BodyDesign.php:383
+msgid "Align buttons side by side"
+msgstr "Buttons nebeneinander ausrichten"
+
+#: inc/view/customize/banner/BodyDesign.php:394
+#: inc/view/customize/banner/BodyDesign.php:558
+#: inc/view/customize/banner/BodyDesign.php:704
+msgid "Define inner distance of the button/link."
+msgstr "Definiere den Innenabstand des Buttons/Links."
+
+#: inc/view/customize/banner/BodyDesign.php:474
+#: inc/view/customize/banner/BodyDesign.php:638
+#: inc/view/customize/banner/BodyDesign.php:784
+#: inc/view/customize/banner/individual/Group.php:112
+#: inc/view/customize/banner/individual/SaveButton.php:175
+msgid "Border width"
+msgstr "Rahmen-Breite"
+
+#: inc/view/customize/banner/BodyDesign.php:492
+#: inc/view/customize/banner/BodyDesign.php:656
+#: inc/view/customize/banner/BodyDesign.php:802
+#: inc/view/customize/banner/FooterDesign.php:184
+#: inc/view/customize/banner/individual/SaveButton.php:193
+msgid "Transition on hover"
+msgstr "Hover-Effekt"
+
+#: inc/view/customize/banner/BodyDesign.php:495
+#: inc/view/customize/banner/BodyDesign.php:659
+#: inc/view/customize/banner/BodyDesign.php:805
+#: inc/view/customize/banner/individual/SaveButton.php:194
+msgid ""
+"When the user moves the mouse over the button/link, it changes its color."
+msgstr ""
+"Wenn der Nutzer die Maus über den Button bzw. Link bewegt, ändert sie die "
+"Farbe."
+
+#: inc/view/customize/banner/BodyDesign.php:512
+#: inc/view/customize/banner/BodyDesign.php:676
+#: inc/view/customize/banner/BodyDesign.php:822
+#: inc/view/customize/banner/individual/Group.php:330
+#: inc/view/customize/banner/individual/SaveButton.php:211
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: inc/view/customize/banner/BodyDesign.php:521
+#: inc/view/customize/banner/BodyDesign.php:685
+#: inc/view/customize/banner/BodyDesign.php:831
+#: inc/view/customize/banner/individual/Group.php:121
+#: inc/view/customize/banner/individual/Group.php:154
+#: inc/view/customize/banner/individual/SaveButton.php:220
+msgid "Border color"
+msgstr "Rahmenfarbe"
+
+#: inc/view/customize/banner/BodyDesign.php:530
+msgid "Button: Continue without consent"
+msgstr "Button: Weiter ohne Einwilligung"
+
+#: inc/view/customize/banner/BodyDesign.php:534
+#: inc/view/customize/banner/individual/SaveButton.php:68
+msgid "Use the same stylings as for \"Accept all\""
+msgstr "Gleiche Formatierung wie für \"Alle akzeptieren\" verwenden"
+
+#. translators:
+#: inc/view/customize/banner/BodyDesign.php:537
+#: inc/view/customize/banner/individual/SaveButton.php:71
+msgid ""
+"According to the <a href=\"%s\" target=\"_blank\">guidance of the data "
+"protection authorities in Germany (German)</a>, there must be an equivalent "
+"way for your visitors to express their choice (agree to everything, continue "
+"without consent or an indivudual decision). Equivalent does not necessarily "
+"mean that the buttons/links must look exactly the same. However, you should "
+"be safest if they look exactly the same."
+msgstr ""
+"Gemäß der <a href=\"%s\" target=\"_blank\">Orientierungshilfe der deutschen "
+"Datenschutzbehörden</a> muss es für deine Besucher eine gleichwertige "
+"Möglichkeit geben, ihren Willen auszudrücken (in alle einwilligen, ohne "
+"Einwilligung fortfahren oder eine individuelle Entscheidung treffen). "
+"Gleichwertig bedeutet nicht unbedingt, dass die Buttons/Links genau gleich "
+"aussehen müssen. Am sichersten bist du jedoch, wenn sie genau gleich "
+"aussehen."
+
+#: inc/view/customize/banner/BodyDesign.php:694
+msgid "Button: Individual privacy preferences"
+msgstr "Button: Individuelle Einstellungen"
+
+#: inc/view/customize/banner/BodyDesign.php:858
+msgid "Lighter"
+msgstr "Dünner"
+
+#: inc/view/customize/banner/BodyDesign.php:859
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/view/customize/banner/BodyDesign.php:860
+msgid "Bolder"
+msgstr "Fetter"
+
+#: inc/view/customize/banner/BodyDesign.php:861
+msgid "Bold"
+msgstr "Fett"
+
+#: inc/view/customize/banner/CustomCss.php:33
+#: inc/view/customize/banner/CustomCss.php:38
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: inc/view/customize/banner/CustomCss.php:39
+msgid ""
+"Please use this text input for custom CSS explicitly for your cookie banner. "
+"Custom CSS outside this field, e.g. in your theme options, will not work due "
+"to anti-adblocker optimization. Use class names like <code>rcb-headline</"
+"code> that you only see here in the customizer preview, and not auto-"
+"generated class names that look like <code>ac04ddfa165</code>."
+msgstr ""
+"Bitte verwende diese Texteingabe für benutzerdefinierte CSS explizit für "
+"dein Cookie Banner. Benutzerdefiniertes CSS außerhalb dieses Feldes, z. B. "
+"in deinen Theme-Optionen, wird aufgrund der Anti-Adblocker-Optimierung nicht "
+"funktionieren. Verwende Klassennamen wie <code>rcb-headline</code>, die du "
+"nur hier in der Vorschau des Customizers siehst, und keine automatisch "
+"generierten Klassennamen, die aussehen wie <code>ac04ddfa165</code>."
+
+#: inc/view/customize/banner/CustomCss.php:51
+msgid "Anti-Adblocker optimization"
+msgstr "Anti-Adblocker-Optimierung"
+
+#: inc/view/customize/banner/CustomCss.php:52
+msgid ""
+"Some adblockers are able to block cookie banners. This means that these "
+"website visitors will never see the cookie banner and you cannot get consent "
+"from them to use more than the essential services. We have implemented "
+"several mechanisms that try to remove any technical indicators that "
+"adblockers can use to block the cookie banner. This includes CSS selections "
+"for styles."
+msgstr ""
+"Einige Adblocker sind in der Lage, Cookie Banner zu blockieren. Das "
+"bedeutet, dass diese Website-Besucher das Cookie Banner nie sehen und du von "
+"ihnen keine Einwilligung zur Nutzung von mehr als den essenzielle Services "
+"erhalten kannst. Wir haben mehrere Mechanismen implementiert, die versuchen, "
+"alle technischen Indikatoren zu entfernen, mit denen Adblocker das Cookie "
+"Banner blockieren können. Dazu gehören CSS-Auswahlen für Stile."
+
+#: inc/view/customize/banner/CustomCss.php:58
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: inc/view/customize/banner/CustomCss.php:59
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: inc/view/customize/banner/Decision.php:85
+msgid ""
+"The options \"Accept all\" and \"Continue without consent\" should be of the "
+"same type. Therefore, both should be a button or a link."
+msgstr ""
+"Die Optionen \"Alles akzeptieren\" und \"Weiter ohne Einwilligung\" sollten "
+"von gleicher Art sein. Daher sollten beide ein Button oder ein Link sein."
+
+#: inc/view/customize/banner/Decision.php:93
+msgid ""
+"Please note that from a legal point of view you have to give your visitor "
+"this option. With the currently selected setting, you are taking a risk."
+msgstr ""
+"Bitte beachte, dass du aus rechtlicher Sicht deinem Besucher diese "
+"Möglichkeit geben musst. Mit der aktuell gewählten Einstellung gehst du ein "
+"Risiko ein."
+
+#: inc/view/customize/banner/Decision.php:101
+msgid ""
+"Please note that from a legal perspective, you must give your visitor an "
+"equivalent way to give or refuse consent. In some countries of the EU it is "
+"also allowed to display an \"X\" in the upper right corner of the cookie "
+"banner instead of a button/link. With the currently selected setting you are "
+"taking a risk!"
+msgstr ""
+"Bitte beachte, dass du deinem Besucher aus rechtlicher Sicht eine "
+"gleichwertige Möglichkeit geben musst, seine Einwilligung zu geben oder zu "
+"verweigern. In einigen Ländern der EU ist es auch erlaubt, ein \"X\" in der "
+"oberen rechten Ecke des Cookie Banners anstelle eines Buttons/Links "
+"anzuzeigen. Mit der aktuell gewählten Einstellung gehst du ein Risiko ein!"
+
+#: inc/view/customize/banner/Decision.php:109
+msgid "Consent options"
+msgstr "Einwilligungs-Optionen"
+
+#: inc/view/customize/banner/Decision.php:118
+msgid "Accept all"
+msgstr "Alle akzeptieren"
+
+#. translators:
+#: inc/view/customize/banner/Decision.php:121
+msgid ""
+"According to the %1$sGDPR recital 32%2$s, you are not allowed to pre-select "
+"services in the form of pre-selected checkboxes for the visitor. However, "
+"the GDPR and ePrivacy Directive do not prohibit the use of a button to agree "
+"to all services, if there is also a button to agree only to the essential "
+"services or to make a user-defined selection."
+msgstr ""
+"Gemäß der %1$sDSGVO Erwägungsgrund 32%2$s darfst du keine Services in Form "
+"von vorselektierten Checkboxen für den Besucher auswählen. Die DSGVO und die "
+"ePrivacy-Richtlinie verbieten jedoch nicht die Verwendung eines Buttons zur "
+"Einwilligung in alle Services, wenn es auch einen Button gibt, um nur den "
+"essenziellen Services zuzustimmen oder um eine benutzerdefinierte Auswahl zu "
+"treffen."
+
+#: inc/view/customize/banner/Decision.php:125
+msgid "https://gdpr-info.eu/recitals/no-32/"
+msgstr "https://gdpr-text.com/de/read/recital-32/"
+
+#: inc/view/customize/banner/Decision.php:130
+#: inc/view/customize/banner/Decision.php:152
+#: inc/view/customize/banner/Decision.php:188
+#: inc/view/customize/banner/individual/SaveButton.php:88
+msgid "Button"
+msgstr "Button"
+
+#: inc/view/customize/banner/Decision.php:131
+#: inc/view/customize/banner/Decision.php:153
+#: inc/view/customize/banner/Decision.php:189
+#: inc/view/customize/banner/individual/Group.php:323
+#: inc/view/customize/banner/individual/SaveButton.php:89
+msgid "Link"
+msgstr "Link"
+
+#: inc/view/customize/banner/Decision.php:145
+msgid "Continue without consent"
+msgstr "Weiter ohne Einwilligung"
+
+#: inc/view/customize/banner/Decision.php:146
+msgid ""
+"The GDPR (EU 2016/679) and ePrivacy Directive (EU 2009/136/EC) defines that "
+"visitors must be able to easily reject cookies, whereby essential cookies "
+"can be set in any case. Therefore, the visitor should be given this option "
+"in a similar manner to the \"Accept all\" button/link."
+msgstr ""
+"Die DSGVO (EU 2016/679) und die ePrivacy-Richtlinie (EU 2009/136/EG) legen "
+"fest, dass Besucher in der Lage sein müssen, Cookies einfach abzulehnen, "
+"wobei essenzielle Cookies immer gesetzt werden können. Daher sollte dem "
+"Besucher diese Option – ähnlich wie der Button/Link “Alle akzeptieren” – "
+"angeboten werden."
+
+#: inc/view/customize/banner/Decision.php:167
+msgid "Show close icon, to continue without consent"
+msgstr "Schließen-Symbol anzeigen, um ohne Einwilligung fortzufahren"
+
+#: inc/view/customize/banner/Decision.php:168
+msgid ""
+"An \"X\" icon is displayed at the top right of the cookie banner, which "
+"allows website visitors to close the cookie banner. It has the same function "
+"as clicking on the \"Continue without consent\" button/link."
+msgstr ""
+"Oben rechts im Cookie Banner wird ein \"X\"-Symbol angezeigt, mit dem "
+"Website-Besucher das Cookie Banner schließen können. Es hat die gleiche "
+"Funktion wie ein Klick auf die Schaltfläche/den Link \"Weiter ohne "
+"Einwilligung\"."
+
+#: inc/view/customize/banner/Decision.php:181
+msgid "Individual privacy preferences"
+msgstr "Individuelle Privatsphäre-Einstellungen"
+
+#: inc/view/customize/banner/Decision.php:182
+msgid ""
+"According to the GDPR and the ePrivacy Directive, the user must be free to "
+"choose which services to use and be informed about their purpose before "
+"giving consent. Therefore, the user must be given the opportunity to access "
+"the page with the individual privacy settings."
+msgstr ""
+"Gemäß der DSGVO und der ePrivacy-Richtlinie muss der Nutzer frei wählen "
+"können, welche Services genutzt werden sollen und über deren Zweck "
+"informiert werden, bevor er seine Einwilligung gibt. Daher muss dem Nutzer "
+"die Möglichkeit gegeben werden, die Seite mit den individuellen Privatsphäre-"
+"Einstellungen aufzurufen."
+
+#: inc/view/customize/banner/Decision.php:203
+msgid "Order of the buttons"
+msgstr "Reihenfolge der Buttons"
+
+#. translators:
+#: inc/view/customize/banner/Decision.php:206
+msgid ""
+"According to the <a href=\"%s\" target=\"_blank\">guidance of the data "
+"protection authorities in Germany (German)</a>, there must be an equivalent "
+"way for your visitors to express their choice (agree to everything, continue "
+"without consent or an indivudual decision). Which order of options is "
+"considered equivalent is unclear. Therefore, the options should be arranged "
+"according to the cultural conditions of the main target country."
+msgstr ""
+"Gemäß der <a href=\"%s\" target=\"_blank\">Orientierungshilfe der deutschen "
+"Datenschutzbehörden</a> muss es für deine Besucher eine gleichwertige "
+"Möglichkeit geben, ihren Willen auszudrücken (in alle einwilligen, ohne "
+"Einwilligung fortfahren oder eine individuelle Entscheidung treffen). Welche "
+"Reihenfolge der Optionen als gleichwertig gilt, ist unklar. Daher sollten "
+"die Optionen nach den kulturellen Gegebenheiten des Hauptziellandes "
+"angeordnet werden."
+
+#: inc/view/customize/banner/Decision.php:221
+msgid "Service groups as bullet list"
+msgstr "Service-Gruppen als Aufzählungsliste ausgeben"
+
+#: inc/view/customize/banner/Decision.php:225
+msgid "Show service groups as bullet list"
+msgstr "Service-Gruppen als Aufzählungsliste ausgeben"
+
+#: inc/view/customize/banner/Decision.php:234
+msgid "Custom choice in first view"
+msgstr "Benutzerdefinierte Auswahl in der ersten Ansicht"
+
+#: inc/view/customize/banner/Decision.php:243
+msgid "Save button"
+msgstr "Speichern"
+
+#: inc/view/customize/banner/Decision.php:246
+msgid "Show save button always"
+msgstr "Speichern-Button immer anzeigen"
+
+#: inc/view/customize/banner/Decision.php:247
+msgid "Show save button only after a change by the user"
+msgstr "Speichern-Button nur nach einer Änderung durch den Benutzer anzeigen"
+
+#: inc/view/customize/banner/Decision.php:248
+msgid "Text of \"Accept all\" changes when user changes selection"
+msgstr ""
+"Text von “Alle akzeptieren” ändert sich, wenn der Benutzer die Auswahl ändert"
+
+#: inc/view/customize/banner/Decision.php:270
+#: inc/view/customize/banner/Texts.php:497
+msgctxt "legal-text"
+msgid "Accept all"
+msgstr "Alle akzeptieren"
+
+#: inc/view/customize/banner/Decision.php:272
+#: inc/view/customize/banner/Texts.php:498
+msgctxt "legal-text"
+msgid "Continue without consent"
+msgstr "Weiter ohne Einwilligung"
+
+#: inc/view/customize/banner/Decision.php:274
+#: inc/view/customize/banner/individual/Texts.php:119
+msgctxt "legal-text"
+msgid "Individual privacy preferences"
+msgstr "Individuelle Privatsphäre-Einstellungen"
+
+#: inc/view/customize/banner/Decision.php:276
+#: inc/view/customize/banner/individual/Texts.php:138
+msgctxt "legal-text"
+msgid "Save custom choices"
+msgstr "Individuelle Auswahlen speichern"
+
+#: inc/view/customize/banner/Design.php:70
+#: inc/view/customize/banner/individual/Texts.php:46
+#: inc/view/customize/banner/Texts.php:111
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/view/customize/banner/Design.php:92
+msgid "Link text decoration"
+msgstr "Verzierung des Linktextes"
+
+#: inc/view/customize/banner/Design.php:96
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: inc/view/customize/banner/Design.php:137
+msgid ""
+"The font size will be applied to the entire dialog. You can overwrite this "
+"setting e.g for headings in the respective section."
+msgstr ""
+"Die Schriftgröße wird auf den gesamten Dialog angewendet. Du kannst diese "
+"Einstellung z.B. für Überschriften im jeweiligen Abschnitt überschreiben."
+
+#: inc/view/customize/banner/Design.php:164
+msgid "Adopt font family from theme"
+msgstr "Schriftart von Theme übernehmen"
+
+#: inc/view/customize/banner/Design.php:173
+#: inc/view/customize/banner/FooterDesign.php:163
+#: inc/view/customize/banner/HeaderDesign.php:212
+msgid "Family"
+msgstr "Familie"
+
+#: inc/view/customize/banner/Design.php:194
+msgid "Box shadow settings"
+msgstr "Box-Schatten Einstellungen"
+
+#: inc/view/customize/banner/Design.php:198
+msgid "Enable box shadow"
+msgstr "Box-Schatten aktivieren"
+
+#: inc/view/customize/banner/Design.php:207
+msgid "Horizontal offset"
+msgstr "Horizontaler Versatz"
+
+#: inc/view/customize/banner/Design.php:224
+msgid "Vertical offset"
+msgstr "Vertikaler Versatz"
+
+#: inc/view/customize/banner/Design.php:241
+msgid "Blur radius"
+msgstr "Unschärferadius"
+
+#: inc/view/customize/banner/Design.php:256
+msgid "Spread radius"
+msgstr "Ausbreitungsradius"
+
+#: inc/view/customize/banner/Design.php:280
+msgid "Color opacity"
+msgstr "Farbdeckkraft"
+
+#: inc/view/customize/banner/FooterDesign.php:67
+msgid "Footer"
+msgstr "Fußbereich (Footer)"
+
+#: inc/view/customize/banner/FooterDesign.php:71
+msgid "Show \"powered by\" link"
+msgstr "Link “Consent Management mit Real Cookie Banner” anzeigen"
+
+#: inc/view/customize/banner/FooterDesign.php:80
+#: inc/view/customize/banner/HeaderDesign.php:74
+#: inc/view/customize/banner/individual/Group.php:166
+msgid "Adopt background color"
+msgstr "Hintergrundfarbe übernehmen"
+
+#: inc/view/customize/banner/FooterDesign.php:118
+#: inc/view/customize/banner/HeaderDesign.php:112
+msgid "Define inner distance of the header."
+msgstr "Definiere den Innenabstand des Kopfbereichs (Header)."
+
+#: inc/view/customize/banner/FooterDesign.php:154
+#: inc/view/customize/banner/HeaderDesign.php:203
+msgid "Adopt font family"
+msgstr "Schriftart übernehmen"
+
+#: inc/view/customize/banner/FooterDesign.php:187
+msgid ""
+"When the user moves the mouse over the footer links, it changes its color."
+msgstr ""
+"Wenn der Benutzer die Maus über die Links in der Fußzeile (Footer) bewegt, "
+"ändert sich deren Farbe."
+
+#: inc/view/customize/banner/FooterDesign.php:203
+msgid "Top border"
+msgstr "Oberer Rahmen"
+
+#: inc/view/customize/banner/FooterDesign.php:204
+msgid ""
+"You can define an additional top border to separate the footer from the body."
+msgstr ""
+"Du kannst einen zusätzlichen oberen Rand definieren, um die Fußzeile "
+"(Footer) vom Hauptbereich (Body) abzutrennen."
+
+#: inc/view/customize/banner/FooterDesign.php:235
+#: inc/view/customize/banner/FooterDesign.php:240
+msgid "Language switcher"
+msgstr "Sprachumschalter"
+
+#: inc/view/customize/banner/FooterDesign.php:244
+msgid "Show with flags"
+msgstr "Mit Flaggen anzeigen"
+
+#: inc/view/customize/banner/FooterDesign.php:245
+msgid "Show without flags"
+msgstr "Ohne Flaggen anzeigen"
+
+#: inc/view/customize/banner/HeaderDesign.php:70
+msgid "Header"
+msgstr "Kopfbereich (Header)"
+
+#: inc/view/customize/banner/HeaderDesign.php:125
+msgid "Image"
+msgstr "Bild"
+
+#: inc/view/customize/banner/HeaderDesign.php:126
+msgid ""
+"The recommended minimum height of your logo is <strong>128px</strong>. The "
+"width of your logo will be adjusted automatically."
+msgstr ""
+"Die empfohlene Mindesthöhe deines Logos beträgt <strong>128px</strong>. Die "
+"Breite deines Logos wird automatisch angepasst."
+
+#: inc/view/customize/banner/HeaderDesign.php:134
+msgid "Image (x2 for Retina)"
+msgstr "Bild (x2 für Retina)"
+
+#: inc/view/customize/banner/HeaderDesign.php:153
+msgid "Alignment relative to headline"
+msgstr "Ausrichtung relativ zur Überschrift"
+
+#: inc/view/customize/banner/HeaderDesign.php:158
+msgid "Above"
+msgstr "Oberhalb"
+
+#: inc/view/customize/banner/HeaderDesign.php:168
+msgid "Define the outer distance around the logo."
+msgstr "Definiere den Außenabstand um das Logo herum."
+
+#: inc/view/customize/banner/HeaderDesign.php:233
+msgid "Bottom border"
+msgstr "Unterer Rahmen"
+
+#: inc/view/customize/banner/HeaderDesign.php:234
+msgid ""
+"You can define an additional bottom border to separate the header from the "
+"body."
+msgstr ""
+"Du kannst einen zusätzlichen unteren Rahmen definieren, um den Kopfbereich "
+"(Header) vom Hauptbereich (Body) zu abzutrennen."
+
+#: inc/view/customize/banner/individual/Group.php:86
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: inc/view/customize/banner/individual/Group.php:129
+msgid "Checked state"
+msgstr "Aktivierter Zustand"
+
+#: inc/view/customize/banner/individual/Group.php:136
+msgid "Check icon color"
+msgstr "Haken-Icon Farbe"
+
+#: inc/view/customize/banner/individual/Group.php:162
+msgid "Group box"
+msgstr "Gruppen-Box"
+
+#: inc/view/customize/banner/individual/Group.php:186
+msgid "Define the inner distance of the group box."
+msgstr "Definiere den Innenabstand der Gruppen-Box."
+
+#: inc/view/customize/banner/individual/Group.php:201
+msgid "Spacing between groups"
+msgstr "Abstand zwischen Gruppen"
+
+#: inc/view/customize/banner/individual/Group.php:209
+msgid "Border radius"
+msgstr "Radius des Rahmens"
+
+#: inc/view/customize/banner/individual/Group.php:254
+#: inc/view/customize/banner/individual/Texts.php:52
+#: inc/view/customize/banner/Texts.php:115
+#: inc/view/customize/banner/Texts.php:321
+msgid "Headline"
+msgstr "Überschrift"
+
+#: inc/view/customize/banner/individual/Group.php:339
+msgid "Font color on hover"
+msgstr "Schriftfarbe bei Hover"
+
+#: inc/view/customize/banner/individual/Layout.php:45
+#: inc/view/customize/banner/individual/Layout.php:69
+msgid "Adopt maximum width"
+msgstr "Maximale Breite übernehmen"
+
+#: inc/view/customize/banner/individual/Layout.php:93
+msgid "Description text align"
+msgstr "Ausrichtung des Beschreibungstexts"
+
+#: inc/view/customize/banner/individual/SaveButton.php:64
+msgid "\"Save\" button"
+msgstr "\"Speichern\"-Button"
+
+#: inc/view/customize/banner/individual/SaveButton.php:99
+msgid "Define the inner distance of the button."
+msgstr "Definiere den Innenabstand des Buttons."
+
+#: inc/view/customize/banner/individual/Texts.php:41
+#: inc/view/customize/banner/Texts.php:106
+msgid "Texts"
+msgstr "Texte"
+
+#: inc/view/customize/banner/individual/Texts.php:61
+#: inc/view/customize/banner/Texts.php:124
+msgid ""
+"Use <code>{{privacyPolicy}}privacy policy{{/privacyPolicy}}</code> as a "
+"placeholder for the privacy policy link."
+msgstr ""
+"Verwende <code>{{privacyPolicy}}Datenschutzerklärung{{/privacyPolicy}}</"
+"code> als Platzhalter für den Link zur Datenschutzerklärung."
+
+#: inc/view/customize/banner/individual/Texts.php:75
+msgid "\"Save\" button/link"
+msgstr "\"Speichern\"-Button/Link"
+
+#: inc/view/customize/banner/individual/Texts.php:82
+msgid "\"Show service information\" link"
+msgstr "\"Service-Informationen anzeigen\"-Link"
+
+#: inc/view/customize/banner/individual/Texts.php:89
+msgid "\"Hide service information\" link"
+msgstr "\"Service-Informationen ausblenden\"-Link"
+
+#: inc/view/customize/banner/individual/Texts.php:96
+msgid "Additional teachings below service groups"
+msgstr "Zusätzliche Belehrungen unter den Service-Gruppen"
+
+#: inc/view/customize/banner/individual/Texts.php:97
+msgid ""
+"If you need to place additional instructions in your country, such as an "
+"introduction to deleting cookies, they can be displayed. Typically only "
+"necessary if you are deliberately addressing other jurisdictions outside the "
+"EU."
+msgstr ""
+"Wenn du in deinem Land zusätzliche Belehrungen platzieren musst, wie zum "
+"Beispiel eine Einführung zum Löschen von Cookies, können diese angezeigt "
+"werden. Normalerweise ist dies nur notwendig, wenn du dich bewusst an andere "
+"Länder außerhalb der EU wendest."
+
+#: inc/view/customize/banner/individual/Texts.php:122
+#: inc/view/customize/banner/Texts.php:486
+msgctxt "legal-text"
+msgid ""
+"We use cookies and similar technologies on our website and process your "
+"personal data (e.g. IP address), for example, to personalize content and "
+"ads, to integrate media from third-party providers or to analyze traffic on "
+"our website. Data processing may also happen as a result of cookies being "
+"set. We share this data with third parties that we name in the privacy "
+"settings."
+msgstr ""
+"Wir verwenden Cookies und ähnliche Technologien auf unserer Website und "
+"verarbeiten personenbezogene Daten von dir (z.B. IP-Adresse), um z.B. "
+"Inhalte und Anzeigen zu personalisieren, Medien von Drittanbietern "
+"einzubinden oder Zugriffe auf unsere Website zu analysieren. Die "
+"Datenverarbeitung kann auch erst in Folge gesetzter Cookies stattfinden. Wir "
+"teilen diese Daten mit Dritten, die wir in den Privatsphäre-Einstellungen "
+"benennen."
+
+#: inc/view/customize/banner/individual/Texts.php:127
+#: inc/view/customize/banner/Texts.php:491
+msgctxt "legal-text"
+msgid ""
+"The data processing may take place with your consent or on the basis of a "
+"legitimate interest, which you can object to in the privacy settings. You "
+"have the right not to consent and to change or revoke your consent at a "
+"later time. For more information on the use of your data, please visit our "
+"{{privacyPolicy}}privacy policy{{/privacyPolicy}}."
+msgstr ""
+"Die Datenverarbeitung kann mit deiner Einwilligung oder auf Basis eines "
+"berechtigten Interesses erfolgen, dem du in den Privatsphäre-Einstellungen "
+"widersprechen kannst. Du hast das Recht, nicht einzuwilligen und deine "
+"Einwilligung zu einem späteren Zeitpunkt zu ändern oder zu widerrufen. "
+"Weitere Informationen zur Verwendung deiner Daten findest du in unserer "
+"{{privacyPolicy}}Datenschutzerklärung{{/privacyPolicy}}."
+
+#: inc/view/customize/banner/individual/Texts.php:132
+msgctxt "legal-text"
+msgid ""
+"Below you will find an overview of all services used by this website. You "
+"can view detailed information about each service and agree to them "
+"individually or exercise your right to object."
+msgstr ""
+"Im Folgenden findest du eine Übersicht über alle Services, die von dieser "
+"Website genutzt werden. Du kannst dir detaillierte Informationen zu jedem "
+"Service ansehen und ihm einzeln zustimmen oder von deinem Widerspruchsrecht "
+"Gebrauch machen."
+
+#: inc/view/customize/banner/individual/Texts.php:139
+msgctxt "legal-text"
+msgid "Show service information"
+msgstr "Service-Informationen anzeigen"
+
+#: inc/view/customize/banner/individual/Texts.php:140
+msgctxt "legal-text"
+msgid "Hide service information"
+msgstr "Service-Informationen ausblenden"
+
+#: inc/view/customize/banner/Mobile.php:48
+msgid ""
+"The cookie banner is responsive even in the free version and works on mobile "
+"devices. Only further settings for a better individual appearance on mobile "
+"devices are only included in the PRO version."
+msgstr ""
+"Das Cookie Banner ist bereits in der kostenlosen Version responsive und "
+"funktioniert auch auf mobilen Geräten. Nur weitere Einstellungen für eine "
+"bessere individuelle Darstellung auf mobilen Geräten sind nur in der PRO-"
+"Version enthalten."
+
+#: inc/view/customize/banner/Mobile.php:56
+msgid ""
+"The header <strong>will not be hidden</strong>, because otherwise there is "
+"no possibility to continue without consent in compliance with the ePrivacy "
+"Directive and the GDPR. Activate the button/link \"Continue without "
+"consent\" in the \"Consent Options” section on level above to be able to "
+"hide the header on mobile devices!"
+msgstr ""
+"Der Header (Kopfbereich) <strong>wird nicht ausgeblendet</strong>, weil es "
+"sonst keine Möglichkeit gibt, gemäß der ePrivacy-Richtlinie und der DSGVO "
+"ohne Einwilligung fortzufahren. Aktiviere den Button/Link “Weiter ohne "
+"Einwilligung\" im Abschnitt \"Einwilligungsoptionen\" auf einer Ebene höher, "
+"um den Header auf mobilen Geräten ausblenden zu können!"
+
+#: inc/view/customize/banner/Mobile.php:64
+msgid "Mobile experience"
+msgstr "Mobile Nutzererfahrung"
+
+#: inc/view/customize/banner/Mobile.php:81
+msgid "Maximum height"
+msgstr "Maximale Höhe (px)"
+
+#: inc/view/customize/banner/Mobile.php:96
+msgid "Hide header"
+msgstr "Kopfbereich (Header) ausblenden"
+
+#: inc/view/customize/banner/Mobile.php:110
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: inc/view/customize/banner/Mobile.php:123
+msgid "Scaling factor"
+msgstr "Skalierungsfaktor"
+
+#: inc/view/customize/banner/Mobile.php:124
+msgid ""
+"Elements in the cookie banner can be scaled smaller or larger relative to "
+"the desktop view. Make sure that all elements are still clearly legible so "
+"that you obtain valid consents."
+msgstr ""
+"Die Elemente im Cookie Banner können im Verhältnis zur Desktop-Ansicht "
+"kleiner oder größer skaliert werden. Achte darauf, dass alle Elemente "
+"weiterhin gut lesbar sind, damit du wirksame Einwilligungen einholst."
+
+#: inc/view/customize/banner/Mobile.php:142
+msgid "Vertical spacing scaling factor"
+msgstr "Skalierungsfaktor für vertikale Abstände"
+
+#: inc/view/customize/banner/Mobile.php:143
+msgid ""
+"The vertical distance between elements can be decreased or increased "
+"relative to the desktop view."
+msgstr ""
+"Der vertikale Abstand zwischen Elementen kann im Verhältnis zur Desktop-"
+"Ansicht verkleinert oder vergrößert werden."
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:89
+msgid ""
+"Use <code>{{minAge}}</code> as a placeholder for the age limit for minors in "
+"your country. Each country in the EU has its own age limits, which we have "
+"included in Real Cookie Banner. You can adjust the age limit in the %1$sage "
+"notice settings%2$s."
+msgstr ""
+"Verwende <code>{{minAge}}</code> als Platzhalter für die Altersgrenze für "
+"Minderjährige in deinem Land. Jedes Land in der EU hat eigene Altersgrenzen, "
+"die wir in Real Cookie Banner hinterlegt haben. Du kannst die Altersgrenze "
+"in den %1$sAltershinweis-Einstellungen%2$s anpassen."
+
+#: inc/view/customize/banner/Texts.php:139
+msgid "\"Accept all\" button/link"
+msgstr "\"Alle akzeptieren\"-Button/Link"
+
+#: inc/view/customize/banner/Texts.php:146
+msgid "\"Continue without consent\" button/link"
+msgstr "\"Weiter ohne Einwilligung\"-Button/Link"
+
+#: inc/view/customize/banner/Texts.php:153
+msgid "\"Individual privacy preferences\" button/link"
+msgstr "\"Individuelle Privatsphäre-Einstellungen\"-Button/Link"
+
+#: inc/view/customize/banner/Texts.php:160
+msgid "\"Powered by\" link text"
+msgstr "“Powered by\"-Linktext"
+
+#: inc/view/customize/banner/Texts.php:169
+msgid "Consent for data processing in unsecure third countries"
+msgstr "Einwilligung zur Datenverarbeitung in unsicheren Drittländern"
+
+#: inc/view/customize/banner/Texts.php:177
+msgid "Data processing notice in cookie banner"
+msgstr "Hinweis zur Datenverarbeitung im Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:178
+msgid "Use <code>{{legalBasis}}</code> as a placeholder for the legal basis."
+msgstr ""
+"Verwende <code>{{legalBasis}}</code> als Platzhalter für die Rechtsgrundlage."
+
+#: inc/view/customize/banner/Texts.php:197
+msgid "Age notice"
+msgstr "Altershinweis"
+
+#: inc/view/customize/banner/Texts.php:203
+msgid "Age notice in cookie banner"
+msgstr "Altershinweis im Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:220
+msgid "Age notice in content blocker"
+msgstr "Altershinweis im Content Blocker"
+
+#: inc/view/customize/banner/Texts.php:236
+msgid "List of services"
+msgstr "Liste der Services"
+
+#: inc/view/customize/banner/Texts.php:242
+msgid "Naming of all services requiring consent in the first view"
+msgstr ""
+"Benennung aller Services, welche eine Einwilligung benötigen, in der ersten "
+"Ansicht"
+
+#: inc/view/customize/banner/Texts.php:244
+msgid ""
+"Use <code>{{services}}</code> and <code>{{serviceGroups}}</code> as a "
+"placeholder for a list of services and groups."
+msgstr ""
+"Verwende <code>{{services}}</code> und <code>{{serviceGroups}}</code> als "
+"Platzhalter für eine Liste von Services und Gruppen."
+
+#: inc/view/customize/banner/Texts.php:264
+msgid ""
+"Naming of all services on the legal basis of the legitimate interest in the "
+"first view"
+msgstr ""
+"Benennung aller Services auf der Rechtsgrundlage des berechtigten Interesses "
+"in der ersten Ansicht"
+
+#: inc/view/customize/banner/Texts.php:269
+msgid ""
+"Use <code>{{services}}</code> as a placeholder for a list of services with "
+"legitimate interest as legal basis."
+msgstr ""
+"Verwende <code>{{services}}</code> als Platzhalter, um alle Services auf der "
+"Rechtsgrundlage des berechtigten Interesses anzuzeigen."
+
+#: inc/view/customize/banner/Texts.php:289
+msgid "Consent Forwarding"
+msgstr "Weiterleitung der Einwilligung"
+
+#: inc/view/customize/banner/Texts.php:294
+msgid "Consent forwarding to other websites"
+msgstr "Weiterleitung der Einwilligung zu anderen Websites"
+
+#: inc/view/customize/banner/Texts.php:296
+msgid ""
+"Use <code>{{websites}}</code> as a placeholder for the external website URLs."
+msgstr ""
+"Verwende <code>{{websites}}</code> als Platzhalter für die externen Website-"
+"URLs."
+
+#: inc/view/customize/banner/Texts.php:314
+msgid ""
+"At the moment we do not provide a live preview for content blocker texts."
+msgstr "Derzeit bieten wir keine Live-Vorschau für Content Blocker Texte an."
+
+#: inc/view/customize/banner/Texts.php:322
+msgid ""
+"Use <code>{{name}}</code> as a placeholder for the content blocker name."
+msgstr ""
+"Verwende <code>{{name}}</code> als Platzhalter für den Content Blocker Namen."
+
+#: inc/view/customize/banner/Texts.php:333
+msgid "Link text, to show all required services"
+msgstr "Linktext, um alle benötigten Services anzuzeigen"
+
+#: inc/view/customize/banner/Texts.php:341
+msgid "\"Load content\" button/link"
+msgstr "\"Inhalt laden\"-Button/Link"
+
+#: inc/view/customize/banner/Texts.php:349
+msgid "Additional info below the \"Load content\" button"
+msgstr "Zusatzinfo unterhalb dem \"Inhalt laden\"-Button"
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:368
+msgid ""
+"The standard texts in the cookie banner are worded carefully. If you "
+"customize them, make sure they are not misleading or riveting. According to "
+"the <a href=\"%s\" target=\"_blank\">Data Protection Commissioner of Baden-"
+"Württeberg, Germany (Section B, 1.3.7.; German)</a>, for example, a headline "
+"\"We love cookies\" is already misleading."
+msgstr ""
+"Die Standardtexte im Cookie Banner sind mit Bedacht formuliert. Wenn du sie "
+"anpasst, achte darauf, dass sie nicht irreführend oder verniedlichend sind. "
+"Nach dem <a href=\"%s\" target=\"_blank\">Datenschutzbeauftragen von Baden-"
+"Württemberg, Deutschland (Abschnitt B, 1.3.7.)</a> ist z.B. die Überschrift "
+"\"Wir lieben Cookies\" bereits irreführend."
+
+#: inc/view/customize/banner/Texts.php:372
+msgid ""
+"https://www.baden-wuerttemberg.datenschutz.de/faq-zu-cookies-und-tracking-2/"
+"#13_informiertheit)"
+msgstr ""
+"https://www.baden-wuerttemberg.datenschutz.de/faq-zu-cookies-und-tracking-2/"
+"#13_informiertheit)"
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:387
+msgid ""
+"Consent for data processing in unsecure third countries is currently "
+"disabled. Please navigate to %1$sSettings > Consent%2$s to activate it."
+msgstr ""
+"Die Einwilligung zur Datenverarbeitung in unsicheren Drittländern ist "
+"derzeit deaktiviert. Bitte navigiere zu %1$sEinstellungen > "
+"Einwilligung%2$s, um sie zu aktivieren."
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:411
+msgid ""
+"Age notice is currently disabled. Please navigate to %1$sSettings > "
+"Consent%2$s to activate it."
+msgstr ""
+"Der Altershinweis ist derzeit deaktiviert. Bitte navigiere zu "
+"%1$sEinstellungen > Einwilligung%2$s, um diesen zu aktivieren."
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:435
+msgid ""
+"Naming of all services in first view is currently disabled. Please navigate "
+"to %1$sSettings > Consent%2$s to activate it."
+msgstr ""
+"Die Liste aller Services ist derzeit deaktiviert. Bitte navigiere zu "
+"%1$sEinstellungen > Einwilligung%2$s, um diese zu aktivieren."
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:459
+msgid ""
+"Consent Forwarding is currently disabled or no external hosts have been "
+"defined (a different domain than the current website domain). Please "
+"navigate to %1$sSettings > Multisite / Consent Forwarding%2$s to configure "
+"it."
+msgstr ""
+"Die Weiterleitung von Einwilligungen ist derzeit deaktiviert oder es wurden "
+"keine externen Hosts definiert (eine andere Domain als die aktuelle Website-"
+"Domain). Bitte navigiere zu %1$sEinstellungen > Multisite / Weiterleitung "
+"der Einwilligung%2$s, um sie zu aktivieren."
+
+#: inc/view/customize/banner/Texts.php:483
+msgctxt "legal-text"
+msgid "Privacy preferences"
+msgstr "Privatsphäre-Einstellungen"
+
+#: inc/view/customize/banner/Texts.php:499
+msgctxt "legal-text"
+msgid "Set privacy settings individually"
+msgstr "Privatsphäre-Einstellungen individuell festlegen"
+
+#: inc/view/customize/banner/Texts.php:500
+msgctxt "legal-text"
+msgid ""
+"Some services process personal data in unsecure third countries. By "
+"consenting to the use of these services, you also consent to the processing "
+"of your data in these unsecure third countries in accordance with "
+"{{legalBasis}}. This involves risks that your data will be processed by "
+"authorities for control and monitoring purposes, perhaps without the "
+"possibility of a legal recourse."
+msgstr ""
+"Einige Services verarbeiten personenbezogene Daten in unsicheren "
+"Drittländern. Indem du in die Nutzung dieser Services einwilligst, erklärst "
+"du dich auch mit der Verarbeitung deiner Daten in diesen unsicheren "
+"Drittländern gemäß {{legalBasis}} einverstanden. Dies birgt das Risiko, dass "
+"deine Daten von Behörden zu Kontroll- und Überwachungszwecken verarbeitet "
+"werden, möglicherweise ohne die Möglichkeit eines Rechtsbehelfs."
+
+#: inc/view/customize/banner/Texts.php:505
+msgctxt "legal-text"
+msgid ""
+"You are under {{minAge}} years old? Then you cannot consent to optional "
+"services. Ask your parents or legal guardians to agree to these services "
+"with you."
+msgstr ""
+"Du bist unter {{minAge}} Jahre alt? Dann kannst du nicht in optionale "
+"Services einwilligen. Du kannst deine Eltern oder Erziehungsberechtigten "
+"bitten, mit dir in diese Services einzuwilligen."
+
+#: inc/view/customize/banner/Texts.php:510
+msgctxt "legal-text"
+msgid ""
+"You are under {{minAge}} years old? Unfortunately, you are not permitted to "
+"consent to this service to view this content. Please ask your parents or "
+"guardians to agree to the service with you!"
+msgstr ""
+"Du bist unter {{minAge}} Jahre alt? Leider darfst du in diesen Service nicht "
+"selbst einwilligen, um diese Inhalte zu sehen. Bitte deine Eltern oder "
+"Erziehungsberechtigten, in den Service mit dir einzuwilligen!"
+
+#: inc/view/customize/banner/Texts.php:515
+msgctxt "legal-text"
+msgid ""
+"By accepting all services, you allow {{services}} to be loaded. These "
+"services are divided into groups {{serviceGroups}} according to their "
+"purpose (belonging marked with superscript numbers)."
+msgstr ""
+"Wenn du alle Services akzeptierst, erlaubst du, dass {{services}} geladen "
+"werden. Diese sind nach ihrem Zweck in Gruppen {{serviceGroups}} unterteilt "
+"(Zugehörigkeit durch hochgestellte Zahlen gekennzeichnet)."
+
+#: inc/view/customize/banner/Texts.php:520
+msgctxt "legal-text"
+msgid "In addition, {{services}} are loaded based on a legitimate interest."
+msgstr ""
+"Außerdem werden {{services}} auf der Grundlage eines berechtigten Interesses "
+"geladen."
+
+#: inc/view/customize/banner/Texts.php:525
+msgctxt "legal-text"
+msgid "Your consent is also applicable on {{websites}}."
+msgstr "Deine Einwilligung gilt auch auf {{websites}}."
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:532
+#: inc/view/customize/banner/Texts.php:609
+msgctxt "legal-text"
+msgid "{{name}} blocked due to privacy settings"
+msgstr "{{name}} aufgrund von Privatsphäre-Einstellungen blockiert"
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:533
+#: inc/view/customize/banner/Texts.php:610
+msgctxt "legal-text"
+msgid "Show all services you still need to agree to"
+msgstr "Zeige alle Services, in die du noch einwilligen musst"
+
+#: inc/view/customize/banner/Texts.php:538
+msgctxt "legal-text"
+msgid "Accept services and load content"
+msgstr "Services akzeptieren und Inhalte laden"
+
+#: inc/view/customize/banner/Texts.php:539
+msgctxt "legal-text"
+msgid ""
+"Loading the blocked content will adjust your privacy settings. Content from "
+"this service will not be blocked in the future."
+msgstr ""
+"Wenn du die blockierten Inhalte lädst, werden deine Datenschutzeinstellungen "
+"angepasst. Inhalte aus diesem Service werden in Zukunft nicht mehr blockiert."
+
+#: inc/view/customize/banner/Texts.php:572
+msgid "WordPress Cookie Plugin by Real Cookie Banner"
+msgstr "WordPress Cookie Plugin von Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:573
+msgid "WordPress Cookie Notice by Real Cookie Banner"
+msgstr "WordPress Cookie Hinweis von Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:574
+msgid "Cookie Consent with Real Cookie Banner"
+msgstr "Cookie Consent mit Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:575
+msgid "GDPR Cookie Consent with Real Cookie Banner"
+msgstr "GDPR Cookie Consent mit Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:576
+msgid "Consent Management Platform by Real Cookie Banner"
+msgstr "Consent Management Platform von Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:577
+msgid "Cookie Consent Banner by Real Cookie Banner"
+msgstr "Cookie Consent Banner von Real Cookie Banner"
+
+#: inc/view/customize/banner/Texts.php:615
+msgctxt "legal-text"
+msgid "Accept required services and load content"
+msgstr "Erforderliche Services akzeptieren und Inhalte laden"
+
+#: inc/view/customize/banner/Texts.php:620
+msgctxt "legal-text"
+msgid ""
+"Loading the blocked content will adjust your privacy settings. Content from "
+"this service will not be blocked in the future. You have the right to revoke "
+"or change your decision at any time."
+msgstr ""
+"Wenn du die blockierten Inhalte lädst, werden deine Datenschutzeinstellungen "
+"angepasst. Inhalte aus diesem Service werden in Zukunft nicht mehr "
+"blockiert. Du hast das Recht, deine Entscheidung jederzeit zu widerrufen "
+"oder zu ändern."
+
+#: inc/view/navmenu/NavMenuLinks.php:90
+msgid "The navigation menu could not be found."
+msgstr "Das Navigationsmenü konnte nicht gefunden werden."
+
+#: inc/view/navmenu/NavMenuLinks.php:111 inc/view/navmenu/NavMenuLinks.php:112
+msgctxt "legal-text"
+msgid "Change privacy settings"
+msgstr "Privatsphäre-Einstellungen ändern"
+
+#: inc/view/navmenu/NavMenuLinks.php:115 inc/view/navmenu/NavMenuLinks.php:116
+msgctxt "legal-text"
+msgid "Privacy settings history"
+msgstr "Historie der Privatsphäre-Einstellungen"
+
+#: inc/view/navmenu/NavMenuLinks.php:119 inc/view/navmenu/NavMenuLinks.php:120
+msgctxt "legal-text"
+msgid "Revoke consents"
+msgstr "Einwilligungen widerrufen"
+
+#: inc/view/navmenu/NavMenuLinks.php:122
+msgctxt "legal-text"
+msgid ""
+"You have successfully revoked consent for services with its cookies and "
+"personal data processing. The page will be reloaded now!"
+msgstr ""
+"Du hast die Einwilligung für Services mit dessen Cookies und Verarbeitung "
+"personenbezogener Daten erfolgreich widerrufen. Die Seite wird jetzt neu "
+"geladen!"
+
+#: inc/view/navmenu/NavMenuLinks.php:180
+msgid "Success message"
+msgstr "Erfolgsmeldung"
+
+#: inc/view/navmenu/NavMenuLinks.php:293
+msgid "Add to Menu"
+msgstr "Zum Menü hinzufügen"
+
+#. translators:s
+#: inc/view/Notices.php:388
+msgid "<strong>%1$s</strong> is processing data to %2$s"
+msgstr "<strong>%1$s</strong> verarbeitet Daten nach %2$s"
+
+#: inc/view/Notices.php:403
+msgid ""
+"Some services carries out data processing in insecure third countries as "
+"defined by data protection regulations. You should obtain specific consent "
+"for this or only use services with data processing in secure countries as "
+"defined by the European Commission."
+msgstr ""
+"Manche deiner Services führt Datenverarbeitungen in unsicheren Drittländern "
+"im Sinne der Datenschutzvorschriften durch. Dafür solltest du eine spezielle "
+"Einwilligung einholen oder nur Services mit Datenverarbeitung in sicheren "
+"Ländern gemäß der Definition der Europäischen Kommission nutzen."
+
+#: inc/view/Notices.php:435
+msgid ""
+"You have enabled or disabled plugins on your website, which may require your "
+"cookie banner to be adjusted. Please scan your website again as soon as you "
+"have finished the changes!"
+msgstr ""
+"Du hast Plugins auf deiner Website aktiviert oder deaktiviert, wodurch dein "
+"Cookie Banner möglicherweise angepasst werden muss. Bitte scanne deine "
+"Website erneut, sobald du die Änderungen abgeschlossen hast!"
+
+#: inc/view/Notices.php:448
+msgid "Scan website again"
+msgstr "Website erneut scannen"
+
+#: inc/view/Scanner.php:64
+msgid "Scan this page"
+msgstr "Diese Seite scannen"
+
+#. translators:
+#: inc/view/Scanner.php:86
+msgid "%d recommendation found"
+msgid_plural "%d recommendations found"
+msgstr[0] "%d Empfehlung gefunden"
+msgstr[1] "%d Empfehlungen gefunden"
+
+#: inc/view/Scanner.php:151
+msgid "Take action now"
+msgstr "Jetzt handeln"
+
+#: inc/view/Scanner.php:152
+msgid "Ignore hint"
+msgstr "Hinweis ignorieren"
+
+#. translators:
+#: inc/view/Scanner.php:179
+msgid ""
+"You have embedded the following services on your website: %s You may need to "
+"obtain consent for these services via your cookie banner to be able to use "
+"them in accordance with data protection regulations."
+msgstr ""
+"Du hast die folgenden Services auf deiner Webseite eingebunden: %s Es kann "
+"sein, dass du die Einwilligung für diese Services über dein Cookie Banner "
+"einholen musst, um sie datenschutzkonform nutzen zu können."
+
+#: inc/view/shortcode/LinkShortcode.php:63
+msgid "Please provide a `text` attribute in your shortcode!"
+msgstr "Bitte gib ein `text`-Attribut in deinem Shortcode an!"
+
+#. translators:
+#: inc/view/shortcode/LinkShortcode.php:69
+msgid "Please provide a `type` attribute in your shortcode. Allowed: %s!"
+msgstr "Bitte gib in deinem Shortcode das Attribut `type` an. Erlaubt: %s!"
+
+#: inc/view/UpdateNotice.php:71
+msgid ""
+"Changes have been made to the templates you use in Real Cookie Banner. You "
+"should review the proposed changes and adjust your services if necessary to "
+"be able to remain legally compliant. The following services are affected:"
+msgstr ""
+"Es wurden Änderungen an den Vorlagen vorgenommen, die du in Real Cookie "
+"Banner verwendest. Du solltest die vorgeschlagenen Änderungen überprüfen und "
+"deine Services gegebenenfalls anpassen, um rechtskonform sein zu können. Die "
+"folgenden Services sind betroffen:"
+
+#: inc/view/UpdateNotice.php:86
+msgid "Service (Cookie)"
+msgstr "Service (Cookie)"
+
+#: inc/view/UpdateNotice.php:99
+msgid "Review changes"
+msgstr "Änderungen überprüfen"
+
+#: inc/view/UpdateNotice.php:109
+msgid "Dismiss this notice"
+msgstr "Hinweis ausblenden"
+
+#~ msgid "Privacy policy page"
+#~ msgstr "Datenschutzerklärung"
+
+#~ msgid "Imprint page"
+#~ msgstr "Impressum"
+
+#~ msgid "Link opens in"
+#~ msgstr "Link öffnet in"
+
+#~ msgid "Same tab"
+#~ msgstr "Gleicher Tab"
+
+#~ msgid "New tab"
+#~ msgstr "Neuer Tab"
+
+#~ msgid ""
+#~ "This option can not be changed here. Please navigate to <a href=\"%s\" "
+#~ "target=\"_blank\">Settings</a>."
+#~ msgstr ""
+#~ "Diese Option kann hier nicht geändert werden. Bitte gehe zu <a "
+#~ "href=\"%s\" target=\"_blank\">Einstellungen</a>."
+
+#~ msgid "Legal (Privacy Policy & more)"
+#~ msgstr "Rechtliches (Datenschutzerklärung & Impressum)"
+
+#~ msgid ""
+#~ "In order to comply with the ePrivacy Directive, it is important that the "
+#~ "consent dialog contains a direct link to the privacy policy and the "
+#~ "imprint (if required in your country)."
+#~ msgstr ""
+#~ "Um der ePrivacy-Richtlinie zu entsprechen, ist es wichtig, dass der "
+#~ "Einwilligungsdialog einen direkten Link auf die Datenschutzerklärung und "
+#~ "das Impressum (falls in deinem Land erforderlich) enthält."
+
+#~ msgid "Page"
+#~ msgstr "Seite"
+
+#~ msgid "External URL"
+#~ msgstr "Externe URL"
+
+#~ msgid "Use external URL instead of page"
+#~ msgstr "Externe URL anstelle einer Seite verwenden"
+
+#~ msgid "Label"
+#~ msgstr "Label"
+
+#~ msgid "Show privacy policy without cookie banner"
+#~ msgstr "Datenschutzerklärung ohne Cookie Banner anzeigen"
+
+#~ msgid ""
+#~ "According to some data protectors, it must be ensured that the privacy "
+#~ "policy can be viewed before accepting services."
+#~ msgstr ""
+#~ "Nach Ansicht einiger Datenschützer muss sichergestellt werden, dass die "
+#~ "Datenschutzerklärung vor der Einwilligung in Services eingesehen werden "
+#~ "kann."
+
+#~ msgid "Imprint"
+#~ msgstr "Impressum"
+
+#~ msgid "Show imprint without cookie banner"
+#~ msgstr "Impressum ohne Cookie Banner anzeigen"
+
+#~ msgid ""
+#~ "According to some data protectors, it must be ensured that the imprint "
+#~ "can be viewed before accepting services."
+#~ msgstr ""
+#~ "Nach Ansicht einiger Datenschützer muss sichergestellt werden, dass das "
+#~ "Impressum vor der Einwilligung in Services eingesehen werden kann."
+
+#~ msgid "Please fill in a valid URL!"
+#~ msgstr "Bitte trage eine gültige URL ein!"
+
+#~ msgid ""
+#~ "Please also shorten the texts, e.g. \"Reject\" and \"Accept all\", to "
+#~ "avoid legal risks with truncated text, or reduce the font size."
+#~ msgstr ""
+#~ "Bitte kürze die Texte auch z.B. “Ablehnen” und “Alle akzeptieren”, um "
+#~ "rechtliche Risiken mit abgeschnittenem Text zu vermeiden. Oder reduziere "
+#~ "die Schriftgröße."
+
+#~ msgid ""
+#~ "Note that for visitors with an older browser (e.g. Internet Explorer) "
+#~ "this option will not work."
+#~ msgstr ""
+#~ "Beachte, dass diese Option für Besucher mit einem älteren Browser (z. B. "
+#~ "Internet Explorer) nicht funktioniert."
+
+#~ msgid ""
+#~ "The style will only be applied if you have disabled the anti-blocker "
+#~ "optimization."
+#~ msgstr ""
+#~ "Der CSS Code wird nur angewendet, wenn du die Anti-Blocker-Optimierung "
+#~ "deaktiviert hast."
+
+#~ msgctxt "legal-text"
+#~ msgid "and %d more"
+#~ msgstr "und %d mehr"

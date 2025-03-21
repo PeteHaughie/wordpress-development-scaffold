@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Käyttö oikeudellisella perusteella"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Oikeutettu etu"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Lakisääteisen velvoitteen noudattaminen"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Suostumus"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Olemme huomanneet, että olet indeksoiva robotti. Vain luonnollisten henkilöiden on annettava suostumuksensa evästeisiin ja henkilötietojen käsittelyyn. Siksi linkillä ei ole sinulle mitään merkitystä."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Teknisen evästeen määritelmä"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Käyttää evästeitä"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Evästeen päivitys"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Käyttää evästeiden kaltaisia tietoja (LocalStorage, SessionStorage, IndexDB jne.)."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Isäntä"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Kesto"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "sekunti(t)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "minuutti(t)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "tunti(t)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "päivä(t)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "kuukausi(t)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "vuosi(t)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Tyyppi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Käyttötarkoitus"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Tietosuoja-asetusten historia"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Näytä suostumus"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Ei vielä hyväksytty"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Sulje"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Sulje tallentamatta"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Palveluntarjoaja"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "ja %d muutos"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Yhdysvaltojen tietojenkäsittely"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Kyllä"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Ei"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Ei ole"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Ei lisenssiä aktivoitu - ei tuotantokäyttöön!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Tuotteen lisenssi ei ole tarkoitettu tuotantokäyttöön!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " ja "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Ei voimassaoloaikaa"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Lisäksi annat suostumuksesi tietojen siirtämiseen TCF-standardin mukaisille yhteistyökumppaneille seuraavia tarkoituksia varten:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Myyjäluettelo"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Myyjät"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Näytä lisää"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Piilota"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Tietojen käsittely oikeudellisella perusteella:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Tietojenkäsittelyn oikeusperusta: Ei myyjäpyyntöjä tämän oikeusperustan nojalla."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Ei-standardoitu tietojenkäsittely"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Jotkin palvelut asettavat evästeitä ja/tai käsittelevät henkilötietoja noudattamatta suostumusviestinnän standardeja. Nämä palvelut jaetaan useisiin ryhmiin. Ns. välttämättömiä palveluita käytetään oikeutetun edun perusteella, eikä niitä voi poistaa käytöstä (vastalause on ehkä tehtävä sähköpostitse tai kirjeitse tietosuojakäytännön mukaisesti), kun taas kaikkia muita palveluita käytetään vasta suostumuksen antamisen jälkeen."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "TCF:n mukaisesti standardoitu tietojenkäsittely"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Avoimuus- ja suostumuskehys (TCF, Transparency and Consent Framework) on standardi, jonka avulla saadaan johdonmukainen suostumus henkilötietojen käsittelyyn ja evästeiden asettamiseen. Tämän pitäisi antaa kaikille digitaalisen (mainos)ketjun osapuolille mahdollisuus varmistaa, että ne asettavat, käsittelevät ja tallentavat tietoja ja evästeitä yleisen tietosuoja-asetuksen ja sähköisen viestinnän tietosuojadirektiivin mukaisesti."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Käyttötarkoitukset"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Erityistarkoitukset"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Ominaisuudet"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Erityisominaisuudet"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Käyttötarkoitukset kuvaavat, mitä tarkoitusta varten palveluntarjoajat voivat asettaa evästeitä ja käsitellä henkilötietoja. Käyttötarkoitukset valitaan ennalta, jos tietojen käsittelyyn on oikeutettu etu. Kaikkia muita tarkoituksia varten tietoja käsitellään vain nimenomaisella suostumuksella."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Erityiset tarkoitukset evästeiden asettamiselle ja toimittajiemme suorittamalle henkilötietojen käsittelylle kuvaavat tarkoituksia, joita varten meillä on oikeutettu etu, jota ei voida hylätä. Meidän on esimerkiksi käsiteltävä tietoja petosten estämiseksi."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Henkilötietojen käsittelyn ominaisuuksissa kuvataan, miten tietoja käytetään yhden tai useamman tarkoituksen täyttämiseksi. Ominaisuuksia ei voi kieltää, mutta kohdassa \"Käyttötarkoitukset\" voidaan valita tai poistaa tarkoitukset, jotka johtavat ominaisuuksien käyttöön. Mikä tahansa tarkoitus voi johtaa ominaisuuksien käyttöön."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Henkilötietojen käsittelyn erityispiirteet kuvaavat, miten tietoja käytetään yhden tai useamman tarkoituksen täyttämiseksi perusteellisesti. Henkilötietoja käsitellään tällä tavoin vain nimenomaisella suostumuksella."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Asianmukaiset suojatoimet"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Vakiosopimuslausekkeet"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Siirry suostumusvalintoihin"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "sekunti"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "minuutti"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "tunti"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "päivä"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "kuukausi"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "vuosi"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "sekuntit"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "minuuttit"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "tuntit"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "päivät"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "kuukausit"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "vuosit"

@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Χρήση σε νόμιμη βάση"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Νόμιμο συμφέρον"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Συμμόρφωση με νομική υποχρέωση"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Συναίνεση"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Αναγνωρίσαμε ότι είστε crawler/bot. Μόνο τα φυσικά πρόσωπα πρέπει να συναινούν στα cookies και στην επεξεργασία προσωπικών δεδομένων. Ως εκ τούτου, ο σύνδεσμος δεν έχει καμία λειτουργία για εσάς."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Τεχνικός ορισμός cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Χρησιμοποιεί cookies"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Ανανεωτικό μπισκότο"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Χρησιμοποιεί πληροφορίες που μοιάζουν με cookie (LocalStorage, SessionStorage, IndexDB κ.λπ.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Οικοδεσπότης"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Διάρκεια"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "δευτερόλεπτο(α)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "λεπτό(α)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "ώρα(ες)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "ημέρα(ες)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "μήνας(ες)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "έτος(α)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Τύπος"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Σκοπός"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Ιστορικό των ρυθμίσεων απορρήτου σας"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Εμφάνιση συγκατάθεσης από"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Δεν έχει ακόμη συναινέσει"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Κλείσιμο χωρίς αποθήκευση"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Πάροχος"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "και %d περισσότερα"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Επεξεργασία δεδομένων στις ΗΠΑ"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Ναι"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Όχι"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Άγνωστος"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Κανένα"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Δεν έχει ενεργοποιηθεί άδεια χρήσης - όχι για παραγωγική χρήση!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Άδεια χρήσης προϊόντος όχι για παραγωγική χρήση!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " και "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Δεν υπάρχει λήξη"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Επιπλέον, συναινείτε στη διαβίβαση δεδομένων σε συνεργάτες σύμφωνα με το πρότυπο TCF για τους ακόλουθους σκοπούς:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Κατάλογος προμηθευτών"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Προμηθευτές"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Εμφάνιση περισσότερων"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Επεξεργασία δεδομένων βάσει της νομικής βάσης της:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Δεν υπάρχουν αιτήματα πωλητών για σκοπούς βάσει αυτής της νομικής βάσης."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Μη τυποποιημένη επεξεργασία δεδομένων"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Ορισμένες υπηρεσίες θέτουν cookies ή/και επεξεργάζονται προσωπικά δεδομένα χωρίς να συμμορφώνονται με τα πρότυπα επικοινωνίας συναίνεσης. Οι υπηρεσίες αυτές χωρίζονται σε διάφορες ομάδες. Οι λεγόμενες \"βασικές υπηρεσίες\" χρησιμοποιούνται με βάση το έννομο συμφέρον και δεν μπορούν να εξαιρεθούν (ενδέχεται να πρέπει να υποβληθεί αντίρρηση μέσω ηλεκτρονικού ταχυδρομείου ή επιστολής σύμφωνα με την πολιτική απορρήτου), ενώ όλες οι άλλες υπηρεσίες χρησιμοποιούνται μόνο μετά από συγκατάθεση."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Τυποποιημένη επεξεργασία δεδομένων σύμφωνα με την TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Το Πλαίσιο Διαφάνειας και Συγκατάθεσης (TCF) είναι ένα πρότυπο για τη λήψη συνεπούς συγκατάθεσης για την επεξεργασία προσωπικών δεδομένων και τη ρύθμιση cookie. Αυτό θα πρέπει να επιτρέπει σε όλα τα μέρη της ψηφιακής (διαφημιστικής) αλυσίδας να διασφαλίζουν ότι ορίζουν, επεξεργάζονται και αποθηκεύουν δεδομένα και cookies σύμφωνα με τον ΓΚΠΔ και την οδηγία για την προστασία της ιδιωτικής ζωής στις ηλεκτρονικές επικοινωνίες."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Σκοποί"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Ειδικοί σκοποί"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Ειδικά χαρακτηριστικά"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Οι σκοποί περιγράφουν για ποιο σκοπό ποιοι πάροχοι μπορούν να θέτουν cookies και να επεξεργάζονται προσωπικά δεδομένα. Οι σκοποί προεπιλέγονται εάν υπάρχει έννομο συμφέρον για την επεξεργασία των δεδομένων του. Για όλους τους άλλους σκοπούς, η επεξεργασία δεδομένων γίνεται μόνο με ρητή συγκατάθεση."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Οι ειδικοί σκοποί για τον ορισμό cookies και την επεξεργασία προσωπικών δεδομένων από τους προμηθευτές μας περιγράφουν σκοπούς για τους οποίους έχουμε έννομο συμφέρον που δεν μπορεί να απορριφθεί. Για παράδειγμα, πρέπει να επεξεργαστούμε δεδομένα για την πρόληψη της απάτης."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Τα χαρακτηριστικά για την επεξεργασία δεδομένων προσωπικού χαρακτήρα περιγράφουν τον τρόπο με τον οποίο τα δεδομένα χρησιμοποιούνται για την εκπλήρωση ενός ή περισσότερων σκοπών. Τα χαρακτηριστικά δεν μπορούν να εξαιρεθούν, αλλά στην ενότητα \"Σκοποί\", οι σκοποί που οδηγούν στη χρήση των χαρακτηριστικών μπορούν να επιλεγούν ή να αποεπιλεγούν. Οποιοσδήποτε σκοπός μπορεί να οδηγήσει στη χρήση χαρακτηριστικών."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Τα ειδικά χαρακτηριστικά για την επεξεργασία δεδομένων προσωπικού χαρακτήρα περιγράφουν τον τρόπο με τον οποίο τα δεδομένα χρησιμοποιούνται για την εκπλήρωση ενός ή περισσότερων σκοπών με βαθύ τρόπο. Τα δεδομένα προσωπικού χαρακτήρα υποβάλλονται σε επεξεργασία με αυτόν τον τρόπο μόνο με ρητή συγκατάθεση."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Κατάλληλη διασφάλιση"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Τυπικές συμβατικές ρήτρες"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Μετάβαση στις επιλογές συγκατάθεσης"
+
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "δευτερόλεπτο"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "λεπτό"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "ώρα"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "ημέρα"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "μήνας"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "έτος"
+
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "δευτερόλεπτοα"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "λεπτόα"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "ώραες"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "ημέραες"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "μήναςες"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "έτοςα"

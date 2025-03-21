@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Utilizarea pe bază legală a"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Interes legitim"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Respectarea unei obligații legale"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Consimțământ"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Am recunoscut că sunteți un crawler/bot. Numai persoanele fizice trebuie să își dea acordul pentru cookie-uri și prelucrarea datelor cu caracter personal. Prin urmare, linkul nu are nicio funcție pentru dvs."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Definiția tehnică a cookie-urilor"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Utilizează cookie-uri"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Actualizarea cookie-urilor"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Utilizează informații de tip cookie (LocalStorage, SessionStorage, IndexDB, etc.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Gazda"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Durata"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "secundă(e)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "minut(e)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "oră(e)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "zi (zile)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "lună(e)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "anul (anii)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Tip"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Scop"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Istoric al setărilor dvs. de confidențialitate"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Arată consimțământul de la"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Nu a fost încă consimțit"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Închideți"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Închideți fără a salva"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Furnizor"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "și %d mai mult"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Prelucrarea datelor în SUA"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Da"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Nu"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Nici unul"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Nici o licență activată - nu pentru utilizare în producție!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Licența produsului nu este destinată utilizării în producție!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " și "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Fără expirare"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "În plus, sunteți de acord cu transferul de date către parteneri în conformitate cu standardul TCF în următoarele scopuri:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Lista furnizorilor"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Furnizori"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Afișați mai multe"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Ascundeți"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Prelucrarea datelor în baza temeiului juridic al:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Nu există scopuri de solicitare a furnizorilor în temeiul acestui temei juridic."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Prelucrarea nestandardizată a datelor"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Unele servicii setează cookie-uri și/sau prelucrează date cu caracter personal fără a respecta standardele de comunicare a consimțământului. Aceste servicii sunt împărțite în mai multe grupuri. Așa-numitele \"servicii esențiale\" sunt utilizate pe baza interesului legitim și nu pot fi refuzate (este posibil să fie necesară o obiecție prin e-mail sau scrisoare, în conformitate cu politica de confidențialitate), în timp ce toate celelalte servicii sunt utilizate numai după ce a fost acordat consimțământul."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Prelucrarea datelor standardizată în conformitate cu TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Cadrul de transparență și consimțământ (TCF) este un standard pentru obținerea unui consimțământ coerent pentru prelucrarea datelor cu caracter personal și pentru setarea de cookie-uri. Acest lucru ar trebui să permită tuturor părților din lanțul digital (publicitar) să se asigure că setează, prelucrează și stochează datele și cookie-urile în conformitate cu GDPR și cu Directiva privind confidențialitatea în mediul electronic."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Scopuri"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Scopuri speciale"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Caracteristici"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Caracteristici speciale"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Scopurile descriu în ce scop care furnizori pot seta module cookie și prelucra date cu caracter personal. Scopurile sunt preselectate în cazul în care există un interes legitim pentru prelucrarea datelor sale. Pentru toate celelalte scopuri, datele vor fi prelucrate numai cu consimțământul explicit."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Scopurile speciale pentru setarea modulelor cookie și prelucrarea datelor cu caracter personal de către furnizorii noștri descriu scopurile pentru care avem un interes legitim care nu poate fi respins. De exemplu, trebuie să prelucrăm datele pentru a preveni frauda."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Caracteristicile pentru prelucrarea datelor cu caracter personal descriu modul în care datele sunt utilizate pentru a îndeplini unul sau mai multe scopuri. Caracteristicile nu pot fi refuzate, dar în secțiunea \"Scopuri\", scopurile care conduc la utilizarea caracteristicilor pot fi selectate sau deselectate. Orice scop poate conduce la utilizarea caracteristicilor."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Caracteristicile speciale pentru prelucrarea datelor cu caracter personal descriu modul în care datele sunt utilizate pentru a îndeplini unul sau mai multe scopuri într-un mod profund. Datele cu caracter personal vor fi prelucrate în acest mod numai cu consimțământul explicit."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Protecție adecvată"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Clauze contractuale standard"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Treceți la opțiunile de consimțământ"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "secundă"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "minut"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "oră"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "zi"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "lună"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "anul"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "secundăe"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "minute"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "orăe"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "zi zile"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "lunăe"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "anul anii"

@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Yasal olarak"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Meşru menfaat"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Yasal bir yükümlülüğe uygunluk"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Kabul"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Bir tarayıcı / bot olduğunuzu fark ettik. Çerezlere ve kişisel verilerin işlenmesine yalnızca gerçek kişiler izin vermelidir. Bu nedenle, bağlantının sizin için bir işlevi yoktur."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Teknik çerez tanımı"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Tanımlama bilgilerini kullanır"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Çerez yenileme"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Çerez benzeri bilgileri kullanır (LocalStorage, SessionStorage, IndexDB, vb.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Ev sahibi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Süre"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "saniye"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "dakika"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "saat"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "günler"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "aylar"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "yıllar"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Türü"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Amaç"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Gizlilik ayarlarınızın geçmişi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "İzin göste"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Henüz onaylanmadı"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Kapat"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Kaydetmeden kapat"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Sağlayıcı"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "ve %d daha fazla"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "ABD veri işleme"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Evet"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Hayır"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Hiçbir lisans etkinleştirilmedi - üretim kullanımı için değil!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Ürün lisansı üretim amaçlı değil!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " ve "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Bitiş süresi yok"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Ek olarak, aşağıdaki amaçlarla TCF standardı kapsamında ortaklara veri aktarımına izin vermiş olursunuz:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Satıcı listesi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Satıcılar"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Daha fazla göster"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Saklamak"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Aşağıdakilerin yasal temeli üzerinde veri işleme:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Bu yasal dayanak altında hiçbir satıcı amaç talep etmez."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Standartlaştırılmamış veri işleme"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Bazı hizmetler, rıza iletişim standartlarına uymadan çerezler yerleştirir ve/veya kişisel verileri işler. Bu hizmetler birkaç gruba ayrılır. Sözde \"temel hizmetler\" meşru menfaat temelinde kullanılır ve devre dışı bırakılamaz (gizlilik politikasına uygun olarak e-posta veya mektup yoluyla itirazda bulunulması gerekebilir), diğer tüm hizmetler yalnızca onay verildikten sonra kullanılır. ."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "TCF'ye göre standartlaştırılmış veri işleme"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Şeffaflık ve Rıza Çerçevesi (TCF), kişisel verilerin işlenmesi ve çerez ayarı için tutarlı izin alınmasına yönelik bir standarttır. Bu, dijital (reklamcılık) zincirindeki tüm tarafların verileri ve çerezleri GDPR ve eGizlilik Yönergesi uyarınca ayarladıklarından, işlediklerinden ve sakladıklarından emin olmalarını sağlamalıdır."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Amaçlar"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "özel amaçlar"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Özel özellikler"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Amaçlar, hangi sağlayıcıların çerezleri hangi amaçla ayarlayabileceğini ve kişisel verileri işleyebileceğini açıklar. Verilerin işlenmesi için meşru bir menfaat varsa, amaçlar önceden seçilir. Diğer tüm amaçlar için veriler yalnızca açık rıza ile işlenecektir."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Tanımlama bilgilerinin ayarlanmasına ve satıcılarımız tarafından kişisel verilerin işlenmesine yönelik özel amaçlar, reddedilemeyecek meşru bir menfaatimizin olduğu amaçları tanımlar. Örneğin, dolandırıcılığı önlemek için verileri işlememiz gerekir."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Kişisel verilerin işlenmesine yönelik özellikler, verilerin bir veya daha fazla amacı yerine getirmek için nasıl kullanıldığını açıklar. Özellikler devre dışı bırakılamaz, ancak \"Amaçlar\" bölümünde özelliklerin kullanımına yol açan amaçlar seçilebilir veya seçimi kaldırılabilir. Herhangi bir amaç, özelliklerin kullanılmasına neden olabilir."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Kişisel verilerin işlenmesine yönelik özel özellikler, verilerin bir veya daha fazla amacı kapsamlı bir şekilde yerine getirmek için nasıl kullanıldığını açıklar. Kişisel veriler bu şekilde ancak açık rıza ile işlenecektir."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Uygun koruma önlemi"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "standart sözleşme maddeleri"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Onay seçeneklerine atla"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "saniye"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "dakika"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "saat"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "günler"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "aylar"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "yıllar"
+
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "saniye"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "dakika"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "saat"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "günler"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "aylar"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "yıllar"

@@ -1,0 +1,37 @@
+# ignore everything in the root except the "wp-content" directory.
+!wp-content/
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+
+# ignore these plugins
+wp-content/plugins/hello.php
+
+# ignore specific themes
+wp-content/themes/twenty*/
+
+# ignore node dependency directories
+node_modules/
+
+# ignore sass-cache
+.sass-cache/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+.database
+.env
+
+# mac files
+.DS_Store
+
+# ignore css files - they're built during the deployment process and we only use one
+wp-content/themes/+++REPLACE_THEME_NAME+++-astra-child/_blocks
+wp-content/themes/+++REPLACE_THEME_NAME+++-astra-child/_pages
+wp-content/themes/+++REPLACE_THEME_NAME+++-astra-child/_partials
+wp-content/themes/+++REPLACE_THEME_NAME+++-astra-child/style.css

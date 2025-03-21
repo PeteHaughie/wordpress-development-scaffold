@@ -1,0 +1,23 @@
+/*
+ * Fonts
+ */
+
+$main-font: Helvetica, Arial, sans-serif;
+@import './breakpoints.scss'; 
+
+/*
+ * Links
+ */
+
+a {
+  text-decoration: none !important;
+}
+
+/*
+ * Misc
+ */
+
+.dragging {
+  cursor: grab;
+  pointer-events: none;
+}

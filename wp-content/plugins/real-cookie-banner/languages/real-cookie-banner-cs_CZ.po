@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Use on legal basis of"
+msgstr "Použití na právním základě"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Legitimate interest"
+msgstr "Oprávněný zájem"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Compliance with a legal obligation"
+msgstr "Dodržování zákonné povinnosti"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Consent"
+msgstr "Souhlas"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies and processing of personal data. Therefore, the link has no function for you."
+msgstr "Rozpoznali jsme, že jste crawler/bot. Souhlas se soubory cookie a zpracováním osobních údajů musí dát pouze fyzické osoby. Proto pro vás odkaz nemá žádnou funkci."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Technical cookie definition"
+msgstr "Technická definice souborů cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookies"
+msgstr "Používá soubory cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Cookie refresh"
+msgstr "Osvěžující soubory cookie"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Uses cookie-like information (LocalStorage, SessionStorage, IndexDB, etc.)"
+msgstr "Používá informace podobné souborům cookie (LocalStorage, SessionStorage, IndexDB atd.)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Host"
+msgstr "Host"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Duration"
+msgstr "Doba trvání"
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr "sekunda(y)"
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr "minuta(y)"
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr "hodina(y)"
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr "den(y)"
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr "měsíc(y)"
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr "rok(y)"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Type"
+msgstr "Typu"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purpose"
+msgstr "Účel"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "History of your privacy settings"
+msgstr "Historie nastavení ochrany osobních údajů"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show consent from"
+msgstr "Zobrazit souhlas od"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Not yet consented to"
+msgstr "Zatím bez souhlasu"
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr "Zavřít"
+
+#: inc/Assets.php:1
+msgid "Close without saving"
+msgstr "Zavřít bez uložení"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Provider"
+msgstr "Poskytovatel"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "and %d more"
+msgstr "a %d dalších"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "US data processing"
+msgstr "Zpracování dat v USA"
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr "Ano"
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr "Ne"
+
+#: inc/Assets.php:1
+msgid "Unknown"
+msgstr "Neznámé"
+
+#: inc/Assets.php:1
+msgid "None"
+msgstr "Žádné"
+
+#: inc/Assets.php:1
+msgid "No license activated - not for production use!"
+msgstr "Žádná licence není aktivována - není určena pro produkční použití!"
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr "Licence produktu není určena pro výrobní použití!"
+
+#: inc/Assets.php:1
+msgid " and "
+msgstr " a "
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No expiration"
+msgstr "Žádné vypršení platnosti"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "In addition, you consent to the transfer of data to partners under the TCF standard for the following purposes:"
+msgstr "Kromě toho souhlasíte s předáváním údajů partnerům podle standardu TCF pro následující účely:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendor list"
+msgstr "Seznam prodejců"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Vendors"
+msgstr "Prodejci"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Show more"
+msgstr "Zobrazit více"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Hide"
+msgstr "Skrýt"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing on the legal basis of:"
+msgstr "Zpracování údajů na právním základě:"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "No vendor requests purposes under this legal basis."
+msgstr "Žádný prodejce nežádá o účely na tomto právním základě."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Non-standardized data processing"
+msgstr "Nestandardizované zpracování údajů"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Some services set cookies and/or process personal data without complying with consent communication standards. These services are divided into several groups. So-called \"essential services\" are used based on legitimate interest and cannot be opted out (an objection may have to be made by email or letter in accordance with the privacy policy), while all other services are used only after consent has been given."
+msgstr "Některé služby nastavují soubory cookie a/nebo zpracovávají osobní údaje, aniž by dodržovaly standardy komunikace se souhlasem. Tyto služby se dělí do několika skupin. Takzvané \"základní služby\" jsou využívány na základě oprávněného zájmu a nelze je odmítnout (námitku je případně nutné vznést e-mailem nebo dopisem v souladu se zásadami ochrany osobních údajů), zatímco všechny ostatní služby jsou využívány pouze po udělení souhlasu."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Data processing standardized according to TCF"
+msgstr "Standardizované zpracování údajů podle TCF"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "The Transparency and Consent Framework (TCF) is a standard for obtaining consistent consent for processing of personal data and cookie setting. This should enable all parties in the digital (advertising) chain to ensure that they set, process and store data and cookies in accordance with the GDPR and the ePrivacy Directive."
+msgstr "Rámec pro transparentnost a souhlas (TCF) je standardem pro získání konzistentního souhlasu se zpracováním osobních údajů a nastavením souborů cookie. To by mělo umožnit všem účastníkům digitálního (reklamního) řetězce zajistit, aby nastavovali, zpracovávali a ukládali údaje a soubory cookie v souladu s GDPR a směrnicí o soukromí a elektronických komunikacích."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes"
+msgstr "Účely"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes"
+msgstr "Zvláštní účely"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features"
+msgstr "Funkce"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features"
+msgstr "Zvláštní funkce"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Purposes describe for which purpose which providers may set cookies and process personal data. Purposes are pre-selected if there is a legitimate interest for its data processing. For all other purposes, data will only be processed with explicit consent."
+msgstr "Účely popisují, za jakým účelem mohou jednotliví poskytovatelé nastavovat soubory cookie a zpracovávat osobní údaje. Účely jsou předem zvoleny, pokud existuje oprávněný zájem na jejich zpracování údajů. Pro všechny ostatní účely se údaje zpracovávají pouze s výslovným souhlasem."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special purposes for setting cookies and processing personal data by our vendors describe purposes for which we have a legitimate interest that cannot be rejected. For example, we need to process data to prevent fraud."
+msgstr "Zvláštní účely pro nastavení souborů cookie a zpracování osobních údajů našimi dodavateli popisují účely, pro které máme oprávněný zájem, který nelze odmítnout. Například potřebujeme zpracovávat údaje, abychom zabránili podvodům."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Features for processing personal data describe how data is used to fulfill one or more purposes. Features cannot be opted out, but in the \"Purposes\" section, purposes that lead to the use of features can be selected or deselected. Any purpose can lead to features being used."
+msgstr "Funkce pro zpracování osobních údajů popisují, jak jsou údaje používány ke splnění jednoho nebo více účelů. Funkce nelze odmítnout, ale v části \"Účely\" lze vybrat nebo zrušit výběr účelů, které vedou k použití funkcí. K použití funkcí může vést jakýkoli účel."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Special features for processing personal data describe how data is used to fulfill one or more purposes in a profound way. Personal data will only be processed in this way with explicit consent."
+msgstr "Zvláštní funkce pro zpracování osobních údajů popisují, jak jsou údaje používány k naplnění jednoho nebo více účelů hloubkovým způsobem. Osobní údaje budou tímto způsobem zpracovávány pouze s výslovným souhlasem."
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Appropriate safeguard"
+msgstr "Vhodná ochrana"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Standard contractual clauses"
+msgstr "Standardní smluvní doložky"
+
+#: inc/Assets.php:1
+msgctxt "legal-text"
+msgid "Skip to consent choices"
+msgstr "Přeskočit na volby souhlasu"
+
+#: inc/Assets.php:1
+msgid "second"
+msgstr "sekunda"
+
+#: inc/Assets.php:1
+msgid "minute"
+msgstr "minuta"
+
+#: inc/Assets.php:1
+msgid "hour"
+msgstr "hodina"
+
+#: inc/Assets.php:1
+msgid "day"
+msgstr "den"
+
+#: inc/Assets.php:1
+msgid "month"
+msgstr "měsíc"
+
+#: inc/Assets.php:1
+msgid "year"
+msgstr "rok"
+
+#: inc/Assets.php:1
+msgid "seconds"
+msgstr "sekunday"
+
+#: inc/Assets.php:1
+msgid "minutes"
+msgstr "minutay"
+
+#: inc/Assets.php:1
+msgid "hours"
+msgstr "hodinay"
+
+#: inc/Assets.php:1
+msgid "days"
+msgstr "deny"
+
+#: inc/Assets.php:1
+msgid "months"
+msgstr "měsícy"
+
+#: inc/Assets.php:1
+msgid "years"
+msgstr "roky"
