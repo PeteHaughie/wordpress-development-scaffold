@@ -8,8 +8,6 @@ It was originally created by me for a company I worked for who no longer do web 
 
 Install Docker and docker-compose.
 
-Install VSCode.
-
 Run the `init.sh` script. Enter your desired theme name using only characters and hyphens, eg: `my-new-theme`
 Enter the client name or abbreviation for the DB prefix, eg `ph` or `acme`.
 
