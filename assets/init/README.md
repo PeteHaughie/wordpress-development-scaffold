@@ -46,10 +46,6 @@ PHP debugging is provided via XDebug and requires a little bit of set-up.
 
 If you start to get network issues then you can run `docker network ls` to see what networks are currently running and stop them.
 
-## Looking for Help
-
-Obviously this is built for Mac and Linux as it currently stands - 
-
 ## Donations
 
 If you find this boilerplate useful consider buying me a coffee: https://www.paypal.com/donate/?hosted_button_id=FA5Z4XMVJ6KZC
